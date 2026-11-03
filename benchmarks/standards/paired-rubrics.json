@@ -1,0 +1,2178 @@
+{
+  "questions": [
+    {
+      "query_id": "ZH-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-001:p0015:c000251-000267:9150596b99ba"
+                      ],
+                      [
+                        "STD-001:p0015:c000251-000265:53dd6dfc497e"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-001:p0015:c000298-000318:82f25a35cf46"
+                      ],
+                      [
+                        "STD-001:p0015:c000298-000316:025ee97005ad"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-001:p0015:c000349-000377:03909f19b00d"
+                      ],
+                      [
+                        "STD-001:p0015:c000349-000375:5ba802849f1b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ZH-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-001:p0017:c000367-000409:3c41dc514b54"
+                      ],
+                      [
+                        "STD-001:p0029:c000143-000211:69dca7e7de80"
+                      ],
+                      [
+                        "STD-001:p0063:c000067-000217:932afe236cb7"
+                      ],
+                      [
+                        "STD-001:p0017:c000367-000407:46e053e7c520"
+                      ],
+                      [
+                        "STD-001:p0029:c000143-000209:1874d921e387"
+                      ],
+                      [
+                        "STD-001:p0063:c000067-000215:f423da5fd166"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-001:p0029:c000143-000211:69dca7e7de80"
+                      ],
+                      [
+                        "STD-001:p0063:c000067-000217:932afe236cb7"
+                      ],
+                      [
+                        "STD-001:p0029:c000143-000209:1874d921e387"
+                      ],
+                      [
+                        "STD-001:p0063:c000067-000215:f423da5fd166"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ZH-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-001:p0023:c000030-000148:41270e7083bd"
+                      ],
+                      [
+                        "STD-001:p0023:c000030-000146:c00588c02fd5"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-001:p0023:c000149-000191:ee84848b6ac8"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ZH-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-015:p0012:c000621-000664:7192a8e06adb"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-015:p0015:c000274-000380:27343e23e775"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-015:p0015:c000419-000460:63bab0643ad5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ZH-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-014:p0030:c000413-000483:e87e89783bd7"
+                      ],
+                      [
+                        "STD-014:p0030:c000413-000482:760c860cbcc9"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-014:p0030:c000489-000590:f4b1d1f6d511"
+                      ],
+                      [
+                        "STD-014:p0030:c000489-000589:7dc3a5307fce"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-014:p0030:c000622-000701:2e53f2e8f5e7"
+                      ],
+                      [
+                        "STD-014:p0030:c000622-000700:d42da65179c6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "DE-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "scope",
+          "points": [
+            "measurements",
+            "scope"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "din_scope",
+              "components": {
+                "measurements": [
+                  {
+                    "component_id": "measurements.1",
+                    "supports": [
+                      [
+                        "STD-012:p0008:c000573-000689:8892aa9c981c"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "measurements.2",
+                    "supports": [
+                      [
+                        "STD-012:p0008:c000695-001024:f8b2481783c7"
+                      ],
+                      [
+                        "STD-012:p0008:c000695-001023:1550ca22442e"
+                      ]
+                    ]
+                  }
+                ],
+                "scope": [
+                  {
+                    "component_id": "scope.1",
+                    "supports": [
+                      [
+                        "STD-012:p0008:c001026-001220:626a7441fb08"
+                      ],
+                      [
+                        "STD-012:p0008:c001026-001219:c8817e9f6a7e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "DE-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "rate",
+          "points": [
+            "rate",
+            "check"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "din_rate",
+              "components": {
+                "check": [
+                  {
+                    "component_id": "check.1",
+                    "supports": [
+                      [
+                        "STD-012:p0025:c003575-003664:9a03308ff1e4"
+                      ],
+                      [
+                        "STD-012:p0025:c003575-003663:547281d939a6"
+                      ]
+                    ]
+                  }
+                ],
+                "rate": [
+                  {
+                    "component_id": "rate.1",
+                    "supports": [
+                      [
+                        "STD-012:p0025:c003421-003574:a0cb60aecfaa"
+                      ],
+                      [
+                        "STD-012:p0025:c003421-003573:79dcc8547f67"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "DE-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "dissipation",
+          "points": [
+            "recording",
+            "exception",
+            "sampling",
+            "duration"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "din",
+              "components": {
+                "duration": [
+                  {
+                    "component_id": "duration.1",
+                    "supports": [
+                      [
+                        "STD-012:p0027:c000951-001216:ec806adc4d65"
+                      ],
+                      [
+                        "STD-012:p0027:c000951-001215:e04a705a55e0"
+                      ]
+                    ]
+                  }
+                ],
+                "exception": [
+                  {
+                    "component_id": "exception.1",
+                    "supports": [
+                      [
+                        "STD-012:p0027:c000156-000474:9ee00d001824"
+                      ],
+                      [
+                        "STD-012:p0027:c000156-000473:cb3bd45d8d1a"
+                      ]
+                    ]
+                  }
+                ],
+                "recording": [
+                  {
+                    "component_id": "recording.1",
+                    "supports": [
+                      [
+                        "STD-012:p0026:c003245-003313:f24c3b554295"
+                      ],
+                      [
+                        "STD-012:p0026:c003245-003312:47d1532db202"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "recording.2",
+                    "supports": [
+                      [
+                        "STD-012:p0026:c003408-003468:42d0f915a9ab"
+                      ],
+                      [
+                        "STD-012:p0026:c003408-003467:2431b77c7e35"
+                      ]
+                    ]
+                  }
+                ],
+                "sampling": [
+                  {
+                    "component_id": "sampling.1",
+                    "supports": [
+                      [
+                        "STD-012:p0027:c000752-000949:c87318655d67"
+                      ],
+                      [
+                        "STD-012:p0027:c000752-000948:354141eae8bf"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "DE-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "preparation",
+          "points": [
+            "saturation",
+            "fluid_conditions"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "din_iso",
+              "components": {
+                "fluid_conditions": [
+                  {
+                    "component_id": "fluid_conditions.1",
+                    "supports": [
+                      [
+                        "STD-012:p0025:c000485-000870:86c086f5a7db"
+                      ],
+                      [
+                        "STD-012:p0025:c000485-000869:5550cf6663d7"
+                      ]
+                    ]
+                  }
+                ],
+                "saturation": [
+                  {
+                    "component_id": "saturation.1",
+                    "supports": [
+                      [
+                        "STD-012:p0025:c000194-000483:d0d793f034b9"
+                      ],
+                      [
+                        "STD-012:p0025:c000194-000482:23f685590286"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "DE-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "method",
+            "action"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "din_rotate",
+              "components": {
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "STD-012:p0035:c000928-001032:0bf137454c58"
+                      ],
+                      [
+                        "STD-012:p0035:c000928-001031:85ac637c3cb3"
+                      ]
+                    ]
+                  }
+                ],
+                "method": [
+                  {
+                    "component_id": "method.1",
+                    "supports": [
+                      [
+                        "STD-012:p0035:c000359-000488:6b8ca06de916",
+                        "STD-012:p0035:c000494-000609:1a76a86dff9a"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "din_roll",
+              "components": {
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "STD-012:p0035:c000928-001032:0bf137454c58"
+                      ],
+                      [
+                        "STD-012:p0035:c000928-001031:85ac637c3cb3"
+                      ]
+                    ]
+                  }
+                ],
+                "method": [
+                  {
+                    "component_id": "method.1",
+                    "supports": [
+                      [
+                        "STD-012:p0035:c000359-000488:6b8ca06de916",
+                        "STD-012:p0035:c000615-000748:296dbf67a98b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "din_tube",
+              "components": {
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "STD-012:p0035:c000928-001032:0bf137454c58"
+                      ],
+                      [
+                        "STD-012:p0035:c000928-001031:85ac637c3cb3"
+                      ]
+                    ]
+                  }
+                ],
+                "method": [
+                  {
+                    "component_id": "method.1",
+                    "supports": [
+                      [
+                        "STD-012:p0035:c000359-000488:6b8ca06de916",
+                        "STD-012:p0035:c000753-000926:9a7f6a11bc25"
+                      ],
+                      [
+                        "STD-012:p0035:c000359-000488:6b8ca06de916",
+                        "STD-012:p0035:c000753-000925:1bb7b5dc3fef"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "KO-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-040:p0005:c000376-000459:b814cee627a7"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-040:p0005:c000474-000543:e99ccea979a6"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-040:p0005:c000558-000606:a4c37d357183"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "KO-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3",
+            "need_4"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-040:p0008:c000273-000418:26dd45176a56"
+                      ],
+                      [
+                        "STD-040:p0008:c000273-000417:09198c37d2f7"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-040:p0008:c000419-000543:f8d0ceb0903b"
+                      ],
+                      [
+                        "STD-040:p0008:c000419-000542:1f9b0dd0db7b"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-040:p0008:c000865-000959:6a6ccd9ad087"
+                      ],
+                      [
+                        "STD-040:p0008:c000865-000958:9b6b30c3c39f"
+                      ]
+                    ]
+                  }
+                ],
+                "need_4": [
+                  {
+                    "component_id": "need_4.1",
+                    "supports": [
+                      [
+                        "STD-040:p0010:c000803-000872:4ab2645a215f"
+                      ],
+                      [
+                        "STD-040:p0010:c000803-000871:42fce73dadb5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "KO-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-040:p0009:c000609-000699:0acbbf1d1d24"
+                      ],
+                      [
+                        "STD-040:p0009:c000609-000698:44ba4cefe9f3"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-040:p0009:c000700-000817:aaf8292efb51"
+                      ],
+                      [
+                        "STD-040:p0009:c000700-000816:b3fa8c4387e6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "KO-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-040:p0010:c000593-000721:834e57ecce43"
+                      ],
+                      [
+                        "STD-040:p0010:c000593-000720:5e24cc2d379f"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-040:p0010:c000873-000983:71cdb0e81144"
+                      ],
+                      [
+                        "STD-040:p0010:c000873-000982:636eda94720a"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-040:p0010:c000984-001065:9f0113685fa0"
+                      ],
+                      [
+                        "STD-040:p0010:c000984-001064:0f78231d4a4c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "KO-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3",
+            "need_4"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-040:p0012:c000388-000479:79114062c9c2"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-040:p0012:c000490-000571:066103b3ad80"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-040:p0012:c000572-000674:aa9f45723096"
+                      ]
+                    ]
+                  }
+                ],
+                "need_4": [
+                  {
+                    "component_id": "need_4.1",
+                    "supports": [
+                      [
+                        "STD-040:p0012:c000675-000732:c264cc3f7a3b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "VI-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-004:p0005:c000367-000478:760e792cf487"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "VI-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3",
+            "need_4"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-004:p0011:c001184-001370:746acdcfb09a"
+                      ],
+                      [
+                        "STD-004:p0011:c001184-001369:cfcb405c72cc"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-004:p0011:c001376-001485:5acb31e19a79"
+                      ],
+                      [
+                        "STD-004:p0011:c001376-001484:a4d0aece08c6"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-004:p0011:c001486-001675:2e83fb2af40f"
+                      ],
+                      [
+                        "STD-004:p0011:c001486-001674:764b2df2b587"
+                      ]
+                    ]
+                  }
+                ],
+                "need_4": [
+                  {
+                    "component_id": "need_4.1",
+                    "supports": [
+                      [
+                        "STD-004:p0011:c001676-001814:96400d0e45f0"
+                      ],
+                      [
+                        "STD-004:p0011:c001676-001813:e3916b05fae2"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "VI-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-005:p0011:c001479-001710:25fb0b7b2ae8"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-005:p0011:c001711-001906:86d436397c25"
+                      ],
+                      [
+                        "STD-005:p0011:c001711-001905:1923988c60dc"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-005:p0011:c001907-002234:2c574cf85674"
+                      ],
+                      [
+                        "STD-005:p0011:c001907-002233:dff220b0a083"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "VI-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-005:p0011:c000518-000709:27e2d5096ae0"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-005:p0011:c000950-001128:3c5350c2cce8"
+                      ],
+                      [
+                        "STD-005:p0011:c000950-001127:67b237fab761"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-005:p0011:c001136-001405:cff1123e23ac"
+                      ],
+                      [
+                        "STD-005:p0011:c001136-001404:570057de0b8c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "VI-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-005:p0012:c001072-001167:d215cf4809b2"
+                      ],
+                      [
+                        "STD-005:p0012:c001072-001166:3f714b117526"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-004:p0011:c001376-001485:5acb31e19a79"
+                      ],
+                      [
+                        "STD-004:p0011:c001376-001484:a4d0aece08c6"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-005:p0012:c001322-001535:23de9fbfef31"
+                      ],
+                      [
+                        "STD-005:p0012:c001322-001534:9d170b1c9d51"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "PT-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-006:p0008:c000111-000455:6c31b4d23c97"
+                      ],
+                      [
+                        "STD-006:p0008:c000111-000454:9a1696d84ce7"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "PT-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-006:p0008:c000946-001165:8bf27ab296b7"
+                      ],
+                      [
+                        "STD-006:p0008:c000946-001164:3548551bef24"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-006:p0008:c001448-001773:baf77e9cc66f"
+                      ],
+                      [
+                        "STD-006:p0008:c001448-001772:5b666547c312"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-006:p0009:c000265-000434:05c425fef95f"
+                      ],
+                      [
+                        "STD-006:p0009:c000265-000433:8111bf94bce5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "PT-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-006:p0009:c000030-000258:2e6c842c5c23"
+                      ],
+                      [
+                        "STD-006:p0009:c000030-000257:7a771dcc8f9d"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-006:p0009:c000941-001544:79744306c177"
+                      ],
+                      [
+                        "STD-006:p0009:c000941-001543:847fd435c53a"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-006:p0009:c001555-001681:98175ef31141"
+                      ],
+                      [
+                        "STD-006:p0009:c001555-001680:d4e9350a087a"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "PT-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-006:p0010:c000144-000326:4bb2e191ae11"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-006:p0010:c000337-000597:998ea7b259b6"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-006:p0010:c000608-000879:4c3de9196d8c"
+                      ],
+                      [
+                        "STD-006:p0010:c000608-000878:7e5686422d1f"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "PT-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-034:p0007:c002425-002647:42e21b021fdc"
+                      ],
+                      [
+                        "STD-034:p0007:c002425-002646:8f670f298e15"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-034:p0007:c002649-002770:723ef79b08c1"
+                      ],
+                      [
+                        "STD-034:p0007:c002649-002769:55d5a501cb6f"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-034:p0007:c003009-003162:9b570ec57108"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ES-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-007:p0146:c001291-001524:88a3b65fba07"
+                      ],
+                      [
+                        "STD-007:p0146:c001291-001523:6f00eefa905a"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-007:p0146:c001534-001882:0377d539a19b"
+                      ],
+                      [
+                        "STD-007:p0146:c001534-001881:c82cceb08722"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-007:p0146:c001890-002157:a9b16da5151b"
+                      ],
+                      [
+                        "STD-007:p0146:c001890-002156:36430b67bd47"
+                      ],
+                      [
+                        "STD-007:p0146:c001982-002075:9fc5819a1f17"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ES-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-007:p0153:c000353-000759:a00bd89c845b"
+                      ],
+                      [
+                        "STD-007:p0153:c000353-000758:19d912d9479d"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-007:p0153:c000764-001046:88bc2260a226"
+                      ],
+                      [
+                        "STD-007:p0153:c000764-001045:5a8dad097f9c"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-007:p0153:c001051-001367:aab2218c1910"
+                      ],
+                      [
+                        "STD-007:p0153:c001051-001366:5cf2ab0883c6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ES-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-007:p0156:c001671-001821:be3f56e67185"
+                      ],
+                      [
+                        "STD-007:p0156:c001671-001820:04e62d1ab1a7"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-007:p0156:c001822-002021:e7a14f2b831d"
+                      ],
+                      [
+                        "STD-007:p0156:c001822-002020:72a1ecc57678"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ES-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-007:p0147:c001854-002039:25aabd56eadd"
+                      ],
+                      [
+                        "STD-007:p0147:c001854-002038:1ac353d9376b"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-007:p0153:c001371-001499:a7df4b3825cb"
+                      ],
+                      [
+                        "STD-007:p0153:c001371-001498:6b9233da556d"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "ES-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-007:p0143:c000307-000730:873e9f468518"
+                      ],
+                      [
+                        "STD-007:p0143:c000307-000729:73c22980e52a"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-007:p0143:c000732-001024:13813832c215"
+                      ],
+                      [
+                        "STD-007:p0143:c000732-001023:f3e95daaf1d5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "NO-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-008:p0042:c002600-002866:754bd101c240"
+                      ],
+                      [
+                        "STD-008:p0042:c002600-002865:79a6ec26a940"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "NO-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-008:p0043:c000000-000143:d606e0ca7233"
+                      ],
+                      [
+                        "STD-008:p0043:c000000-000142:f9e8741d9432"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-008:p0043:c000144-000293:605298cf8bb8"
+                      ],
+                      [
+                        "STD-008:p0043:c000144-000292:87c79c687bc6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "NO-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-008:p0049:c001422-001677:85ace5818133"
+                      ],
+                      [
+                        "STD-008:p0049:c001422-001676:cd0f90690f37"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-008:p0049:c001679-001933:e746c9676967"
+                      ],
+                      [
+                        "STD-008:p0049:c001679-001932:fb3049641a4e"
+                      ],
+                      [
+                        "STD-008:p0049:c001679-001780:c732ba85eda6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "NO-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-008:p0043:c000295-000580:88c19f0a2c11"
+                      ],
+                      [
+                        "STD-008:p0043:c000295-000579:1b3476907e84"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "NO-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-008:p0086:c000177-000259:9ee462c7db95"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-008:p0086:c000313-000407:9356c618e0c7"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-008:p0085:c001088-001277:97648e2b5557"
+                      ],
+                      [
+                        "STD-008:p0085:c001088-001276:e940ec9ca0e4"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "SV-01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-036:p0064:c000505-000699:474e32f31c1c"
+                      ],
+                      [
+                        "STD-036:p0064:c000505-000698:895fb6a14e98"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-036:p0064:c002656-002765:4fcba9fee329"
+                      ],
+                      [
+                        "STD-036:p0064:c002656-002764:6e6a0a0ea5cc"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "SV-02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-036:p0066:c000674-000924:3fb68fad818a"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-036:p0066:c001270-001347:710745110ca1"
+                      ],
+                      [
+                        "STD-036:p0066:c001270-001346:243b09c0e9b5"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-036:p0066:c001348-001451:e314f332558a"
+                      ],
+                      [
+                        "STD-036:p0066:c001348-001450:5fc662ea4188"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "SV-03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-036:p0068:c000694-000937:e529f417a7e6"
+                      ],
+                      [
+                        "STD-036:p0068:c000694-000936:4a95205cb46f"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-036:p0068:c001018-001288:d564fb26cd77"
+                      ],
+                      [
+                        "STD-036:p0068:c001018-001287:f75eb0fb3fd6"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-036:p0068:c001487-001653:9d629ffbed8f"
+                      ],
+                      [
+                        "STD-036:p0068:c001487-001652:663a0ed3ca49"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "SV-04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1",
+            "need_2",
+            "need_3"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-036:p0070:c000277-000488:1b2fbb9a2bdd"
+                      ]
+                    ]
+                  }
+                ],
+                "need_2": [
+                  {
+                    "component_id": "need_2.1",
+                    "supports": [
+                      [
+                        "STD-036:p0070:c000489-000590:f080c489f4eb"
+                      ],
+                      [
+                        "STD-036:p0070:c000489-000589:f155b4439c50"
+                      ]
+                    ]
+                  }
+                ],
+                "need_3": [
+                  {
+                    "component_id": "need_3.1",
+                    "supports": [
+                      [
+                        "STD-036:p0070:c000685-000861:f6b774963bf3"
+                      ],
+                      [
+                        "STD-036:p0070:c000685-000860:ed7be6f3259c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "SV-05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "requested_information",
+          "points": [
+            "need_1"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "specified_native_sources",
+              "components": {
+                "need_1": [
+                  {
+                    "component_id": "need_1.1",
+                    "supports": [
+                      [
+                        "STD-036:p0067:c001278-001487:5811a55aa692"
+                      ],
+                      [
+                        "STD-036:p0067:c001278-001486:a7468fae679b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

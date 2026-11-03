@@ -1,0 +1,484 @@
+{
+  "questions": [
+    {
+      "query_id": "S01",
+      "task": "T1",
+      "language": "en",
+      "query": "According to ISO 22476-1:2012, what measurements distinguish electrical CPT from CPTU, and does its scope include testing without sleeve-friction measurement?"
+    },
+    {
+      "query_id": "S02",
+      "task": "T1",
+      "language": "en",
+      "query": "What penetration rate does ISO 22476-1:2012 specify for a standard cone penetration test, and how is the rate checked?"
+    },
+    {
+      "query_id": "S03",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ISO 22476-1:2012, what information is needed to correct measured cone resistance for pore-pressure effects, and how should the net area ratio be established?"
+    },
+    {
+      "query_id": "S04",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ASTM D5778-20, what cone and sleeve readings should be paired when calculating friction ratio, and what cautions apply in alternating soft and hard layers?"
+    },
+    {
+      "query_id": "S05",
+      "task": "T3",
+      "language": "en",
+      "query": "I have a CPTu profile in soft clay but no local strength calibration. Find standards or guidance on what supporting tests or calibration are needed before using CPT-derived undrained shear strength."
+    },
+    {
+      "query_id": "S06",
+      "task": "T3",
+      "language": "en",
+      "query": "For clean, rounded, uncemented quartz sand, find a standard or engineering guide giving a CPT-based relation for effective friction angle, together with its inputs and stated applicability."
+    },
+    {
+      "query_id": "S07",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve the penetration-rate provisions in ISO 22476-1:2012 and ASTM D5778-20, including what each says about reducing speed to protect the equipment."
+    },
+    {
+      "query_id": "S08",
+      "task": "T4",
+      "language": "en",
+      "query": "What do DNVGL-RP-C212 (2017, amended 2019) and the Caltrans CPT Design Parameter Correlations guide (September 2023) each say about calibrating CPT-based undrained shear strength using laboratory data, including the location of supporting samples or borings?"
+    },
+    {
+      "query_id": "S09",
+      "task": "T1",
+      "language": "en",
+      "query": "Under ISO 22476-1:2012, is a friction reducer permitted, and what clearance must be maintained behind the cone before it is introduced?"
+    },
+    {
+      "query_id": "S10",
+      "task": "T1",
+      "language": "en",
+      "query": "What reference level and measurement resolution does ISO 22476-1:2012 require when registering penetration length?"
+    },
+    {
+      "query_id": "S11",
+      "task": "T1",
+      "language": "en",
+      "query": "According to the Caltrans CPT guide (September 2023), may parameters with low correlation reliability be used for final design?"
+    },
+    {
+      "query_id": "S12",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ISO 22476-1:2012, retrieve the dissipation-test requirements for recorded quantities, rod clamping and its exception, initial logging frequency, and normal minimum duration."
+    },
+    {
+      "query_id": "S13",
+      "task": "T2",
+      "language": "en",
+      "query": "For an offshore investigation using PCPT in sand, retrieve DNVGL-RP-C212 (2017, amended 2019) guidance on laboratory friction-angle tests, the density and stress conditions those tests should represent, and how the data programme is related to foundation design."
+    },
+    {
+      "query_id": "S14",
+      "task": "T2",
+      "language": "en",
+      "query": "What records and identification does MBIE/NZGS Module 2 (2021) call for to make a CPT cone calibration traceable, including the sensor calibration values and net area ratio?"
+    },
+    {
+      "query_id": "S15",
+      "task": "T3",
+      "language": "en",
+      "query": "I need CPT measurements in very soft soil. Find a testing standard defining an appropriate application class, the required cone-test type, and any caution about using that class in alternating soft and dense layers."
+    },
+    {
+      "query_id": "S16",
+      "task": "T3",
+      "language": "en",
+      "query": "A CPT sounding has been stopped by an obstruction and the crew plans to bore through it. Find testing guidance on what must be recorded about the obstruction and the prebored hole."
+    },
+    {
+      "query_id": "S17",
+      "task": "T3",
+      "language": "en",
+      "query": "Find CPTu testing guidance on obtaining equilibrium groundwater information from a dissipation test, including why the test may take a long time in fine-grained low-permeability soils and whether early termination is allowed."
+    },
+    {
+      "query_id": "S18",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve the friction-reducer placement requirements in ISO 22476-1:2012 and ASTM D5778-20, retaining any distinction between cone sizes."
+    },
+    {
+      "query_id": "S19",
+      "task": "T4",
+      "language": "en",
+      "query": "What do ISO 22476-1:2012 and ASTM D5778-20 each require after a sounding regarding final reference or baseline readings, acceptable drift, and treatment of results when the drift limit is exceeded?"
+    },
+    {
+      "query_id": "S20",
+      "task": "T4",
+      "language": "en",
+      "query": "Compare ASTM D5778-20 and MBIE/NZGS Module 2 (2021) guidance on deciding how often to recalibrate CPT cones and what happens after repair."
+    },
+    {
+      "query_id": "S21",
+      "task": "T1",
+      "language": "en",
+      "query": "What nominal cone apex angle, base area and diameter does ISO 22476-1:2012 specify?"
+    },
+    {
+      "query_id": "S22",
+      "task": "T1",
+      "language": "en",
+      "query": "What does ISO 22476-1:2012 say about replacing the porous filter between CPTu tests?"
+    },
+    {
+      "query_id": "S23",
+      "task": "T1",
+      "language": "en",
+      "query": "Does ISO 22476-1:2012 allow raw sensor data to be retained, and why is this preferable?"
+    },
+    {
+      "query_id": "S24",
+      "task": "T1",
+      "language": "en",
+      "query": "For which application classes does ISO 22476-1:2012 require clock time to be included in CPT logging?"
+    },
+    {
+      "query_id": "S25",
+      "task": "T1",
+      "language": "en",
+      "query": "What use of CPT results is permitted for application class 4 in ISO 22476-1:2012, and does it support interpreting engineering parameters?"
+    },
+    {
+      "query_id": "S26",
+      "task": "T1",
+      "language": "en",
+      "query": "Does ASTM D3441-25 recommend mechanical CPT for liquefaction investigations or investigations needing high quality assurance?"
+    },
+    {
+      "query_id": "S27",
+      "task": "T1",
+      "language": "en",
+      "query": "Under ASTM D3441-25, what weight correction is needed to improve mechanical CPT accuracy at low thrust resistance?"
+    },
+    {
+      "query_id": "S28",
+      "task": "T1",
+      "language": "en",
+      "query": "What action does ASTM D3441-25 require when the telescoping mechanical cone develops jamming that cannot be corrected?"
+    },
+    {
+      "query_id": "S29",
+      "task": "T1",
+      "language": "en",
+      "query": "When does the Caltrans September 2023 CPT module allow correlated shear-wave velocity to be used instead of direct measurement?"
+    },
+    {
+      "query_id": "S30",
+      "task": "T1",
+      "language": "en",
+      "query": "What restriction does the Caltrans September 2023 CPT module place on using CPT-derived compression indices for final design?"
+    },
+    {
+      "query_id": "S31",
+      "task": "T1",
+      "language": "en",
+      "query": "Even where the OCR correlation is rated highly, what verification does the Caltrans September 2023 CPT module recommend before final-design use?"
+    },
+    {
+      "query_id": "S32",
+      "task": "T1",
+      "language": "en",
+      "query": "Why does DNVGL-RP-C212 (2017, amended 2019) identify T-bar testing as particularly useful relative to CPT for shallow soft-clay pipeline investigations?"
+    },
+    {
+      "query_id": "S33",
+      "task": "T1",
+      "language": "en",
+      "query": "For skirt-penetration assessment in overconsolidated soil, how deep does DNVGL-RP-C212 (2017, amended 2019) say PCPT tests should extend?"
+    },
+    {
+      "query_id": "S34",
+      "task": "T1",
+      "language": "en",
+      "query": "What maximum reading interval does ASTM D5778-20 give for penetration measurements, and what finer intervals may improve resolution?"
+    },
+    {
+      "query_id": "S35",
+      "task": "T1",
+      "language": "en",
+      "query": "What consistency requirement does the Caltrans September 2023 CPT module place on software that directly outputs correlated geotechnical parameters?"
+    },
+    {
+      "query_id": "S36",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ISO 22476-1:2012, retrieve the CPTu saturation preparation and retention requirements, including how the recommended liquid differs between saturated soil and dry or dilative conditions."
+    },
+    {
+      "query_id": "S37",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ISO 22476-1:2012, which zero readings must be recorded before CPT, and what loading and temperature conditions should apply when taking them?"
+    },
+    {
+      "query_id": "S38",
+      "task": "T2",
+      "language": "en",
+      "query": "Retrieve the ISO 22476-1:2012 stopping conditions covering target depth, inclination, thrust or sensor capacity, and possible equipment damage."
+    },
+    {
+      "query_id": "S39",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ISO 22476-1:2012, how does independent penetration-length checking differ between application class 1 and the other classes, and may the depth sensor be used for that check?"
+    },
+    {
+      "query_id": "S40",
+      "task": "T2",
+      "language": "en",
+      "query": "Retrieve ISO 22476-1:2012 guidance on the regular calibration interval, circumstances for changing that interval, and which parts of the measurement chain should be included."
+    },
+    {
+      "query_id": "S41",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ASTM D5778-20, find the precautions for preserving pore-pressure response after crossing an unsaturated layer and the restriction on taking baseline readings with a protective membrane."
+    },
+    {
+      "query_id": "S42",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ASTM D5778-20, how do push-rod loading and recorded quantities during dissipation testing depend on the pore-pressure filter location?"
+    },
+    {
+      "query_id": "S43",
+      "task": "T2",
+      "language": "en",
+      "query": "Retrieve MBIE/NZGS Module 2 (2021) cautions about CPT liquefaction assessment in pumice-rich soils, the reason conventional correlations can mislead, and the suggested verification approach."
+    },
+    {
+      "query_id": "S44",
+      "task": "T2",
+      "language": "en",
+      "query": "Under MBIE/NZGS Module 2 (2021), what two prerequisites are needed for correcting qc to qt, and how does the importance of the correction differ between granular and clayey soils?"
+    },
+    {
+      "query_id": "S45",
+      "task": "T2",
+      "language": "en",
+      "query": "For offshore piles, retrieve DNVGL-RP-C212 (2017, amended 2019) guidance on sampling/PCPT depth and on defining a layer expected to supply substantial pile end bearing."
+    },
+    {
+      "query_id": "S46",
+      "task": "T2",
+      "language": "en",
+      "query": "In the WSDOT manual chapter on engineering properties, retrieve the restrictions on extrapolating correlations and the evidence accepted for establishing local formation-specific correlations."
+    },
+    {
+      "query_id": "S47",
+      "task": "T2",
+      "language": "en",
+      "query": "Retrieve MBIE/NZGS Module 2 (2021) guidance on recording baseline error, its general and soft-soil limits, and field temperature stabilisation before starting a CPT."
+    },
+    {
+      "query_id": "S48",
+      "task": "T2",
+      "language": "en",
+      "query": "Under ASTM D3441-25, what duration of an operational delay is treated as an interruption, and what records and subsequent treatment of affected readings are called for?"
+    },
+    {
+      "query_id": "S49",
+      "task": "T2",
+      "language": "en",
+      "query": "Retrieve the Hong Kong Port Works Design Manual Part 3 guidance on using CPT for fill densification checks in roads, drains and box-culvert areas, retaining the status of the quoted target and its depth-profile caution."
+    },
+    {
+      "query_id": "S50",
+      "task": "T2",
+      "language": "en",
+      "query": "Retrieve DNVGL-RP-C212 (2017, amended 2019) guidance on laboratory strength tests for clay, intact/remoulded states, and using nearby samples to calibrate PCPT-based undrained strength."
+    },
+    {
+      "query_id": "S51",
+      "task": "T3",
+      "language": "en",
+      "query": "We need to place a new CPT near previous soundings and a borehole. Find testing guidance on separation distances and circumstances requiring extra separation."
+    },
+    {
+      "query_id": "S52",
+      "task": "T3",
+      "language": "en",
+      "query": "A CPT setup has exposed rods above ground and may work through water or very soft layers. Find guidance on rod support to reduce buckling in these situations."
+    },
+    {
+      "query_id": "S53",
+      "task": "T3",
+      "language": "en",
+      "query": "A CPT cone and sleeve pass dimensional checks, but look scratched, unevenly worn or unusually rough. Find testing requirements relevant to whether they may still be used."
+    },
+    {
+      "query_id": "S54",
+      "task": "T3",
+      "language": "en",
+      "query": "We want enlarged CPT plots for detailed interpretation in clay. Find guidance on using non-standard plot scales and whether a standard-scale presentation is still needed."
+    },
+    {
+      "query_id": "S55",
+      "task": "T3",
+      "language": "en",
+      "query": "We need a practical pre-test check for bent CPT push rods. Find at least one acceptable checking method and what to do when bending is detected."
+    },
+    {
+      "query_id": "S56",
+      "task": "T3",
+      "language": "en",
+      "query": "We have mechanical CPT records but a soil-property correlation developed for electrical cones. Find guidance addressing whether these records can be used interchangeably."
+    },
+    {
+      "query_id": "S57",
+      "task": "T3",
+      "language": "en",
+      "query": "Very soft fine-grained layers are important at our site. Find CPT guidance about selecting a cone measurement capacity to improve accuracy in these layers."
+    },
+    {
+      "query_id": "S58",
+      "task": "T3",
+      "language": "en",
+      "query": "Our CPT shows a thin sand layer between softer soils. Find guidance explaining why measurements near the interfaces may not represent the individual layers."
+    },
+    {
+      "query_id": "S59",
+      "task": "T3",
+      "language": "en",
+      "query": "CPT-based liquefaction analysis indicates a significant problem, but the inferred fines content is uncertain. Find guidance on checking the fines content and establishing a site-specific correlation."
+    },
+    {
+      "query_id": "S60",
+      "task": "T3",
+      "language": "en",
+      "query": "An offshore gravity-base foundation may be sensitive to shallow weak layers as well as deeper settlement. Find investigation guidance combining PCPT with borings for these different concerns."
+    },
+    {
+      "query_id": "S61",
+      "task": "T3",
+      "language": "en",
+      "query": "Early offshore investigations show large differences in layer thickness and strength across the site. Find guidance on adjusting the number of borings and in-situ test locations."
+    },
+    {
+      "query_id": "S62",
+      "task": "T3",
+      "language": "en",
+      "query": "We have only one CPT-derived property estimate in a geological unit. Find guidance on how many measurements should underpin a correlation-based design-property estimate and why."
+    },
+    {
+      "query_id": "S63",
+      "task": "T3",
+      "language": "en",
+      "query": "After passing through dry soil or dilative sand, our CPTu pore-pressure response looks unreliable. Find guidance identifying the possible saturation problem and a preparation or field check that can help."
+    },
+    {
+      "query_id": "S64",
+      "task": "T3",
+      "language": "en",
+      "query": "We are considering estimating shear-wave velocity from CPT because direct measurements are unavailable. Find guidance that identifies when such substitution is acceptable and what is preferred."
+    },
+    {
+      "query_id": "S65",
+      "task": "T3",
+      "language": "en",
+      "query": "A CPTu trace changes immediately after a dissipation pause. Find testing guidance on restart effects and what should be recorded to help interpret them."
+    },
+    {
+      "query_id": "S66",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ISO 22476-1:2012 and ASTM D5778-20 requirements on friction-sleeve wear checks and rejection or replacement, keeping each standard separate."
+    },
+    {
+      "query_id": "S67",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ISO 22476-1:2012 and MBIE/NZGS Module 2 (2021) guidance on temperature stabilisation before taking initial CPT baseline readings."
+    },
+    {
+      "query_id": "S68",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ISO 22476-1:2012 and ASTM D5778-20 guidance on rod loading and quantities recorded during dissipation, retaining any exceptions and filter-location distinctions."
+    },
+    {
+      "query_id": "S69",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve the normal penetration rate and the stated grounds for reducing it in ASTM D3441-25 and ASTM D5778-20."
+    },
+    {
+      "query_id": "S70",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve Caltrans September 2023 and MBIE/NZGS Module 2 (2021) guidance on companion borings for CPT correlation checks, preserving their different location, frequency and project-context qualifications."
+    },
+    {
+      "query_id": "S71",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ASTM D3441-25 cautions on using mechanical data with electrical-cone correlations, and Caltrans September 2023 guidance on the consistency of parameter-output software with its recommended equations."
+    },
+    {
+      "query_id": "S72",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ISO 22476-1:2012 guidance on reporting measurements collected more frequently than required, and ASTM D5778-20 guidance on the maximum and finer reading intervals."
+    },
+    {
+      "query_id": "S73",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve Caltrans September 2023 restrictions on final-design use of low-reliability CPT parameters and WSDOT restrictions on applying empirical correlations beyond or near their supporting data range."
+    },
+    {
+      "query_id": "S74",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve DNVGL-RP-C212 (2017, amended 2019) reasons for including continuous in-situ profiles to detect weak layers, and MBIE/NZGS Module 2 (2021) cautions about CPT response at interfaces and thin layers."
+    },
+    {
+      "query_id": "S75",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve Caltrans September 2023 conditions for using Nkt below its typical value, and DNVGL-RP-C212 (2017, amended 2019) guidance on laboratory clay strength references and nearby PCPT calibration samples."
+    },
+    {
+      "query_id": "S76",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ASTM D5778-20 and MBIE/NZGS Module 2 (2021) limits for baseline changes or errors, retaining the reference basis and any soft-soil qualification."
+    },
+    {
+      "query_id": "S77",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ISO 22476-1:2012 and ASTM D3441-25 guidance on routine recalibration frequency and circumstances requiring a different interval or recalibration."
+    },
+    {
+      "query_id": "S78",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve ASTM D5778-20 and MBIE/NZGS Module 2 (2021) statements about how cone size affects sensitivity to thin layers."
+    },
+    {
+      "query_id": "S79",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve Hong Kong Port Works Design Manual Part 3 guidance on CPT checks for densified fill beneath roads, drains and box culverts, and Caltrans September 2023 requirements when CPT correlations are used for project design parameters."
+    },
+    {
+      "query_id": "S80",
+      "task": "T4",
+      "language": "en",
+      "query": "Retrieve Hong Kong Port Works Design Manual Part 3 and WSDOT guidance discussing differences between laboratory and field clay-strength references, including sampling disturbance or stress-condition effects relevant when checking CPT interpretations."
+    }
+  ]
+}

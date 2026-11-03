@@ -1,0 +1,2884 @@
+{
+  "questions": [
+    {
+      "query_id": "V2D-A-01",
+      "base_query_id": "V2D-A-01",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I am reading Kim et al. (2009), Estimating clay undrained shear strength using CPTu results. Is the pore pressure subtracted in the effective cone factor Ne the u2 measured during penetration, or a different pore pressure? How is this input obtained, and under what condition can it be calculated from the water level?"
+    },
+    {
+      "query_id": "V2D-A-02",
+      "base_query_id": "V2D-A-02",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I am reading Bosch et al.'s 2019 paper on dissipation tests. How was the factor 8 obtained, which stage of the pore-pressure measurement is used—penetration or after penetration stops—and what strength conditions does it correspond to? Please return the original passages rather than treating it as a universal constant."
+    },
+    {
+      "query_id": "V2D-A-03",
+      "base_query_id": "V2D-A-03",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Rigatto and Ferreira's 2024 tropical-soil case reports changes of more than about 10%. Do these refer to Su itself or normalized strength? What pore-pressure interpretation did the authors change, and did they use independent strength tests to establish which interpretation was more accurate?"
+    },
+    {
+      "query_id": "V2D-A-04",
+      "base_query_id": "V2D-A-04",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Why does Tanaka et al.'s 2022 Singapore reclamation paper adopt different Nkt values at its two locations? Find the treatment history of each location and the tests or derived quantities used for comparison, distinguishing measured strength from indirectly converted values."
+    },
+    {
+      "query_id": "V2D-A-05",
+      "base_query_id": "V2D-A-05",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I am reading Rios et al.'s 2022 paper on gyttja. How many laboratory tests support the local Nkt of 19.2, and how was it derived? Can the approximately 80,000 CPTU measurement points be treated as that many independent strength-calibration samples? Find passages that distinguish these statistical units."
+    },
+    {
+      "query_id": "V2D-A-06",
+      "base_query_id": "V2D-A-06",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Pedroni and Leahy's Matagami tailings study, what changes were made to the field-vane testing procedure in the later investigation? How did the authors explain the earlier low strengths, and was that explanation established?"
+    },
+    {
+      "query_id": "V2D-A-07",
+      "base_query_id": "V2D-A-07",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "How did Briggs et al.'s weathered-mudstone study pair CPT and UU triaxial measurements and divide the training and test data? Do the reported counts refer to data pairs or independent sites?"
+    },
+    {
+      "query_id": "V2D-A-08",
+      "base_query_id": "V2D-A-08",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Młynarek et al.'s 2018 DMT–CPTU strength study, how was the strength used to assess the DMT relationship obtained? Trace the reference tests used to calibrate CPTU and how DMT and CPTU results were matched in depth."
+    },
+    {
+      "query_id": "V2D-A-09",
+      "base_query_id": "V2D-A-09",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Li et al.'s 2016 Ningbo clay study gives both a fixed pore-pressure cone factor and a Bq-dependent relationship. Which was actually used in the laboratory triaxial comparison, how was that factor obtained, and which laboratory test was used?"
+    },
+    {
+      "query_id": "V2D-A-10",
+      "base_query_id": "V2D-A-10",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In the Halden silt study, which criteria were used to interpret strength from CAUC and DSS tests? Why can the criteria give different strengths for the same material, and how do their limiting-strain definitions differ?"
+    },
+    {
+      "query_id": "V2D-B1-01",
+      "base_query_id": "V2D-B1-01",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have CPTu and UU data for normally consolidated to lightly overconsolidated alluvial fine-grained soil and would like to find studies that select cone factors by soil behaviour index groups. Please also identify which index definition is used, the strength reference, and the grouping limitations to note."
+    },
+    {
+      "query_id": "V2D-B1-02",
+      "base_query_id": "V2D-B1-02",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "The project has very soft lacustrine clay with high water content, and CPTu, UU and unconfined compression data are available. Find local cone-factor statistics for similar conditions, explaining whether the ranges refer to individual depth points, sounding averages or depth-interval averages, and the limitations of matching and representativeness."
+    },
+    {
+      "query_id": "V2D-B1-03",
+      "base_query_id": "V2D-B1-03",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "The site consists of volcanic residual soil, CPTu behaviour classification does not fully agree with grain-size classification, and UU data are available. Find studies of Su interpretation under similar conditions, including the cone-factor basis and discussion of unsaturation, cementation and data limitations, without directly recommending a value for this site."
+    },
+    {
+      "query_id": "V2D-B1-04",
+      "base_query_id": "V2D-B1-04",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In low-plasticity silt with sand layers, conventional-rate CPTu shows local negative excess pore pressures and anomalously high interpreted strengths. I need warnings about strength interpretation in similar cases and the laboratory strength reference for comparison, rather than procedures for adding rapid tests."
+    },
+    {
+      "query_id": "V2D-B1-05",
+      "base_query_id": "V2D-B1-05",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have high-quality block-sample CAUC peak strengths, OCR and sensitivity data and would like to find sensitivity-dependent CPTu strength correlations. Explain the inputs for each route, the target strength, and cautions about group boundaries and extrapolation."
+    },
+    {
+      "query_id": "V2D-B1-06",
+      "base_query_id": "V2D-B1-06",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For very soft varved silty clay, are there engineering cases calibrating CPTu Nkt against nearby field-vane tests? Find the location-specific factors, vane corrections, and discussion of measurement reliability."
+    },
+    {
+      "query_id": "V2D-B1-07",
+      "base_query_id": "V2D-B1-07",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For clay mixtures derived from weathered mudstone, find a local calibration of CPT estimates against UU triaxial strength, including measurement pairing, cone-factor values, and performance on held-out data."
+    },
+    {
+      "query_id": "V2D-B1-08",
+      "base_query_id": "V2D-B1-08",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For marine soils offshore Zhejiang, with consolidated quick direct-shear data and CPTu Ic, find research estimating cone factors from Ic. Identify how the reference strength was constructed, the Ic range, and limitations of the soil-layer coverage."
+    },
+    {
+      "query_id": "V2D-B1-09",
+      "base_query_id": "V2D-B1-09",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For coastal soft clay with shoulder pore-pressure and field-vane data, find a local calibration estimating undrained strength from excess pore pressure. Provide the relationship, reference tests, and evidence of comparison with laboratory tests."
+    },
+    {
+      "query_id": "V2D-B1-10",
+      "base_query_id": "V2D-B1-10",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "A silt profile contains carbonate-cemented and uncemented layers. Find studies comparing their CPTu strength factors with vane or triaxial reference tests, including factor values and their scope of use."
+    },
+    {
+      "query_id": "V2D-B2-01",
+      "base_query_id": "V2D-B2-01",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I only have CPTu profiles and a groundwater level and do not yet know whether subsurface pore pressures are hydrostatic. Find pore-pressure issues worth investigating before interpreting Su, additional observations that could help, and evidence of which strength quantities depend on the pore-pressure assumptions."
+    },
+    {
+      "query_id": "V2D-B2-02",
+      "base_query_id": "V2D-B2-02",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "The available CPTu profiles have no dissipation records. I would like to investigate whether adding stop-penetration dissipation tests could assist Su interpretation. Find what records such routes require, their other parameters and assumptions, and comparisons with existing strength tests; do not choose a coefficient for me yet."
+    },
+    {
+      "query_id": "V2D-B2-03",
+      "base_query_id": "V2D-B2-03",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Strengths interpreted from my CPT vary substantially with depth, and it is not yet clear whether this reflects spatial soil variation, a fixed cone factor or inadequate reference data. Find research on strength variability and reference comparisons, explaining the data needed and which results are only statistics of transformed values."
+    },
+    {
+      "query_id": "V2D-B2-04",
+      "base_query_id": "V2D-B2-04",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For structured clay that may soften after its peak, I do not know whether CPTu-interpreted Su should be compared with peak or later strength. Find studies that help distinguish these strength targets, and distinguish numerical mechanism evidence from tests at real sites."
+    },
+    {
+      "query_id": "V2D-B2-05",
+      "base_query_id": "V2D-B2-05",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For reclaimed soft clay I only have CPTu data, and records of past surcharging, vertical drains and consolidation state are incomplete. Find cases showing which history and tests should be investigated before interpreting local Nkt, explaining which comparison quantities are not directly measured Su."
+    },
+    {
+      "query_id": "V2D-B2-06",
+      "base_query_id": "V2D-B2-06",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In very soft clay, one field-vane result is markedly lower than nearby CPTu-interpreted strength. The cause is unknown. Find research on test reliability supporting a possible investigation route and its uncertainty."
+    },
+    {
+      "query_id": "V2D-B2-07",
+      "base_query_id": "V2D-B2-07",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "The available CPTs and sampling boreholes are widely separated, and I want to calibrate a strength relationship but am unsure how to pair them. Find research discussing pairing distance, usable sample count, and calibration results."
+    },
+    {
+      "query_id": "V2D-B2-08",
+      "base_query_id": "V2D-B2-08",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Nkt values in my materials come from different studies, some using vane tests and others triaxial tests. I am unsure whether they can be compared directly. Find concrete evidence of differences in reference-strength tests or calibration chains to show what needs checking."
+    },
+    {
+      "query_id": "V2D-B2-09",
+      "base_query_id": "V2D-B2-09",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Laboratory shear curves for a silt keep hardening without a clear peak. What evidence should I consult when using them to calibrate CPTu? Find published strength-interpretation approaches and their differences, without selecting a design value for me."
+    },
+    {
+      "query_id": "V2D-B2-10",
+      "base_query_id": "V2D-B2-10",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "If CPTu-derived strength agrees with strength from another in-situ method, does that constitute independent validation? Find an actual study tracing where the comparison strength came from and what must be checked to judge the validation."
+    },
+    {
+      "query_id": "V2D-C-01",
+      "base_query_id": "V2D-C-01",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I remember an effective cone factor method that estimates clay Su from cone resistance minus initial in-situ pore pressure, but I have forgotten the source. Find a source that lets me check the definition, how the pore pressure is obtained, and the calibration test. Do not confuse it with a relation that subtracts penetration pore pressure."
+    },
+    {
+      "query_id": "V2D-C-02",
+      "base_query_id": "V2D-C-02",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have seen a method that interprets Su using the maximum excess pore pressure during dissipation, but I am unsure whether it is the original theory or a site application. Find the original-method attribution in an application paper, the strength conditions, assumptions for simplification, and site comparison evidence."
+    },
+    {
+      "query_id": "V2D-C-03",
+      "base_query_id": "V2D-C-03",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have heard that FINCONE includes CPTu relations that first estimate preconsolidation pressure and then convert it to mobilised strength. Find the conversion actually used, how test results are corrected to obtain mobilised strength, and the data coverage and extrapolation limits."
+    },
+    {
+      "query_id": "V2D-C-04",
+      "base_query_id": "V2D-C-04",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have a table assigning Nkt by Ic intervals, but I did not record how Ic was calculated. Find research showing different Ic definitions and the corresponding factor groups, and indicate what else must be checked before matching a table."
+    },
+    {
+      "query_id": "V2D-C-05",
+      "base_query_id": "V2D-C-05",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I know that the NSP framework can link CPTu interpretations to different modes of Su, but I am unsure of the specific route and conversion assumptions. Find a concrete implementation showing which inputs come from CPTu, which come from tests, and how the target strength modes correspond."
+    },
+    {
+      "query_id": "V2D-C-06",
+      "base_query_id": "V2D-C-06",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I know the database method estimating Nkt using a logarithmic function of Bq. Find the earlier study and subsequent validation on additional sites, identifying its domain, reference-strength tests, and how the later work relates to the original database."
+    },
+    {
+      "query_id": "V2D-C-07",
+      "base_query_id": "V2D-C-07",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have seen a marine-soil method estimating Nkt and Nke with exp(a−bIc), but do not know its source. Trace the formulas, admissible Ic interval, reference-strength tests, and limitations."
+    },
+    {
+      "query_id": "V2D-C-08",
+      "base_query_id": "V2D-C-08",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "There is a method deriving Nkt from the depth gradients of cone resistance and strength. Trace its relationship and input requirements, and find an application showing which test supplied the strength gradient. Can it be used from CPTu alone?"
+    },
+    {
+      "query_id": "V2D-C-09",
+      "base_query_id": "V2D-C-09",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I know of combining cone penetration and expansion tests to estimate clay strength and rigidity index. Find an implementation: what is measured beyond cone resistance, which corrections or assumptions are needed, and what test and scale were used for validation?"
+    },
+    {
+      "query_id": "V2D-C-10",
+      "base_query_id": "V2D-C-10",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In DMT interpretation there is a modified KD1 linked to CPTU strength. Find its definition, how it differs from ordinary KD, and whether the relationship distinguishes soil types and applicability ranges."
+    },
+    {
+      "query_id": "V2N-01",
+      "base_query_id": "V2D-A-01",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "In Kim et al.'s 2009 paper on estimating Su from CPTu, what pore pressure does Ne use? How is it obtained, and can it be calculated from the water level?"
+    },
+    {
+      "query_id": "V2N-02",
+      "base_query_id": "V2D-A-02",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Why is 8 used in Bosch et al.'s 2019 paper on dissipation tests?"
+    },
+    {
+      "query_id": "V2N-03",
+      "base_query_id": "V2D-B1-01",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "I have CPTu and UU data for alluvial fine-grained soil. I would like to find ways to select Nkt using Ic."
+    },
+    {
+      "query_id": "V2N-04",
+      "base_query_id": "V2D-B1-04",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "In low-plasticity silt with sand layers, CPTu shows negative excess pore pressure and gives high estimated Su. I would like to find similar cases."
+    },
+    {
+      "query_id": "V2N-05",
+      "base_query_id": "V2D-B2-01",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "When estimating Su from CPTu, can pore pressure be calculated directly from the groundwater level? I would like to find supporting material."
+    },
+    {
+      "query_id": "V2N-06",
+      "base_query_id": "V2D-B2-02",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "I only have CPTu profiles for clay and want to estimate Su. What should I look at first?"
+    },
+    {
+      "query_id": "V2N-07",
+      "base_query_id": "V2D-C-01",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "What is the source of the method that estimates Su in clay using cone resistance minus initial pore pressure? I would like to check the equation, how the pore pressure is obtained, and the calibration test."
+    },
+    {
+      "query_id": "V2N-08",
+      "base_query_id": "V2D-C-03",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "I recall an approach that first estimates preconsolidation pressure from CPTu and then converts it to mobilised strength. Where can I find it?"
+    },
+    {
+      "query_id": "V2N-09",
+      "base_query_id": "V2D-A-06",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "How did the Matagami study change vane testing later on? Was the cause of the earlier low results actually established?"
+    },
+    {
+      "query_id": "V2N-10",
+      "base_query_id": "V2D-A-07",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "How were the CPT and triaxial data paired in the Briggs paper?"
+    },
+    {
+      "query_id": "V2N-11",
+      "base_query_id": "V2D-A-09",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Which pore-pressure cone factor did Li's Ningbo study actually use in its laboratory triaxial comparison?"
+    },
+    {
+      "query_id": "V2N-12",
+      "base_query_id": "V2D-B1-07",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Is there evidence for calibrating CPT cone factors against UU triaxial tests in weathered mudstone?"
+    },
+    {
+      "query_id": "V2N-13",
+      "base_query_id": "V2D-B1-08",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Are there ways to estimate cone factors from Ic for offshore soils? I mainly have quick direct-shear data."
+    },
+    {
+      "query_id": "V2N-14",
+      "base_query_id": "V2D-B1-10",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Some silt layers are cemented. What evidence should I consult about CPTu strength factors?"
+    },
+    {
+      "query_id": "V2N-15",
+      "base_query_id": "V2D-B2-06",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Vane strengths in soft clay look low and do not match nearby CPTu. What evidence could help investigate?"
+    },
+    {
+      "query_id": "V2N-16",
+      "base_query_id": "V2D-B2-07",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Can CPTs and samples from different locations be used to calibrate strength? Find some relevant evidence."
+    },
+    {
+      "query_id": "V2N-17",
+      "base_query_id": "V2D-B2-10",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "If two in-situ methods give similar strength estimates, is that validation? Are there examples?"
+    },
+    {
+      "query_id": "V2N-18",
+      "base_query_id": "V2D-C-06",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Where are the original study and later validation of that logarithmic Bq cone-factor relationship?"
+    },
+    {
+      "query_id": "V2N-19",
+      "base_query_id": "V2D-C-08",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "What data are needed for the method calculating Nkt from depth gradients?"
+    },
+    {
+      "query_id": "V2N-20",
+      "base_query_id": "V2D-C-09",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "What validation evidence exists for estimating strength by combining cone penetration and expansion?"
+    },
+    {
+      "query_id": "V2N-21",
+      "base_query_id": "V2P-A-01",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Does the Bangkok study by Sunitsakul report the same strength cone factor throughout?"
+    },
+    {
+      "query_id": "V2N-22",
+      "base_query_id": "V2P-A-02",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "In Chung's Busan Table 1, are the empty entries for upper Shinho zeros, and which values are actually reported?"
+    },
+    {
+      "query_id": "V2N-23",
+      "base_query_id": "V2P-A-04",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "In the Laut Island study, can consolidation degree at one test depth be treated as the average for the entire CPTu profile?"
+    },
+    {
+      "query_id": "V2N-24",
+      "base_query_id": "V2P-B1-03",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Are cone factors the same for offshore CPT calibrated against UU and onboard torvane? Find an example."
+    },
+    {
+      "query_id": "V2N-25",
+      "base_query_id": "V2P-B1-05",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Is there evidence of laboratory CPT–vane calibration for East China Sea silty clay?"
+    },
+    {
+      "query_id": "V2N-26",
+      "base_query_id": "V2P-B2-02",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Why can qt minus u2 give unstable strength estimates in soft clay? Find evidence explaining the mechanism."
+    },
+    {
+      "query_id": "V2N-27",
+      "base_query_id": "V2P-B2-04",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "How can residual pore pressure be investigated when a marine-clay dissipation test was not completed?"
+    },
+    {
+      "query_id": "V2N-28",
+      "base_query_id": "V2P-B2-05",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "What could go wrong when a CPT factor calibrated in remolded clay is applied directly to natural soil?"
+    },
+    {
+      "query_id": "V2N-29",
+      "base_query_id": "V2P-C-03",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Where can I find an EPR formula for strength from CPT, and what units does it use?"
+    },
+    {
+      "query_id": "V2N-30",
+      "base_query_id": "V2P-C-04",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "How is that resistance ratio used to estimate consolidation degree relative to normally consolidated soil defined?"
+    },
+    {
+      "query_id": "V2N-31",
+      "base_query_id": "V2P-A-07",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "In the Dover paper, which test is the CPTu strength compared with, and is there a conversion in between?"
+    },
+    {
+      "query_id": "V2N-32",
+      "base_query_id": "V2P-A-10",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Are the dissipation data in the 2024 Louiseville paper from its newer CPTu campaign?"
+    },
+    {
+      "query_id": "V2N-33",
+      "base_query_id": "V2P-B1-06",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "In silt, how can penetration speeds be compared meaningfully when cone sizes differ?"
+    },
+    {
+      "query_id": "V2N-34",
+      "base_query_id": "V2P-B1-07",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "For sensitive clay, is there a method using CPTu and triaxial data to interpret strength without first fixing Nkt?"
+    },
+    {
+      "query_id": "V2N-35",
+      "base_query_id": "V2P-B1-09",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Is there an example in sensitive clay of estimating OCR from CPTu before calculating strength?"
+    },
+    {
+      "query_id": "V2N-36",
+      "base_query_id": "V2P-B2-07",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "If CPTu aq is nonpositive, can the rigidity formula still be used? Find its usage conditions."
+    },
+    {
+      "query_id": "V2N-37",
+      "base_query_id": "V2P-B2-09",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Are there studies where sample-quality indicators disagree for sensitive clay?"
+    },
+    {
+      "query_id": "V2N-38",
+      "base_query_id": "V2P-C-06",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "How is cv obtained in a silt study using V=v·d/cv?"
+    },
+    {
+      "query_id": "V2N-39",
+      "base_query_id": "V2P-C-07",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Which two equations convert IR to strength in SCE-CSSM?"
+    },
+    {
+      "query_id": "V2N-40",
+      "base_query_id": "V2P-C-10",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Does sleeve friction equal remolded strength? Is there a counterexample in highly sensitive clay?"
+    },
+    {
+      "query_id": "V2N-41",
+      "base_query_id": "V2P-A-11",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "In the Jianghai Expressway paper, how long was the vane left after insertion and how fast was it rotated?"
+    },
+    {
+      "query_id": "V2N-42",
+      "base_query_id": "V2P-A-12",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Was the hand torvane in the Guangdong offshore paper tested directly in the seabed?"
+    },
+    {
+      "query_id": "V2N-43",
+      "base_query_id": "V2P-A-15",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Why did the Hangzhou Bay regression not include water content and void ratio together?"
+    },
+    {
+      "query_id": "V2N-44",
+      "base_query_id": "V2P-B1-13",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Is there a Holocene-clay example of using Bq to adjust the excess-pressure strength factor, and what should be checked at low Bq?"
+    },
+    {
+      "query_id": "V2N-45",
+      "base_query_id": "V2P-B1-15",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "For Hangzhou Bay soft clay with CPTu but no plasticity index, which Nkt relation could be consulted first?"
+    },
+    {
+      "query_id": "V2N-46",
+      "base_query_id": "V2P-B2-12",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Are upper and lower strengths in a paper based on different tests or confidence intervals? Find an example."
+    },
+    {
+      "query_id": "V2N-47",
+      "base_query_id": "V2P-B2-14",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "How can I check whether a high CPTu-inferred OCR exceeds the laboratory test range? Find an example."
+    },
+    {
+      "query_id": "V2N-48",
+      "base_query_id": "V2P-B2-15",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Could anomalous shallow offshore CPTu readings be related to casing? Find evidence."
+    },
+    {
+      "query_id": "V2N-49",
+      "base_query_id": "V2P-C-11",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "When correcting qc to qt, which areas define the area ratio? Find an actual parameter value."
+    },
+    {
+      "query_id": "V2N-50",
+      "base_query_id": "V2P-C-15",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Has the multivariable Bq-plus-Ip Nkt relation been applied to another project?"
+    },
+    {
+      "query_id": "V2N-51",
+      "base_query_id": "V2P-A-16",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "What triaxial shearing rate did Long's Os silt study use?"
+    },
+    {
+      "query_id": "V2N-52",
+      "base_query_id": "V2P-A-19",
+      "task": "A",
+      "expression": "derived",
+      "language": "en",
+      "query": "Does the 7.5 in Paniagua's 2019 table mean using that factor throughout the layer?"
+    },
+    {
+      "query_id": "V2N-53",
+      "base_query_id": "V2P-B1-16",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Two probes give very different friction ratios in silt. Can I classify directly from them? Is there a similar case?"
+    },
+    {
+      "query_id": "V2N-54",
+      "base_query_id": "V2P-B1-17",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "Is there a Finnish sensitive-clay example comparing CPTu with both vane and fall-cone strengths without plasticity correction?"
+    },
+    {
+      "query_id": "V2N-55",
+      "base_query_id": "V2P-B1-20",
+      "task": "B1",
+      "expression": "derived",
+      "language": "en",
+      "query": "How is vane strength corrected in high-plasticity soft clay? Has a paper applied the correction above PI120?"
+    },
+    {
+      "query_id": "V2N-56",
+      "base_query_id": "V2P-B2-16",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "Is there a measured silt example where pore pressure does not keep falling after cone penetration stops?"
+    },
+    {
+      "query_id": "V2N-57",
+      "base_query_id": "V2P-B2-18",
+      "task": "B2",
+      "expression": "derived",
+      "language": "en",
+      "query": "When checking remoulded strength of sensitive clay by fall cone, what sample condition matters?"
+    },
+    {
+      "query_id": "V2N-58",
+      "base_query_id": "V2P-C-16",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Why have some variable-rate CPTu studies avoided short twitch tests?"
+    },
+    {
+      "query_id": "V2N-59",
+      "base_query_id": "V2P-C-17",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "In the paper comparing three CPTu strength routes at Halden and Tiller-Flotten, what Nke was actually used?"
+    },
+    {
+      "query_id": "V2N-60",
+      "base_query_id": "V2P-C-20",
+      "task": "C",
+      "expression": "derived",
+      "language": "en",
+      "query": "Can Nkt=10.22-3.831 ln(Bq) be used at Bq=0? Find the original equation to check."
+    },
+    {
+      "query_id": "V2P-A-01",
+      "base_query_id": "V2P-A-01",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Sunitsakul et al.'s 2010 Bangkok highway study, do the abstract and body report the same strength cone factor? Find both reported values and the reference-strength test used in the body."
+    },
+    {
+      "query_id": "V2P-A-02",
+      "base_query_id": "V2P-A-02",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Table 1 of Chung et al.'s 2010 Busan paper, which direct and indirect calibration results are reported for the uppermost Shinho facies? Can the missing entries be treated as zeros?"
+    },
+    {
+      "query_id": "V2P-A-03",
+      "base_query_id": "V2P-A-03",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "How did Ebrahimian et al.'s 2012 South Pars study assess the improvement from adding PI? Does it establish that PI or OCR has no effect in all marine clays? Find the study scope and the authors' qualifications."
+    },
+    {
+      "query_id": "V2P-A-04",
+      "base_query_id": "V2P-A-04",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Wismanto et al.'s Laut Island study, is consolidation degree from dissipation the same quantity as profile-average consolidation? Find the test-depth results and profile averages for the two CPTu soundings and their respective scopes."
+    },
+    {
+      "query_id": "V2P-A-05",
+      "base_query_id": "V2P-A-05",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Was Nk=17.8 in Wu et al.'s 2025 silty-clay calibration study derived solely from laboratory tests? Which data were used in the field comparison, and what does the reported error band describe?"
+    },
+    {
+      "query_id": "V2P-A-06",
+      "base_query_id": "V2P-A-06",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Bihs et al.'s 2022 Halsen-Stjørdal study, how was CPTu filter saturation maintained, and what were the predrilling depth, groundwater level and pore-pressure measurement location?"
+    },
+    {
+      "query_id": "V2P-A-07",
+      "base_query_id": "V2P-A-07",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Did Mayne and Benoit's Dover study directly validate its CPTu suc profile against triaxial strengths? Find the actual field reference, the mode-conversion relation and adopted parameters."
+    },
+    {
+      "query_id": "V2P-A-08",
+      "base_query_id": "V2P-A-08",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Is aq in Agaiby and Mayne's 2018 Gloucester example simply a ratio at one depth? Find the recommended estimation procedure, friction angles used and resulting rigidity index."
+    },
+    {
+      "query_id": "V2P-A-09",
+      "base_query_id": "V2P-A-09",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "What SHANSEP parameters does L'Heureux et al.'s 2019 Tiller-Flotten study give for CAUC, CAUE and DSS, and what evidence shows why the test modes must remain distinguished?"
+    },
+    {
+      "query_id": "V2P-A-10",
+      "base_query_id": "V2P-A-10",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Do the dissipation results in Mayne, Greig and Cargill's 2024 Louiseville paper come from the more recent set of seven CPTu soundings? Trace the campaigns and the dissipation source."
+    },
+    {
+      "query_id": "V2P-A-11",
+      "base_query_id": "V2P-A-11",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "How were the vane tests used for cone-factor calibration performed in Zheng et al.'s 2019 Jianghai Expressway paper? Find the waiting time after insertion, rotation rate and test count."
+    },
+    {
+      "query_id": "V2P-A-12",
+      "base_query_id": "V2P-A-12",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Were the hand torvane and pocket penetrometer tests in Wang et al.'s 2021 Guangdong offshore study conducted in situ on the seabed? Identify their testing locations and strength interpretations."
+    },
+    {
+      "query_id": "V2P-A-13",
+      "base_query_id": "V2P-A-13",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Rémai's 2013 paper, do the similarly shaped theoretical Nc and empirical Nk relations use the same stress term? Find the equations and their stress definitions."
+    },
+    {
+      "query_id": "V2P-A-14",
+      "base_query_id": "V2P-A-14",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In the 2023 Taizhou coastal soft-clay paper, do the SHANSEP fit and Nkt calibration use the same remolded-soil tests? Trace sample preparation and the strength reference for each."
+    },
+    {
+      "query_id": "V2P-A-15",
+      "base_query_id": "V2P-A-15",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Why did the 2023 Hangzhou Bay strength-interpretation paper not include water content, void ratio, liquid limit and plastic limit together in its multiple regression? Which inputs were retained?"
+    },
+    {
+      "query_id": "V2P-A-16",
+      "base_query_id": "V2P-A-16",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Long et al.'s 2010 Os silt study, how were saturation, the earth pressure coefficient at rest, and the CAUC shearing rate specified? Which were measured or assumed?"
+    },
+    {
+      "query_id": "V2P-A-17",
+      "base_query_id": "V2P-A-17",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Did Abimaje's 2024 comparison of Halden and Tiller-Flotten perform new tests or reuse existing data? At what point in the Halden CAUC tests was strength taken?"
+    },
+    {
+      "query_id": "V2P-A-18",
+      "base_query_id": "V2P-A-18",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Hache et al.'s 2015 Ottawa Leda clay paper, which vane devices supplied the reference, and how were Nkt and NDelta-u determined? How was the plotted agreement obtained?"
+    },
+    {
+      "query_id": "V2P-A-19",
+      "base_query_id": "V2P-A-19",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Table 4 of Paniagua et al. (2019) reports NDelta-u=7.50 with a relatively high r-squared. Is this the authors' recommendation for a depth-invariant factor? Find the table note and the basis of their final practical recommendations."
+    },
+    {
+      "query_id": "V2P-A-20",
+      "base_query_id": "V2P-A-20",
+      "task": "A",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In Basarah et al.'s 2026 western Java study, were the CU specimens isotropically or anisotropically consolidated? What saturation and confining-pressure settings were used, and how was Su at sample depth interpreted?"
+    },
+    {
+      "query_id": "V2P-B1-01",
+      "base_query_id": "V2P-B1-01",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For a highway on soft clay treated with preloading and prefabricated vertical drains, find a CPT–vane strength correlation case. Establish whether vane strength was corrected and whether the CPTs were inside the preloaded area rather than inferring that from the project setting."
+    },
+    {
+      "query_id": "V2P-B1-02",
+      "base_query_id": "V2P-B1-02",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For deltaic clay with distinct depositional facies and CPTu and vane data, find facies-specific calibration of Nkt or the pore-pressure cone factor. Distinguish corrected from uncorrected reference strength and identify limitations in sandy layers."
+    },
+    {
+      "query_id": "V2P-B1-03",
+      "base_query_id": "V2P-B1-03",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For offshore boreholes with CPT, UU triaxial and onboard torvane data, find a case comparing cone factors for the two strength references. Keep qc distinct from qt and Nk distinct from Nkt."
+    },
+    {
+      "query_id": "V2P-B1-04",
+      "base_query_id": "V2P-B1-04",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For nearshore marine clay suspected to be still consolidating, with CPTu and triaxial strength data, find a local net-cone-resistance strength interpretation case. Identify the triaxial reference types and further field evidence recommended by the study."
+    },
+    {
+      "query_id": "V2P-B1-05",
+      "base_query_id": "V2P-B1-05",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For silty clay at an offshore wind site in the East China Sea, find work calibrating a strength cone factor with laboratory CPT and vane model tests. Identify loading conditions, the strength-reading criterion, and limitations relative to natural soil."
+    },
+    {
+      "query_id": "V2P-B1-06",
+      "base_query_id": "V2P-B1-06",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For a silt site, how can drainage at different cone diameters and penetration speeds be compared before interpreting strength? Find a study defining a comparable rate measure, the source of its consolidation input and a worked application."
+    },
+    {
+      "query_id": "V2P-B1-07",
+      "base_query_id": "V2P-B1-07",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For sensitive marine clay with CPTu and laboratory triaxial effective stress paths, find an analytical strength-profile method that does not start from a fixed Nkt. What field and laboratory inputs are needed, and which strength mode is estimated?"
+    },
+    {
+      "query_id": "V2P-B1-08",
+      "base_query_id": "V2P-B1-08",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In structured clay, triaxial deviator stress and pore pressure peak at different strains, while CPTu measures tip resistance and pore pressure together. Find an interpretation study that accounts for this difference, distinguishing observations from its proposed correspondence."
+    },
+    {
+      "query_id": "V2P-B1-09",
+      "base_query_id": "V2P-B1-09",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For sensitive clay with CPTu, measured nonhydrostatic pore pressures and high-quality consolidation data, find a local application that estimates OCR before strength. Which factors are locally calibrated, and which strength test is used for comparison?"
+    },
+    {
+      "query_id": "V2P-B1-10",
+      "base_query_id": "V2P-B1-10",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For sensitive clay with CPTu and triaxial data, find a same-site comparison of strength from an analytical rigidity route and a Bq database route. Identify their inputs, factors and comparison references."
+    },
+    {
+      "query_id": "V2P-B1-11",
+      "base_query_id": "V2P-B1-11",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For normally consolidated clayey soil on a Jiangsu alluvial-lacustrine plain, find a CPTu calibration against field vane tests with a documented procedure, fitted factor and clarification of whether the later comparison used a different site."
+    },
+    {
+      "query_id": "V2P-B1-12",
+      "base_query_id": "V2P-B1-12",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For offshore wind-farm clay with UU, CU triaxial and consolidated quick direct-shear data, find same-site Nkt calibrations against these references and evidence of the procedural differences."
+    },
+    {
+      "query_id": "V2P-B1-13",
+      "base_query_id": "V2P-B1-13",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For Holocene clay with CPTu and CU or unconfined compression data, find a pore-pressure-ratio-dependent excess-pressure strength factor, its calibration basis and its uncertainty at low pore-pressure ratio."
+    },
+    {
+      "query_id": "V2P-B1-14",
+      "base_query_id": "V2P-B1-14",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For remolded coastal soft clay, find a test program that changes OCR by unloading and fits normalized direct-shear strength, including initial stress, unloading states, shear procedure and fitted parameters."
+    },
+    {
+      "query_id": "V2P-B1-15",
+      "base_query_id": "V2P-B1-15",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For muddy silty clay in Hangzhou Bay with CPTu but no sample index properties yet, find a local Bq-only Nkt relation and distinguish it from a route requiring additional sample information."
+    },
+    {
+      "query_id": "V2P-B1-16",
+      "base_query_id": "V2P-B1-16",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In silt CPTu, sleeve friction is only a few kPa; two probes give different friction ratios but similar cone resistance and pore pressure. Find a comparable measured case and its implications for soil classification."
+    },
+    {
+      "query_id": "V2P-B1-17",
+      "base_query_id": "V2P-B1-17",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For Finnish soft sensitive clay with CPTu, field-vane and fall-cone data, find a calibration study comparing the three. Were reference strengths corrected for plasticity, and did the same cone factors fit both references?"
+    },
+    {
+      "query_id": "V2P-B1-18",
+      "base_query_id": "V2P-B1-18",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For Leda clay in Ottawa, find field-vane-calibrated Nkt evidence for a continuous CPTu strength profile. How do local values compare with the commonly used 15, and how were they calibrated?"
+    },
+    {
+      "query_id": "V2P-B1-19",
+      "base_query_id": "V2P-B1-19",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For soft sensitive clays, find CPTu strength correlations based on high-quality large block samples. Identify the reference tests for strength and preconsolidation pressure, and whether the correlations replace sampling."
+    },
+    {
+      "query_id": "V2P-B1-20",
+      "base_query_id": "V2P-B1-20",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For high-plasticity soft clay calibrated with field vanes, some PI values exceed 120. Find a CPTu study stating its vane-strength correction and treatment of high-PI extrapolation, together with calibration depth and soil-screening limits."
+    },
+    {
+      "query_id": "V2P-B2-01",
+      "base_query_id": "V2P-B2-01",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Some CPT strength references say total overburden stress may be ignored and a factor fitted directly from cone resistance. Find an actual example showing what should be checked in the equation and regression plot before using that claim."
+    },
+    {
+      "query_id": "V2P-B2-02",
+      "base_query_id": "V2P-B2-02",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In very soft clay, strength interpretation using qt−u2 is unstable although individual readings show no obvious anomaly. Find literature explaining this possibility and alternative cone-resistance or pore-pressure formulations worth checking."
+    },
+    {
+      "query_id": "V2P-B2-03",
+      "base_query_id": "V2P-B2-03",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "An offshore report uses both torvane and UU strengths to calibrate CPT. I am unsure whether torvane here means an in-situ field vane. Find a study documenting where and how the tests were performed and which calibration targets they provided."
+    },
+    {
+      "query_id": "V2P-B2-04",
+      "base_query_id": "V2P-B2-04",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Dissipation tests in soft marine clay were stopped early, but I want to investigate residual excess pore pressure as context for interpreting strength. Find an extrapolation or follow-up approach and establish whether its result represents the test point or the entire layer."
+    },
+    {
+      "query_id": "V2P-B2-05",
+      "base_query_id": "V2P-B2-05",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "A CPT strength factor has been calibrated in a small remolded-clay model and I want to transfer it to natural marine clay. Find research identifying conditions to check and possible reasons for model–field differences."
+    },
+    {
+      "query_id": "V2P-B2-06",
+      "base_query_id": "V2P-B2-06",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Before interpreting CPTu strength in clay, common soil-behavior charts disagree with laboratory evidence of sensitivity. Find an example investigating this mismatch and evidence for an alternative screening approach."
+    },
+    {
+      "query_id": "V2P-B2-07",
+      "base_query_id": "V2P-B2-07",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "When using the relationship between CPTu resistance and pore pressure to estimate rigidity before strength, the fitted slope is nonpositive and groundwater may be deep. Find published prerequisites for this route rather than assuming the formula remains applicable."
+    },
+    {
+      "query_id": "V2P-B2-08",
+      "base_query_id": "V2P-B2-08",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In sensitive clay, three stress-history profiles inferred from different CPTu readings disagree even after parameter changes. Find a reported case and the interpretation hypothesis proposed to address it."
+    },
+    {
+      "query_id": "V2P-B2-09",
+      "base_query_id": "V2P-B2-09",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "When laboratory results are used to calibrate CPTu strength, sample-quality criteria disagree for the same sensitive-clay samples. Find a case explaining how to investigate the disagreement without automatically declaring all samples poor."
+    },
+    {
+      "query_id": "V2P-B2-10",
+      "base_query_id": "V2P-B2-10",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "During variable-rate CPTu, tip resistance becomes nearly constant at high speeds while negative shoulder excess pore pressure continues changing. Find evidence explaining these different rate responses before interpreting strength."
+    },
+    {
+      "query_id": "V2P-B2-11",
+      "base_query_id": "V2P-B2-11",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Different strength papers both label their cone factor Nk, but I do not know whether they use qc or qt. Find original evidence showing why matching symbols alone is insufficient."
+    },
+    {
+      "query_id": "V2P-B2-12",
+      "base_query_id": "V2P-B2-12",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "An offshore-clay CPTu study reports upper, middle and lower strength interpretations. Are these necessarily statistical confidence limits? Find an actual study showing how the levels were constructed."
+    },
+    {
+      "query_id": "V2P-B2-13",
+      "base_query_id": "V2P-B2-13",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Some clay Nkt guidance says the factor increases with plasticity index. Find a counterexample or limitation before treating this as a universal rule."
+    },
+    {
+      "query_id": "V2P-B2-14",
+      "base_query_id": "V2P-B2-14",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "If a normalized laboratory strength relation combined with CPTu gives high OCR values, does that mean those OCR values were tested? Find a case comparing laboratory loading coverage with field-inferred OCR."
+    },
+    {
+      "query_id": "V2P-B2-15",
+      "base_query_id": "V2P-B2-15",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Offshore CPTu gives low shallow strength and a sudden resistance increase at one depth. Find evidence for checking equipment or testing conditions before assuming a soil-layer change."
+    },
+    {
+      "query_id": "V2P-B2-16",
+      "base_query_id": "V2P-B2-16",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Pore pressure during a silt CPTu dissipation test does not decrease continuously. Could this affect interpretation? Find an observed example and the interpretation steps needing further checks."
+    },
+    {
+      "query_id": "V2P-B2-17",
+      "base_query_id": "V2P-B2-17",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Several CPTu strength papers report similar results. Before treating them as separate evidence, find an example with traceable data provenance showing whether existing tests were reused."
+    },
+    {
+      "query_id": "V2P-B2-18",
+      "base_query_id": "V2P-B2-18",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I want to estimate remoulded strength in sensitive clay from CPTu but am unsure about measurement reliability. Find measurement limitations and a test-based check, including required sample conditions."
+    },
+    {
+      "query_id": "V2P-B2-19",
+      "base_query_id": "V2P-B2-19",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "If an investigation database contains both CU and UU tests, can both be assumed to calibrate CPTu at every site? Find an example explaining the reference tests actually used and the reasons for inclusion or exclusion."
+    },
+    {
+      "query_id": "V2P-B2-20",
+      "base_query_id": "V2P-B2-20",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "en",
+      "query": "A silt-CPTu project aims to produce engineering guidelines. Find a project report distinguishing measurements already presented from work still planned or under way."
+    },
+    {
+      "query_id": "V2P-C-01",
+      "base_query_id": "V2P-C-01",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I know of deriving a cone factor by regressing total cone resistance on corrected vane strength. Find an engineering example, including the reference-strength correction and full regression relationship, particularly whether it passes through the origin."
+    },
+    {
+      "query_id": "V2P-C-02",
+      "base_query_id": "V2P-C-02",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I have heard of an indirect method normalizing CPTu and vane results by effective overburden stress before estimating facies-specific cone factors. Find its source, required quantities, and purpose and limitations relative to direct pointwise calibration."
+    },
+    {
+      "query_id": "V2P-C-03",
+      "base_query_id": "V2P-C-03",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For the evolutionary polynomial regression (EPR) approach estimating marine-clay strength from CPT, find a concrete relationship with its input units, reference-strength test, and stated scope limitations."
+    },
+    {
+      "query_id": "V2P-C-04",
+      "base_query_id": "V2P-C-04",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "There is an approach constructing a target cone resistance from a normally consolidated strength ratio and estimating consolidation degree from measured-to-target resistance. Find the relationship and input definitions: is it a total-resistance or net-resistance ratio?"
+    },
+    {
+      "query_id": "V2P-C-05",
+      "base_query_id": "V2P-C-05",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For calibrating Nk by pairing laboratory CPT with peak vane strength, how are cone resistance and overburden stress defined? Find a model-test example and how peak vane strength was read."
+    },
+    {
+      "query_id": "V2P-C-06",
+      "base_query_id": "V2P-C-06",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I know the normalized penetration velocity V=v·d/cv but not its application context. Find its use in silt CPTu drainage assessment, the variables and source of cv, and how the standard penetration rate is represented."
+    },
+    {
+      "query_id": "V2P-C-07",
+      "base_query_id": "V2P-C-07",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In SCE-CSSM, how is IR converted to Nkt and then to Su? Find one complete implementation, including the formula grouping, net resistance definition and strength mode."
+    },
+    {
+      "query_id": "V2P-C-08",
+      "base_query_id": "V2P-C-08",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In the dual-friction-angle SCE-CSSM method for sensitive clay, which states define φ1 and φ2, and how are they used with aq to interpret IR? Find definitions and an actual implementation without treating the angles as synonyms."
+    },
+    {
+      "query_id": "V2P-C-09",
+      "base_query_id": "V2P-C-09",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Where does OCR come from when SHANSEP is applied to CPTu? Find a complete example that first estimates OCR from CPTu and then strength, separating local fitted parameters from the general relations."
+    },
+    {
+      "query_id": "V2P-C-10",
+      "base_query_id": "V2P-C-10",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "What limits apply to treating CPTu sleeve friction as remolded strength and estimating sensitivity from friction ratio? Find the definitions and an actual comparison in highly sensitive clay."
+    },
+    {
+      "query_id": "V2P-C-11",
+      "base_query_id": "V2P-C-11",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "In the route that corrects measured qc for pore-pressure area effects before using net resistance for strength, what is the area ratio and what stress is subtracted? Find an implementation with its actual probe parameter."
+    },
+    {
+      "query_id": "V2P-C-12",
+      "base_query_id": "V2P-C-12",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Has the normally consolidated strength ratio a in SHANSEP been obtained from a strength-versus-depth fit? Trace a CPTu application, its test reference and the other necessary inputs."
+    },
+    {
+      "query_id": "V2P-C-13",
+      "base_query_id": "V2P-C-13",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "I know the relation NΔu=24.3Bq but not what the accompanying ±2 means. Find its explanation and the warning for low Bq."
+    },
+    {
+      "query_id": "V2P-C-14",
+      "base_query_id": "V2P-C-14",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Find a method that combines SHANSEP and an Nkt relation to infer the OCR coefficient k. Give an explicit nonconstant k expression and trace its derivation."
+    },
+    {
+      "query_id": "V2P-C-15",
+      "base_query_id": "V2P-C-15",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For a linear multivariable Nkt relation using Bq and plasticity index, find an application to a neighboring project, including the formula, extra input and spacing of the comparison tests."
+    },
+    {
+      "query_id": "V2P-C-16",
+      "base_query_id": "V2P-C-16",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Trace the variable-rate CPTu approach using a long continuous stroke per soil unit rather than short twitch tests. Find a study using it and the authors' reasons."
+    },
+    {
+      "query_id": "V2P-C-17",
+      "base_query_id": "V2P-C-17",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Trace a paper applying the net-resistance, excess-pressure and effective-resistance Su routes together at Halden and Tiller-Flotten. What factors were actually used, and what do qt and qe denote in its equations?"
+    },
+    {
+      "query_id": "V2P-C-18",
+      "base_query_id": "V2P-C-18",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "For Su=Delta-u/NDelta-u in Ottawa Leda clay, find the local factor range, groundwater-table restriction, and whether the study supports transfer without site calibration."
+    },
+    {
+      "query_id": "V2P-C-19",
+      "base_query_id": "V2P-C-19",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Some papers list SHANSEP, Nkt and NDelta-u as separate equations. Find an example deriving both cone factors from the same strength relation, with the substitutions and reference strength/OCR tests."
+    },
+    {
+      "query_id": "V2P-C-20",
+      "base_query_id": "V2P-C-20",
+      "task": "C",
+      "expression": "detailed",
+      "language": "en",
+      "query": "Trace Nkt=10.22-3.831 ln(Bq) to its source and Bq boundary. Did the paper use the same intercept setting for fitted Nkt and reported R-squared?"
+    },
+    {
+      "query_id": "V2D-A-01",
+      "base_query_id": "V2D-A-01",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我正在读Kim等2009年《Estimating clay undrained shear strength using CPTu results》。文中的有效锥因子Ne减去的孔压，是贯入时测得的u2，还是另一种孔压？这个输入怎样获得，采用水位换算有什么前提？"
+    },
+    {
+      "query_id": "V2D-A-02",
+      "base_query_id": "V2D-A-02",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我在读Bosch等2019年的消散试验论文。文中使用的因子8是怎样得到的，所需孔压取自贯入还是停贯后的哪个阶段？对应的强度条件是什么？请返回原文，不把它当成通用常数。"
+    },
+    {
+      "query_id": "V2D-A-03",
+      "base_query_id": "V2D-A-03",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Rigatto和Ferreira的2024年热带土案例报告了约10%以上的变化。变化指Su本身还是归一化强度？作者改变了什么孔压解释，又有没有用独立强度试验验证哪种解释更准确？"
+    },
+    {
+      "query_id": "V2D-A-04",
+      "base_query_id": "V2D-A-04",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Tanaka等2022年新加坡填海论文的两个位置为什么采用不同的Nkt？请找出两处的处理历史，以及作者用哪些试验或推算量作比较，区分实测强度和间接换算值。"
+    },
+    {
+      "query_id": "V2D-A-05",
+      "base_query_id": "V2D-A-05",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我在读Rios等2022年的gyttja论文。当地Nkt=19.2依据多少室内试验、怎样换算得到？文中约80000个CPTU测点能否当作同样多的独立强度标定样本？请找出能核对这些统计对象的材料。"
+    },
+    {
+      "query_id": "V2D-A-06",
+      "base_query_id": "V2D-A-06",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "在 Pedroni 与 Leahy 的 Matagami 尾矿库研究中，后一次勘察针对十字板测试程序做了哪些调整？作者对先前偏低的强度给出了什么解释，这是否已经被证实？"
+    },
+    {
+      "query_id": "V2D-A-07",
+      "base_query_id": "V2D-A-07",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Briggs 等关于风化泥岩的研究怎样将 CPT 和 UU 三轴数据配对，并划分训练与检验数据？这些数量指数据对还是独立场地？"
+    },
+    {
+      "query_id": "V2D-A-08",
+      "base_query_id": "V2D-A-08",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Młynarek 等 2018 年的 DMT–CPTU 强度研究中，DMT 关系所对照的强度是如何得到的？请追查 CPTU 的标定试验，以及 DMT 与 CPTU 在深度上的对应方式。"
+    },
+    {
+      "query_id": "V2D-A-09",
+      "base_query_id": "V2D-A-09",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "李学鹏等 2016 年宁波黏性土研究给出固定孔压系数和随 Bq 变化的关系。图中的室内三轴对比实际用了哪一个？这个系数原先怎样得到，室内对比采用什么试验？"
+    },
+    {
+      "query_id": "V2D-A-10",
+      "base_query_id": "V2D-A-10",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Halden 粉土研究中，CAUC 与 DSS 试验的强度按哪些准则读取？为什么不同准则会使同一材料得到不同强度，限制应变的定义又有何区别？"
+    },
+    {
+      "query_id": "V2D-B1-01",
+      "base_query_id": "V2D-B1-01",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我有正常固结至轻度超固结的冲积细粒土CPTu和UU资料，想寻找按土行为指数分组选取锥因子的研究。请同时找出指数究竟采用哪一种定义、强度参照是什么、哪些分组限制需要注意。"
+    },
+    {
+      "query_id": "V2D-B1-02",
+      "base_query_id": "V2D-B1-02",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "项目土层是含水率很高的湖相极软黏土，现有CPTu、UU和无侧限资料。请找有类似条件的地方锥因子统计，说明范围是逐深度点、孔均值还是深度区间平均，以及配对和代表性有哪些限制。"
+    },
+    {
+      "query_id": "V2D-B1-03",
+      "base_query_id": "V2D-B1-03",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "场地为火山残积土，CPTu行为分类与粒度分类不完全一致，还有UU资料。我想找类似条件下Su解释的研究，核对其锥因子依据及非饱和、胶结和资料不足的说明，不要求直接给本场地推荐值。"
+    },
+    {
+      "query_id": "V2D-B1-04",
+      "base_query_id": "V2D-B1-04",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "低塑性粉土中夹砂层，常规速率CPTu有局部负超孔压和异常高的强度解释值。我需要查类似情况的强度解释警告，以及应与什么室内强度参照比较，而不是查增加快速试验的操作。"
+    },
+    {
+      "query_id": "V2D-B1-05",
+      "base_query_id": "V2D-B1-05",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我有高质量块样CAUC峰值强度、OCR和敏感度资料，想查依据敏感度区分的CPTu强度相关式。请说明各路线需要什么输入、目标是哪种强度，以及分组边界和外推有什么提醒。"
+    },
+    {
+      "query_id": "V2D-B1-06",
+      "base_query_id": "V2D-B1-06",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "对于很软的纹层粉质黏土，有没有将 CPTu 与邻近十字板对照标定 Nkt 的工程案例？需要看到不同位置的取值、十字板修正和测量可靠性的说明。"
+    },
+    {
+      "query_id": "V2D-B1-07",
+      "base_query_id": "V2D-B1-07",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "风化泥岩形成的黏土混合物，想用 CPT 估计 UU 三轴强度。请找相应的地方标定案例，包括数据配对方式、系数取值和留出数据上的表现。"
+    },
+    {
+      "query_id": "V2D-B1-08",
+      "base_query_id": "V2D-B1-08",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "浙江近海的海相土，有固结快剪资料和 CPTu 的 Ic 指数。请找按 Ic 估计圆锥系数的研究，并说明其参考强度怎样构成、指数范围和土层覆盖限制。"
+    },
+    {
+      "query_id": "V2D-B1-09",
+      "base_query_id": "V2D-B1-09",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "沿海软黏土已有锥肩孔压和现场十字板资料，想找用超孔压估计不排水强度的地方标定案例。请提供关系、参考试验和与室内试验对照的依据。"
+    },
+    {
+      "query_id": "V2D-B1-10",
+      "base_query_id": "V2D-B1-10",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "粉土剖面中有碳酸盐胶结层，也有未胶结层。有没有研究比较这两部分的 CPTu 强度系数，并用十字板或三轴试验作依据？请找取值及使用范围的说明。"
+    },
+    {
+      "query_id": "V2D-B2-01",
+      "base_query_id": "V2D-B2-01",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我只有CPTu剖面和一个地下水位，暂时不清楚地下孔压是否静水分布。请找解释Su前值得调查的孔压问题、可补做的观测，以及哪些强度量会受孔压假设影响的依据。"
+    },
+    {
+      "query_id": "V2D-B2-02",
+      "base_query_id": "V2D-B2-02",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "现有CPTu剖面还没有消散记录。我想判断是否值得增加停贯消散来辅助Su解释。请找这类路线所需的记录、还依赖的参数，以及与已有强度试验比较的材料；先不要替我选系数。"
+    },
+    {
+      "query_id": "V2D-B2-03",
+      "base_query_id": "V2D-B2-03",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我的CPT解释强度沿深度起伏明显，尚不清楚是土层空间变化、采用固定锥因子还是参照资料不足造成的。请找研究强度空间变异和参照比较的材料，说明需要什么数据，哪些结果只是换算后的统计特征。"
+    },
+    {
+      "query_id": "V2D-B2-04",
+      "base_query_id": "V2D-B2-04",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "在有结构性、可能峰后软化的黏土中，我不知道CPTu换算的Su应与峰值还是后续强度比较。请找能帮助辨别这些强度目标的研究，并区分数值机理证据与真实场地的试验验证。"
+    },
+    {
+      "query_id": "V2D-B2-05",
+      "base_query_id": "V2D-B2-05",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "填海软黏土只有CPTu，历史上的堆载、排水板和固结状态资料还不完整。请找解释当地Nkt前应补查哪些历史与试验的案例，并说明哪些对照量并非直接测得的Su。"
+    },
+    {
+      "query_id": "V2D-B2-06",
+      "base_query_id": "V2D-B2-06",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "很软的黏土中，一次十字板测得的强度明显低于附近 CPTu 的解释结果。原因还不清楚，有哪些测试可靠性方面的研究可供排查？请找支持某个排查方向及其不确定性的原文。"
+    },
+    {
+      "query_id": "V2D-B2-07",
+      "base_query_id": "V2D-B2-07",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "手头 CPT 和取样孔相隔较远，想用这些数据标定强度关系，却不知道怎样配对才合理。有没有研究说明配对距离、可用样本数和标定结果之间的关系？"
+    },
+    {
+      "query_id": "V2D-B2-08",
+      "base_query_id": "V2D-B2-08",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "资料里的 Nkt 来自不同研究，有些用十字板，有些用三轴。我不确定这些值能否直接比较。请找能说明参考强度试验或标定链有差别的具体案例，帮助判断还需核对哪些信息。"
+    },
+    {
+      "query_id": "V2D-B2-09",
+      "base_query_id": "V2D-B2-09",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "粉土的室内剪切曲线一直硬化，没有明显峰值，拿来标定 CPTu 时该参考哪些强度读取依据？请找研究中的处理办法和差异，暂不替我决定设计取值。"
+    },
+    {
+      "query_id": "V2D-B2-10",
+      "base_query_id": "V2D-B2-10",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "CPTu 算出的强度与另一种原位方法给出的强度很接近，就能当成独立验证吗？请找实际研究说明被拿来比较的强度从哪里来，以及判断这种验证还需查什么。"
+    },
+    {
+      "query_id": "V2D-C-01",
+      "base_query_id": "V2D-C-01",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我记得有一种用锥阻力减去初始原位孔压来估计黏土Su的有效锥因子方法，但忘了出处。请找一个能核对其定义、孔压取得方式和标定试验的来源，注意不要与减去贯入孔压的关系混淆。"
+    },
+    {
+      "query_id": "V2D-C-02",
+      "base_query_id": "V2D-C-02",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我看到用消散过程最大超孔压解释Su的方法，但不清楚这是原始理论还是某篇场地应用。请找应用文献中的原始方法归属、强度条件、简化所需假设和场地对照证据。"
+    },
+    {
+      "query_id": "V2D-C-03",
+      "base_query_id": "V2D-C-03",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我听说FINCONE有先估先期固结压力、再转换成动员强度的CPTu关系。请找实际采用的转换、动员强度如何由试验修正得到，以及数据覆盖和外推限制。"
+    },
+    {
+      "query_id": "V2D-C-04",
+      "base_query_id": "V2D-C-04",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我拿到一张按Ic区间给Nkt的表，却没有记下Ic的计算定义。请找展示不同Ic定义及相应系数分组的研究，说明匹配表格前还要核对哪些信息。"
+    },
+    {
+      "query_id": "V2D-C-05",
+      "base_query_id": "V2D-C-05",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我知道NSP框架可以把CPTu解释量与不同模式的Su联系，但不清楚具体路线和转换前提。请找一个具体实现，指出哪些输入来自CPTu、哪些来自试验，以及目标强度模式怎样对应。"
+    },
+    {
+      "query_id": "V2D-C-06",
+      "base_query_id": "V2D-C-06",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我知道用 Bq 的对数关系估计 Nkt 的数据库方法。请找其早期研究及后续新增场地验证，说明公式使用范围、参考强度试验，以及后续工作与原数据库的关系。"
+    },
+    {
+      "query_id": "V2D-C-07",
+      "base_query_id": "V2D-C-07",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我见过用 exp(a−bIc) 估计 Nkt 和 Nke 的海相土方法，但不知道出处。请追查公式、Ic 的适用区间，以及它所依据的强度试验和限制。"
+    },
+    {
+      "query_id": "V2D-C-08",
+      "base_query_id": "V2D-C-08",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "有一种用锥阻和强度随深度变化斜率求 Nkt 的方法。请追查其关系和输入要求，并找一个实际案例说明强度斜率来自什么试验；它能只靠 CPTu 使用吗？"
+    },
+    {
+      "query_id": "V2D-C-09",
+      "base_query_id": "V2D-C-09",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我知道将锥入与扩张试验结合估计黏土强度和刚度指数的路线。请找实现案例：除锥阻以外需要测什么、依赖哪些修正或假设，验证采用什么试验和尺度？"
+    },
+    {
+      "query_id": "V2D-C-10",
+      "base_query_id": "V2D-C-10",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "DMT 解释里有一种 KD1 修正，并与 CPTU 强度联系起来。请找其定义、与普通 KD 的区别，以及关系是否需要区分土类和适用范围。"
+    },
+    {
+      "query_id": "V2N-01",
+      "base_query_id": "V2D-A-01",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Kim等2009年那篇CPTu估Su论文里，Ne用的孔压是什么？怎么取得，能按水位换算吗？"
+    },
+    {
+      "query_id": "V2N-02",
+      "base_query_id": "V2D-A-02",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Bosch等2019年那篇消散试验论文里，为什么用8？"
+    },
+    {
+      "query_id": "V2N-03",
+      "base_query_id": "V2D-B1-01",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "冲积细粒土，有CPTu和UU资料。想找按Ic选Nkt的办法。"
+    },
+    {
+      "query_id": "V2N-04",
+      "base_query_id": "V2D-B1-04",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "低塑性粉土夹砂，CPTu有负超孔压，算出的Su很高。想查有没有类似情况。"
+    },
+    {
+      "query_id": "V2N-05",
+      "base_query_id": "V2D-B2-01",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "用CPTu估Su时，能直接按地下水位算孔压吗？想找点依据。"
+    },
+    {
+      "query_id": "V2N-06",
+      "base_query_id": "V2D-B2-02",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "我只有黏土的CPTu曲线，想估Su，应该先看什么？"
+    },
+    {
+      "query_id": "V2N-07",
+      "base_query_id": "V2D-C-01",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "用锥阻力减初始孔压估黏土Su的方法出自哪里？想查公式、孔压怎么取、用什么试验标定。"
+    },
+    {
+      "query_id": "V2N-08",
+      "base_query_id": "V2D-C-03",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "我记得有CPTu先估先期固结压力，再换成动员强度的办法。哪里能查到？"
+    },
+    {
+      "query_id": "V2N-09",
+      "base_query_id": "V2D-A-06",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Matagami 那篇后来怎么改十字板测试的？早先偏低的结果到底查明原因了吗？"
+    },
+    {
+      "query_id": "V2N-10",
+      "base_query_id": "V2D-A-07",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Briggs 那篇的 CPT 和三轴数据怎么配成一对的？"
+    },
+    {
+      "query_id": "V2N-11",
+      "base_query_id": "V2D-A-09",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "李学鹏那篇宁波研究，和室内三轴比的时候到底用了哪个孔压系数？"
+    },
+    {
+      "query_id": "V2N-12",
+      "base_query_id": "V2D-B1-07",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "风化泥岩的 CPT，有没有对照 UU 三轴来定系数的资料？"
+    },
+    {
+      "query_id": "V2N-13",
+      "base_query_id": "V2D-B1-08",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "近海土有没有用 Ic 选圆锥系数的办法？我这边主要是快剪资料。"
+    },
+    {
+      "query_id": "V2N-14",
+      "base_query_id": "V2D-B1-10",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "粉土有些层有胶结，CPTu 强度系数该查什么资料？"
+    },
+    {
+      "query_id": "V2N-15",
+      "base_query_id": "V2D-B2-06",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "软黏土十字板测得偏低，跟旁边 CPTu 对不上，有什么排查资料？"
+    },
+    {
+      "query_id": "V2N-16",
+      "base_query_id": "V2D-B2-07",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "CPT 和取样孔不在一起，还能拿来标定强度吗？找点参考。"
+    },
+    {
+      "query_id": "V2N-17",
+      "base_query_id": "V2D-B2-10",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "两种原位方法算出的强度差不多，这就算验证过了吗？有例子吗？"
+    },
+    {
+      "query_id": "V2N-18",
+      "base_query_id": "V2D-C-06",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Bq 对数那个圆锥系数关系，最初和后来的验证文章在哪？"
+    },
+    {
+      "query_id": "V2N-19",
+      "base_query_id": "V2D-C-08",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "靠深度斜率算 Nkt 的那个办法，要准备哪些资料？"
+    },
+    {
+      "query_id": "V2N-20",
+      "base_query_id": "V2D-C-09",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "锥入加扩张一起测强度的办法，有什么验证依据？"
+    },
+    {
+      "query_id": "V2N-21",
+      "base_query_id": "V2P-A-01",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Sunitsakul 那篇曼谷研究，前后报告的强度圆锥系数一样吗？"
+    },
+    {
+      "query_id": "V2N-22",
+      "base_query_id": "V2P-A-02",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Chung 那篇釜山表1，Shinho 上层的空项是零吗，实际有哪些值？"
+    },
+    {
+      "query_id": "V2N-23",
+      "base_query_id": "V2P-A-04",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Laut Island 那篇，一个测点的固结度能当整条 CPTu 剖面的平均值吗？"
+    },
+    {
+      "query_id": "V2N-24",
+      "base_query_id": "V2P-B1-03",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "海上 CPT 对照 UU 和船上 torvane，系数是一样的吗？找个案例。"
+    },
+    {
+      "query_id": "V2N-25",
+      "base_query_id": "V2P-B1-05",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "东海粉质黏土，有没有室内 CPT 配十字板标定的资料？"
+    },
+    {
+      "query_id": "V2N-26",
+      "base_query_id": "V2P-B2-02",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "软黏土的 qt 减 u2，算强度时怎么特别不稳？找点原理依据。"
+    },
+    {
+      "query_id": "V2N-27",
+      "base_query_id": "V2P-B2-04",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "海相黏土消散没测完，残余孔压还能怎么查？"
+    },
+    {
+      "query_id": "V2N-28",
+      "base_query_id": "V2P-B2-05",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "重塑黏土模型标定的 CPT 系数，直接拿到天然土用会有哪些问题？"
+    },
+    {
+      "query_id": "V2N-29",
+      "base_query_id": "V2P-C-03",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "CPT 估强度的 EPR 公式在哪，输入是什么单位？"
+    },
+    {
+      "query_id": "V2N-30",
+      "base_query_id": "V2P-C-04",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "按正常固结锥阻估固结度的那个比值，是怎么算的？"
+    },
+    {
+      "query_id": "V2N-31",
+      "base_query_id": "V2P-A-07",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Dover 那篇，CPTu 强度究竟拿什么试验来对照，中间有换算吗？"
+    },
+    {
+      "query_id": "V2N-32",
+      "base_query_id": "V2P-A-10",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Louiseville 2024 那篇的消散数据，是新做的那批 CPTu 吗？"
+    },
+    {
+      "query_id": "V2N-33",
+      "base_query_id": "V2P-B1-06",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "粉土里，锥头大小不一样，贯入速度怎么比较才有意义？"
+    },
+    {
+      "query_id": "V2N-34",
+      "base_query_id": "V2P-B1-07",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "敏感黏土，能不能不先定 Nkt，而用 CPTu 加三轴资料解释强度？找个方法。"
+    },
+    {
+      "query_id": "V2N-35",
+      "base_query_id": "V2P-B1-09",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "敏感黏土有没有先用 CPTu 估 OCR，再算强度的例子？"
+    },
+    {
+      "query_id": "V2N-36",
+      "base_query_id": "V2P-B2-07",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "CPTu 的 aq 算成非正值，刚度那条公式还能套吗？找下使用条件。"
+    },
+    {
+      "query_id": "V2N-37",
+      "base_query_id": "V2P-B2-09",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "敏感黏土的几种样品质量指标打架了，有类似研究吗？"
+    },
+    {
+      "query_id": "V2N-38",
+      "base_query_id": "V2P-C-06",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "V=v·d/cv 里的 cv，粉土研究里是怎么取得的？"
+    },
+    {
+      "query_id": "V2N-39",
+      "base_query_id": "V2P-C-07",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "SCE-CSSM 从 IR 算强度，具体是哪两个式子？"
+    },
+    {
+      "query_id": "V2N-40",
+      "base_query_id": "V2P-C-10",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "套管摩阻就等于重塑强度吗？高敏感黏土有没有反例？"
+    },
+    {
+      "query_id": "V2N-41",
+      "base_query_id": "V2P-A-11",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "江海高速那篇，十字板插进去等多久才转，转多快？"
+    },
+    {
+      "query_id": "V2N-42",
+      "base_query_id": "V2P-A-12",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "广东海域那篇的便携式十字板，是直接在海床里做的吗？"
+    },
+    {
+      "query_id": "V2N-43",
+      "base_query_id": "V2P-A-15",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "杭州湾那篇，为啥回归没把含水率和孔隙比一起放进去？"
+    },
+    {
+      "query_id": "V2N-44",
+      "base_query_id": "V2P-B1-13",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "全新世黏土，用Bq调超孔压强度系数有例子吗？低Bq要注意什么？"
+    },
+    {
+      "query_id": "V2N-45",
+      "base_query_id": "V2P-B1-15",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "杭州湾软黏土，只有CPTu，没有塑性指数，先能参考哪条Nkt关系？"
+    },
+    {
+      "query_id": "V2N-46",
+      "base_query_id": "V2P-B2-12",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "文献里强度上限下限，是不同试验得出的还是置信区间？找个例子。"
+    },
+    {
+      "query_id": "V2N-47",
+      "base_query_id": "V2P-B2-14",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "CPTu推出来OCR很高，怎么核对是不是超出室内试验范围？找个例子。"
+    },
+    {
+      "query_id": "V2N-48",
+      "base_query_id": "V2P-B2-15",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "海上CPTu浅层异常，会不会和套管有关？找点依据。"
+    },
+    {
+      "query_id": "V2N-49",
+      "base_query_id": "V2P-C-11",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "qc修正成qt，面积比是哪个面积除哪个面积？找个实际参数。"
+    },
+    {
+      "query_id": "V2N-50",
+      "base_query_id": "V2P-C-15",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Bq加Ip估Nkt那条多元关系，有没有换个工程试过？"
+    },
+    {
+      "query_id": "V2N-51",
+      "base_query_id": "V2P-A-16",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Long那篇Os粉土，三轴剪切速度是多少？"
+    },
+    {
+      "query_id": "V2N-52",
+      "base_query_id": "V2P-A-19",
+      "task": "A",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Paniagua 2019表里那个7.5，是让我们整层都用这个数吗？"
+    },
+    {
+      "query_id": "V2N-53",
+      "base_query_id": "V2P-B1-16",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "粉土两支探头测的摩阻比差很多，土类还能直接按它判吗？有没有类似案例？"
+    },
+    {
+      "query_id": "V2N-54",
+      "base_query_id": "V2P-B1-17",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "芬兰敏感黏土，有没有十字板和落锥都没作塑性修正就跟CPTu比的例子？"
+    },
+    {
+      "query_id": "V2N-55",
+      "base_query_id": "V2P-B1-20",
+      "task": "B1",
+      "expression": "derived",
+      "language": "zh",
+      "query": "高塑性软黏土十字板怎么修正？PI超过120还有文献这么做吗？"
+    },
+    {
+      "query_id": "V2N-56",
+      "base_query_id": "V2P-B2-16",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "粉土停锥后孔压不一直降，有没有实测例子？"
+    },
+    {
+      "query_id": "V2N-57",
+      "base_query_id": "V2P-B2-18",
+      "task": "B2",
+      "expression": "derived",
+      "language": "zh",
+      "query": "敏感黏土用落锥查重塑强度，样品要注意什么？"
+    },
+    {
+      "query_id": "V2N-58",
+      "base_query_id": "V2P-C-16",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "变速CPTu为啥有研究不选短段twitch？"
+    },
+    {
+      "query_id": "V2N-59",
+      "base_query_id": "V2P-C-17",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Halden和Tiller-Flotten三种CPTu强度算法一起比较那篇，实际Nke用了几？"
+    },
+    {
+      "query_id": "V2N-60",
+      "base_query_id": "V2P-C-20",
+      "task": "C",
+      "expression": "derived",
+      "language": "zh",
+      "query": "Nkt=10.22−3.831 ln(Bq)在Bq=0能用吗？想找原式核对。"
+    },
+    {
+      "query_id": "V2P-A-01",
+      "base_query_id": "V2P-A-01",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "读 Sunitsakul 等 2010 年曼谷公路研究时，摘要与正文给出的强度圆锥系数是否一致？请找两处报告值，以及正文采用的参考强度试验。"
+    },
+    {
+      "query_id": "V2P-A-02",
+      "base_query_id": "V2P-A-02",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Chung 等 2010 年釜山论文的表1中，Shinho 最上部沉积相有哪些直接和间接标定结果？缺项能否当作零值处理？"
+    },
+    {
+      "query_id": "V2P-A-03",
+      "base_query_id": "V2P-A-03",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Ebrahimian 等 2012 年 South Pars 研究加入 PI 后如何评价改善？这是否能说明 PI 或 OCR 对任何海相黏土都没有影响？请找研究范围和作者的限定。"
+    },
+    {
+      "query_id": "V2P-A-04",
+      "base_query_id": "V2P-A-04",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Wismanto 等 Laut Island 研究中，消散解释的固结度与剖面平均固结度是同一个量吗？请找两个 CPTu 的测试深度结果和剖面平均值，说明各自代表什么范围。"
+    },
+    {
+      "query_id": "V2P-A-05",
+      "base_query_id": "V2P-A-05",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Wu 等 2025 年粉质黏土标定研究的 Nk=17.8 是只从室内试验得到的吗？现场比较用了哪两组资料，原文的误差带说明了什么？"
+    },
+    {
+      "query_id": "V2P-A-06",
+      "base_query_id": "V2P-A-06",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Bihs 等 2022 年 Halsen-Stjørdal 研究怎样保持 CPTu 孔压滤器饱和？预钻深度、地下水位和孔压测量位置分别是什么？"
+    },
+    {
+      "query_id": "V2P-A-07",
+      "base_query_id": "V2P-A-07",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Mayne 与 Benoit 的 Dover 研究是直接用三轴强度验证 CPTu 的 suc 剖面吗？请找实际现场参照、模式转换关系和采用的参数。"
+    },
+    {
+      "query_id": "V2P-A-08",
+      "base_query_id": "V2P-A-08",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Agaiby 与 Mayne 2018 年 Gloucester 案例中的 aq 是直接取一个深度点的比值吗？请找作者建议的求取方式、所用摩擦角和得到的刚度指数。"
+    },
+    {
+      "query_id": "V2P-A-09",
+      "base_query_id": "V2P-A-09",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "L'Heureux 等 2019 年 Tiller-Flotten 研究里，CAUC、CAUE 和 DSS 的 SHANSEP 参数分别是多少？这些参数能否不分试验模式混用，依据是什么？"
+    },
+    {
+      "query_id": "V2P-A-10",
+      "base_query_id": "V2P-A-10",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Mayne、Greig 与 Cargill 2024 年 Louiseville 论文的消散结果，来自文中那组较新的七条 CPTu 吗？请追查测试批次及消散资料的出处。"
+    },
+    {
+      "query_id": "V2P-A-11",
+      "base_query_id": "V2P-A-11",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "郑晓国等2019年江海高速论文中，用来标定圆锥系数的十字板试验是怎样做的？请找插入后等待时间、转动速率及试验数量。"
+    },
+    {
+      "query_id": "V2P-A-12",
+      "base_query_id": "V2P-A-12",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "王宽君等2021年广东海域研究的便携式十字板和袖珍贯入仪，是在海床原位测试的吗？它们测量位置和强度换算分别是什么？"
+    },
+    {
+      "query_id": "V2P-A-13",
+      "base_query_id": "V2P-A-13",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Rémai 2013年论文中的理论 Nc 与经验 Nk，形式相似但应力项完全一样吗？请找两个公式和对应应力定义。"
+    },
+    {
+      "query_id": "V2P-A-14",
+      "base_query_id": "V2P-A-14",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "2023年台州滨海软黏土论文中，SHANSEP拟合与Nkt标定用的是同一批重塑土试验吗？请分别追查样品制备和强度参照。"
+    },
+    {
+      "query_id": "V2P-A-15",
+      "base_query_id": "V2P-A-15",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "2023年杭州湾强度解译论文为什么没有把含水率、孔隙比、液限和塑限全部放进多元回归？最终保留哪些输入？"
+    },
+    {
+      "query_id": "V2P-A-16",
+      "base_query_id": "V2P-A-16",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Long等2010年Os粉土研究中，CAUC试验的饱和检查、静止土压力系数和剪切速率是怎样设定的？哪些是测得的，哪些是假定的？"
+    },
+    {
+      "query_id": "V2P-A-17",
+      "base_query_id": "V2P-A-17",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Abimaje 2024年比较Halden和Tiller-Flotten的文章，是新做了一套试验还是使用已有资料？其中Halden的CAUC强度取值点是什么？"
+    },
+    {
+      "query_id": "V2P-A-18",
+      "base_query_id": "V2P-A-18",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Haché等2015年Ottawa Leda黏土论文，用什么十字板设备作为参照，又怎样确定Nkt和NΔu？图里的吻合是怎样得到的？"
+    },
+    {
+      "query_id": "V2P-A-19",
+      "base_query_id": "V2P-A-19",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Paniagua等2019年表4给出NΔu=7.50和较高r²，这是否就是作者建议沿深度固定采用的系数？请找表注及最终选用关系式的依据。"
+    },
+    {
+      "query_id": "V2P-A-20",
+      "base_query_id": "V2P-A-20",
+      "task": "A",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Basarah等2026年西爪哇研究的CU三轴，是各向同性还是各向异性固结？饱和与围压如何设置，最终怎样从三轴结果得到相应深度的Su？"
+    },
+    {
+      "query_id": "V2P-B1-01",
+      "base_query_id": "V2P-B1-01",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "软黏土地基的公路工程采用预压和塑料排水板，想找 CPT 与十字板强度相关性的案例。需要查清十字板是否修正、CPT 是否也在预压处理区内，不能只凭项目背景判断。"
+    },
+    {
+      "query_id": "V2P-B1-02",
+      "base_query_id": "V2P-B1-02",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "河口三角洲黏土有不同沉积相，并有 CPTu 和十字板资料。请找按沉积相标定 Nkt 或孔压系数的研究，区分修正与未修正参考，并说明含砂层的限制。"
+    },
+    {
+      "query_id": "V2P-B1-03",
+      "base_query_id": "V2P-B1-03",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "海上钻孔中有 CPT、UU 三轴和船上 torvane 资料。有没有同时比较这两种强度参照下圆锥系数的案例？需要把 qc 与 qt、Nk 与 Nkt 分清楚。"
+    },
+    {
+      "query_id": "V2P-B1-04",
+      "base_query_id": "V2P-B1-04",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "近岸海相黏土怀疑仍在固结，已有 CPTu 和三轴强度资料。请找当地的净锥阻强度解释案例，说明三轴参照类型，以及还建议补充哪些现场依据。"
+    },
+    {
+      "query_id": "V2P-B1-05",
+      "base_query_id": "V2P-B1-05",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "东海海上风电场的粉质黏土，想参考通过室内 CPT 与十字板模型试验标定强度系数的工作。请找其加载条件、强度读取方式及模型与天然土之间的限制。"
+    },
+    {
+      "query_id": "V2P-B1-06",
+      "base_query_id": "V2P-B1-06",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "粉土场地要比较不同锥径和贯入速度下的排水状态，再考虑强度解释。有没有研究说明怎样把速率变成可比较的量、固结参数从哪里取得，并给出一个实际使用例子？"
+    },
+    {
+      "query_id": "V2P-B1-07",
+      "base_query_id": "V2P-B1-07",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "敏感海相黏土有 CPTu 和室内三轴有效应力路径，想找不先指定统一 Nkt、而由解析方法得到强度剖面的案例。需要哪些现场和室内输入，输出对应什么强度模式？"
+    },
+    {
+      "query_id": "V2P-B1-08",
+      "base_query_id": "V2P-B1-08",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "结构性黏土的三轴偏应力和孔压在不同应变达到峰值，CPTu 又同时测锥阻和孔压。请找把这种差异纳入强度解析的研究，并区分试验观察与作者的对应假说。"
+    },
+    {
+      "query_id": "V2P-B1-09",
+      "base_query_id": "V2P-B1-09",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "敏感黏土场地有 CPTu、测得的非静水孔压和高质量固结试验。请找先估 OCR 再估强度的当地应用，说明哪些系数经过地方校准、与哪种强度试验比较。"
+    },
+    {
+      "query_id": "V2P-B1-10",
+      "base_query_id": "V2P-B1-10",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "敏感黏土中同时有 CPTu 和三轴资料，想比较解析刚度路线与 Bq 数据库路线得到的强度。请找同一场地的并列应用，说明两条路线的输入、系数与比较参照。"
+    },
+    {
+      "query_id": "V2P-B1-11",
+      "base_query_id": "V2P-B1-11",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "江苏冲湖积平原的正常固结黏性土，想用现场十字板给CPTu做当地标定。请找测试程序明确的研究，并说明拟合系数和后续比较是在另一个场地还是同一场地。"
+    },
+    {
+      "query_id": "V2P-B1-12",
+      "base_query_id": "V2P-B1-12",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "海上风电场黏土有UU、CU三轴和固结快剪资料，想看不同参照怎样影响Nkt标定。请找同一场区的并列结果及试验条件差别。"
+    },
+    {
+      "query_id": "V2P-B1-13",
+      "base_query_id": "V2P-B1-13",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "全新世黏土有CPTu和CU或无侧限强度资料，想找随孔压比调整超孔压强度系数的研究。请说明标定依据，以及低孔压比时的不确定性。"
+    },
+    {
+      "query_id": "V2P-B1-14",
+      "base_query_id": "V2P-B1-14",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "滨海软黏土有重塑样，想参考通过卸载改变OCR、再拟合归一化直剪强度的试验方案。请找初始应力、卸载状态、剪切方式和拟合参数。"
+    },
+    {
+      "query_id": "V2P-B1-15",
+      "base_query_id": "V2P-B1-15",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "杭州湾淤泥质粉质黏土有CPTu，但暂时没有土样物理指标。请找一种只用孔压比调整Nkt的地方关系，并与需要额外土样指标的方案区分。"
+    },
+    {
+      "query_id": "V2P-B1-16",
+      "base_query_id": "V2P-B1-16",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "粉土CPTu的套管摩阻只有几kPa，两支探头给出的摩阻比不同，但锥阻和孔压接近。想找类似实测案例及对土类判别的提醒。"
+    },
+    {
+      "query_id": "V2P-B1-17",
+      "base_query_id": "V2P-B1-17",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "芬兰软敏感黏土有CPTu、现场十字板和落锥资料，想查同时比较三者的系数标定研究：参照强度是否作过塑性修正，匹配两种参照的系数是否一样？"
+    },
+    {
+      "query_id": "V2P-B1-18",
+      "base_query_id": "V2P-B1-18",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "Ottawa地区的Leda黏土，想用CPTu获得连续强度剖面。请找现场十字板标定的Nkt依据，说明当地取值与常用15相比如何，以及标定是怎样做的。"
+    },
+    {
+      "query_id": "V2P-B1-19",
+      "base_query_id": "V2P-B1-19",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "软敏感黏土想找以高质量大直径块样为依据的CPTu强度关系。请查其强度与预固结压力参照的试验方式，以及这些关系是否允许替代现场取样。"
+    },
+    {
+      "query_id": "V2P-B1-20",
+      "base_query_id": "V2P-B1-20",
+      "task": "B1",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "高塑性软黏土用现场十字板标定CPTu，部分PI超过120。请找说明强度修正方法及高PI外推处理的实例，并查它的标定数据深度和土层筛选范围。"
+    },
+    {
+      "query_id": "V2P-B2-01",
+      "base_query_id": "V2P-B2-01",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "有些 CPT 强度资料说可以忽略总上覆应力、直接由锥阻拟合系数。找实际例子说明，使用这种说法前应核对公式和回归图中的哪些信息。"
+    },
+    {
+      "query_id": "V2P-B2-02",
+      "base_query_id": "V2P-B2-02",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "很软的黏土中，用 qt−u2 解释强度特别不稳定，但单个测量看起来没有明显异常。有没有文献解释这种情况，并提示是否需要换一种锥阻或孔压表达来检查？"
+    },
+    {
+      "query_id": "V2P-B2-03",
+      "base_query_id": "V2P-B2-03",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "海上报告把 torvane 和 UU 得到的强度都拿来标定 CPT。我不清楚 torvane 是否就是原位十字板。请找可核对实际试验位置、方式和标定对象的研究。"
+    },
+    {
+      "query_id": "V2P-B2-04",
+      "base_query_id": "V2P-B2-04",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "海相软黏土的消散试验没有等到结束，还想判断是否存在残余超孔压、会不会影响强度解释的背景判断。有什么外推或补查依据？需要说明它只代表测点还是整层。"
+    },
+    {
+      "query_id": "V2P-B2-05",
+      "base_query_id": "V2P-B2-05",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "用重塑黏土的小模型标定了 CPT 强度系数，想搬到天然海相黏土上，但不知道还缺哪些条件核查。请找研究说明模型试验与现场可能不一致的原因。"
+    },
+    {
+      "query_id": "V2P-B2-06",
+      "base_query_id": "V2P-B2-06",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "准备解释黏土 CPTu 强度，但常用土行为图的分类与室内观察的敏感性不一致。有哪些原文案例可帮助排查这种不一致，并提示替代的识别依据？"
+    },
+    {
+      "query_id": "V2P-B2-07",
+      "base_query_id": "V2P-B2-07",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "用 CPTu 锥阻和孔压的关系估刚度再算强度时，拟合出的斜率不大于零，地下水也可能比较深。我不知道能否继续套用。有没有文献明确这一路线的适用前提？"
+    },
+    {
+      "query_id": "V2P-B2-08",
+      "base_query_id": "V2P-B2-08",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "敏感黏土中，由 CPTu 不同读数推得的三条应力历史剖面互不一致，调动参数后仍不一致。有没有研究报告类似问题，并提出需要改变的解释假设？"
+    },
+    {
+      "query_id": "V2P-B2-09",
+      "base_query_id": "V2P-B2-09",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "用室内结果校准 CPTu 强度时，几种取样质量判据对同一批敏感黏土样品给出不同评价。有没有案例说明这种分歧应怎样追查，不能简单认定样品都坏了？"
+    },
+    {
+      "query_id": "V2P-B2-10",
+      "base_query_id": "V2P-B2-10",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "变速 CPTu 中，快速段锥阻已趋于稳定，锥肩负超孔压却继续变化。还想用它解释强度，应查什么原理依据来理解两种读数不一致的速率响应？"
+    },
+    {
+      "query_id": "V2P-B2-11",
+      "base_query_id": "V2P-B2-11",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "不同文献里的强度圆锥系数都写Nk，但我不确定它们用的是qc还是qt。请找能说明为什么不能只按符号合并的原文例子。"
+    },
+    {
+      "query_id": "V2P-B2-12",
+      "base_query_id": "V2P-B2-12",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "一份海上黏土CPTu研究给了强度的上限、中值和下限，这些一定是统计置信区间吗？请找实际文献追查它们是怎样形成的。"
+    },
+    {
+      "query_id": "V2P-B2-13",
+      "base_query_id": "V2P-B2-13",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "拿到几份黏土Nkt资料，有人说塑性指数越大系数越大。我想先找反例或局限，确认这是不是普遍规律。"
+    },
+    {
+      "query_id": "V2P-B2-14",
+      "base_query_id": "V2P-B2-14",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "用室内归一化强度关系联立CPTu推得较高OCR，是否意味着试验也覆盖了那些高OCR？请找一个能核对室内加载范围与现场推算范围的案例。"
+    },
+    {
+      "query_id": "V2P-B2-15",
+      "base_query_id": "V2P-B2-15",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "海上CPTu浅层强度偏低，某个深度锥阻又突然增大，原因不清楚。有没有研究提醒先检查测试设备或施工条件，而不是直接认定土层变化？"
+    },
+    {
+      "query_id": "V2P-B2-16",
+      "base_query_id": "V2P-B2-16",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "粉土CPTu的孔压消散不是一直下降，这会不会影响后续解释？请找实际观测和需要进一步核查的解释环节。"
+    },
+    {
+      "query_id": "V2P-B2-17",
+      "base_query_id": "V2P-B2-17",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "几篇CPTu强度文章给出相近结果，我想先核查它们是不是重复使用已有试验。请找一个能追查数据来源的例子。"
+    },
+    {
+      "query_id": "V2P-B2-18",
+      "base_query_id": "V2P-B2-18",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "想用CPTu估敏感黏土重塑强度，但不清楚测量靠不靠谱。请找测量局限和可用的试验核查办法，包括试样需要保持什么条件。"
+    },
+    {
+      "query_id": "V2P-B2-19",
+      "base_query_id": "V2P-B2-19",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "一份勘察数据库同时包含CU和UU试验，能认为两类试验都用于每个场地的CPTu标定吗？请找说明实际参照取舍及原因的实例。"
+    },
+    {
+      "query_id": "V2P-B2-20",
+      "base_query_id": "V2P-B2-20",
+      "task": "B2",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "看到粉土CPTu项目说要制定工程指南，想知道文献里已经实测验证了哪些、哪些还只是后续计划。请找能区分这两者的项目报告。"
+    },
+    {
+      "query_id": "V2P-C-01",
+      "base_query_id": "V2P-C-01",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我知道有用修正十字板强度与总锥阻做线性回归、报告圆锥系数的路线。请找一个工程实例，返回参考强度修正和完整回归关系，尤其说明是否过原点。"
+    },
+    {
+      "query_id": "V2P-C-02",
+      "base_query_id": "V2P-C-02",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "听说有一种先将 CPTu 与十字板结果按有效上覆应力归一化，再按沉积相求圆锥系数的间接法。请找来源、所需量及它相对逐点直接法的作用和限制。"
+    },
+    {
+      "query_id": "V2P-C-03",
+      "base_query_id": "V2P-C-03",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "用进化多项式回归从 CPT 估计海相黏土强度的 EPR 方法，有哪些具体关系可追查？请给出一条关系的输入单位、强度参照和可用范围提示。"
+    },
+    {
+      "query_id": "V2P-C-04",
+      "base_query_id": "V2P-C-04",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "有一种利用正常固结强度比构造目标锥阻，再由实测与目标锥阻之比估计固结度的方法。请找关系和输入定义，它用总锥阻之比还是净锥阻之比？"
+    },
+    {
+      "query_id": "V2P-C-05",
+      "base_query_id": "V2P-C-05",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "室内 CPT 与峰值十字板强度配对求 Nk 的标定路线，如何定义锥阻和上覆应力？请找一个模型试验实例，并说明峰值强度是如何读取的。"
+    },
+    {
+      "query_id": "V2P-C-06",
+      "base_query_id": "V2P-C-06",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我知道 V=v·d/cv 这种归一化贯入速率，但不清楚使用背景。请找用于粉土 CPTu 排水判断的文献，说明变量、cv 的取得方式和是否直接采用标准速率作判据。"
+    },
+    {
+      "query_id": "V2P-C-07",
+      "base_query_id": "V2P-C-07",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "SCE-CSSM 中从刚度指数 IR 求 Nkt，再求 Su 的关系是什么？请找一种完整实现，指出式子括号、净锥阻定义及所对应的强度模式。"
+    },
+    {
+      "query_id": "V2P-C-08",
+      "base_query_id": "V2P-C-08",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "敏感黏土的双摩擦角 SCE-CSSM 方法里，φ1 和 φ2 分别取自什么状态，怎么进入 aq 与 IR 的解释？请找定义和实际使用的原文，不把两个角度当同义词。"
+    },
+    {
+      "query_id": "V2P-C-09",
+      "base_query_id": "V2P-C-09",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "SHANSEP 用于 CPTu 时，OCR 从哪里来？请找一个先由 CPTu 求 OCR、再转换强度的完整实例，区分地方拟合参数与通用关系。"
+    },
+    {
+      "query_id": "V2P-C-10",
+      "base_query_id": "V2P-C-10",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "把 CPTu 套管摩阻当重塑强度、再由摩阻比估敏感度的路线，有什么适用限制？请找定义和高敏感黏土中的实际对照证据。"
+    },
+    {
+      "query_id": "V2P-C-11",
+      "base_query_id": "V2P-C-11",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "从实测qc做孔压面积修正再用净锥阻估强度的路线，面积比是什么、应力扣除又是什么？请找一个说明实际探头参数的实现。"
+    },
+    {
+      "query_id": "V2P-C-12",
+      "base_query_id": "V2P-C-12",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "SHANSEP的正常固结强度比a，有研究通过强度随深度拟合来取值吗？请追查一个CPTu应用中a的来源、所用试验以及其他必要输入。"
+    },
+    {
+      "query_id": "V2P-C-13",
+      "base_query_id": "V2P-C-13",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "我知道NΔu=24.3Bq的关系，但不知道它旁边的±2表示什么。请找原始解释及低Bq下的使用提醒。"
+    },
+    {
+      "query_id": "V2P-C-14",
+      "base_query_id": "V2P-C-14",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "有一种把SHANSEP和Nkt关系联立，再反推OCR经验系数k的方法。请找k不是固定常数的具体表达，并追查它的推导来源。"
+    },
+    {
+      "query_id": "V2P-C-15",
+      "base_query_id": "V2P-C-15",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "利用Bq与塑性指数共同估计Nkt的线性多元式，在哪个工程做过邻近场地应用？请找公式、额外输入和对照试验的位置关系。"
+    },
+    {
+      "query_id": "V2P-C-16",
+      "base_query_id": "V2P-C-16",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "想追查变速CPTu中“每个土层用较长连续贯入段”而不是短段twitch的方法依据。请找采用这种安排的研究及作者给出的理由。"
+    },
+    {
+      "query_id": "V2P-C-17",
+      "base_query_id": "V2P-C-17",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "已知Su可按净锥阻、超孔压或有效锥阻三条路线估算，想追查它们在Halden与Tiller-Flotten并列使用的文献：实际用了哪些系数，式中的qt和qe各指什么？"
+    },
+    {
+      "query_id": "V2P-C-18",
+      "base_query_id": "V2P-C-18",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "想用Su=Δu/NΔu查Ottawa Leda黏土的取值依据。请找当地研究给出的系数范围、地下水位限制，以及是否已经能不经当地标定直接推广。"
+    },
+    {
+      "query_id": "V2P-C-19",
+      "base_query_id": "V2P-C-19",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "有些文献把SHANSEP、Nkt和NΔu列成不同公式。请找将同一强度关系改写成两种圆锥系数的实例，追查改写依据及其强度和OCR参照。"
+    },
+    {
+      "query_id": "V2P-C-20",
+      "base_query_id": "V2P-C-20",
+      "task": "C",
+      "expression": "detailed",
+      "language": "zh",
+      "query": "看到Nkt=10.22−3.831 ln(Bq)这条关系，想追查它的来源和Bq使用边界。另外，论文的Nkt拟合与报告的R²是否采用同样的截距设置？"
+    }
+  ]
+}

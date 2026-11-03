@@ -1,0 +1,3961 @@
+{
+  "questions": [
+    {
+      "query_id": "S01",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "scope",
+          "points": [
+            "measurements",
+            "scope"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_scope",
+              "components": {
+                "measurements": [
+                  {
+                    "component_id": "measurements.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0007:c000805-000933:23a0a21661f5"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "measurements.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0007:c000944-001223:4aa991643621"
+                      ]
+                    ]
+                  }
+                ],
+                "scope": [
+                  {
+                    "component_id": "scope.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0007:c001234-001373:141193ab8060"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S02",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "rate",
+          "points": [
+            "rate",
+            "check"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_rate",
+              "components": {
+                "check": [
+                  {
+                    "component_id": "check.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c004301-004368:ffc6fc91355c"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c005425-005492:ffc6fc91355c"
+                      ]
+                    ]
+                  }
+                ],
+                "rate": [
+                  {
+                    "component_id": "rate.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c005290-005424:8157bdc5a17f"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S03",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "correction",
+          "points": [
+            "relation_and_quantities",
+            "pressure_requirements",
+            "calibration"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_correction",
+              "components": {
+                "calibration": [
+                  {
+                    "component_id": "calibration.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c001881-002037:9f861f93ea79"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c003790-003932:478e5fd1de31"
+                      ]
+                    ]
+                  }
+                ],
+                "pressure_requirements": [
+                  {
+                    "component_id": "pressure_requirements.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c001425-001481:f62d1d69bb8a"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c003400-003456:f62d1d69bb8a"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "pressure_requirements.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c001492-001869:facd70aee11f"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c003457-003789:2c94fc2fc4c8"
+                      ]
+                    ]
+                  }
+                ],
+                "relation_and_quantities": [
+                  {
+                    "component_id": "relation_and_quantities.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0028:c002718-002744:2929ad4875dd"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0028:c001422-001540:da6851ad9125"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "relation_and_quantities.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0028:c001566-001863:6d189a4be9cd"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0028:c002751-003007:f1c2c248b4dc"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "relation_and_quantities.3",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0029:c003203-003399:59737512999b"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0012:c000873-001178:781cd3d198c5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S04",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "friction_ratio",
+          "points": [
+            "pairing",
+            "caution"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm_alignment",
+              "components": {
+                "caution": [
+                  {
+                    "component_id": "caution.1",
+                    "supports": [
+                      [
+                        "STD-010:p0011:c008287-008622:71a004d1944d"
+                      ]
+                    ]
+                  }
+                ],
+                "pairing": [
+                  {
+                    "component_id": "pairing.1",
+                    "supports": [
+                      [
+                        "STD-010:p0011:c001562-001954:a6f08e7a409a"
+                      ],
+                      [
+                        "STD-010:p0011:c007904-008050:b12bd682ff80"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "pairing.2",
+                    "supports": [
+                      [
+                        "STD-010:p0011:c008051-008286:798089a1391e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S05",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "one_guidance_route",
+          "points": [
+            "guidance",
+            "supporting_information"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv_local_laboratory",
+              "components": {
+                "guidance": [
+                  {
+                    "component_id": "guidance.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001095-001435:6a4e4c611487"
+                      ]
+                    ]
+                  }
+                ],
+                "supporting_information": [
+                  {
+                    "component_id": "supporting_information.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001436-001636:643c802c4007"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "caltrans_project_calibration",
+              "components": {
+                "guidance": [
+                  {
+                    "component_id": "guidance.1",
+                    "supports": [
+                      [
+                        "STD-022:p0002:c000853-000905:3c6cf41dfc64",
+                        "STD-022:p0002:c000913-001032:02cac068dde2",
+                        "STD-022:p0007:c002255-002406:aa7e896485f5"
+                      ],
+                      [
+                        "STD-022:p0002:c000853-000905:3c6cf41dfc64",
+                        "STD-022:p0002:c000913-001032:02cac068dde2",
+                        "STD-022:p0007:c000142-000346:d127c14312f5"
+                      ]
+                    ]
+                  }
+                ],
+                "supporting_information": [
+                  {
+                    "component_id": "supporting_information.1",
+                    "supports": [
+                      [
+                        "STD-022:p0007:c002626-002781:586d11a5c68c"
+                      ],
+                      [
+                        "STD-022:p0007:c000486-000860:b2decf3aae46"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "supporting_information.2",
+                    "supports": [
+                      [
+                        "STD-022:p0002:c001033-001116:bb7adb865c30"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "nz_soft_soil_correlation",
+              "components": {
+                "guidance": [
+                  {
+                    "component_id": "guidance.1",
+                    "supports": [
+                      [
+                        "STD-032:p0029:c006945-007091:2106f58332ba"
+                      ]
+                    ]
+                  }
+                ],
+                "supporting_information": [
+                  {
+                    "component_id": "supporting_information.1",
+                    "supports": [
+                      [
+                        "STD-032:p0029:c004327-004783:4fa83b41a128"
+                      ],
+                      [
+                        "STD-032:p0029:c005517-005746:f6c58b6e0c76"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "supporting_information.2",
+                    "supports": [
+                      [
+                        "STD-032:p0029:c007092-007635:b7ad188fbdca"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "wsdot_general_cpt_correlation_guidance",
+              "components": {
+                "guidance": [
+                  {
+                    "component_id": "guidance.1",
+                    "supports": [
+                      [
+                        "STD-028:p0133:c001664-002621:2ea84dfb7ca6"
+                      ]
+                    ]
+                  }
+                ],
+                "supporting_information": [
+                  {
+                    "component_id": "supporting_information.1",
+                    "supports": [
+                      [
+                        "STD-028:p0138:c000283-000629:3436b9341c68"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "supporting_information.2",
+                    "supports": [
+                      [
+                        "STD-028:p0134:c002144-002518:e72e2bce6379"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S06",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "one_relation",
+          "points": [
+            "relation",
+            "inputs",
+            "applicability"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans_kulhawy_mayne",
+              "components": {
+                "applicability": [
+                  {
+                    "component_id": "applicability.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c000329-000509:0f4f927aaa33"
+                      ],
+                      [
+                        "STD-022:p0006:c002113-002292:68b4474f2a1d"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "applicability.2",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002470-002539:4fa85c587046"
+                      ]
+                    ]
+                  }
+                ],
+                "inputs": [
+                  {
+                    "component_id": "inputs.1",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002989-003233:aa6308d2e25c"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.2",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002311-002665:95e61110d5d7"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.3",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002756-002924:4f262c22d700"
+                      ]
+                    ]
+                  }
+                ],
+                "relation": [
+                  {
+                    "component_id": "relation.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002447-002469:c6741200bbc5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "caltrans_robertson_campanella_additional_conditions",
+              "components": {
+                "applicability": [
+                  {
+                    "component_id": "applicability.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c000329-000509:0f4f927aaa33"
+                      ],
+                      [
+                        "STD-022:p0006:c002113-002292:68b4474f2a1d"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "applicability.2",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002335-002444:207320940a66"
+                      ]
+                    ]
+                  }
+                ],
+                "inputs": [
+                  {
+                    "component_id": "inputs.1",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c000179-000287:ed5aa20cf099"
+                      ],
+                      [
+                        "STD-022:p0004:c002193-002310:a3b51602a5b8"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.2",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002756-002924:4f262c22d700"
+                      ]
+                    ]
+                  }
+                ],
+                "relation": [
+                  {
+                    "component_id": "relation.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002295-002334:2ea32104e869"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "caltrans_robertson2010",
+              "components": {
+                "applicability": [
+                  {
+                    "component_id": "applicability.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c000329-000509:0f4f927aaa33"
+                      ],
+                      [
+                        "STD-022:p0006:c002113-002292:68b4474f2a1d"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "applicability.2",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002600-002832:9b59a6c0e20f"
+                      ]
+                    ]
+                  }
+                ],
+                "inputs": [
+                  {
+                    "component_id": "inputs.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002600-002832:9b59a6c0e20f"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.2",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002989-003233:aa6308d2e25c"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.3",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002311-002665:95e61110d5d7"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.4",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002756-002924:4f262c22d700"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.5",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002666-002755:5f0afe549855"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "inputs.6",
+                    "supports": [
+                      [
+                        "STD-022:p0004:c002925-003373:89a90b18ad1e"
+                      ]
+                    ]
+                  }
+                ],
+                "relation": [
+                  {
+                    "component_id": "relation.1",
+                    "supports": [
+                      [
+                        "STD-022:p0006:c002542-002599:0f7f3fbe44cc"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "hk_fill_conditional_tabulated_reference",
+              "components": {
+                "applicability": [
+                  {
+                    "component_id": "applicability.1",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c000050-000312:12e17c029551"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "applicability.2",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c000721-000995:2802d47fff90"
+                      ]
+                    ]
+                  }
+                ],
+                "inputs": [
+                  {
+                    "component_id": "inputs.1",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c001158-001390:aecfec4df259"
+                      ]
+                    ]
+                  }
+                ],
+                "relation": [
+                  {
+                    "component_id": "relation.1",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c001158-001390:aecfec4df259"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S07",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "rate",
+            "exception"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "exception": [
+                  {
+                    "component_id": "exception.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c000217-000368:d900a94b8079"
+                      ]
+                    ]
+                  }
+                ],
+                "rate": [
+                  {
+                    "component_id": "rate.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c005290-005424:8157bdc5a17f"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "astm",
+          "points": [
+            "rate",
+            "exception"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "exception": [
+                  {
+                    "component_id": "exception.1",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c007791-007977:aa1cb2246a70"
+                      ],
+                      [
+                        "STD-010:p0009:c002649-003107:d58895ca9158"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "exception.2",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c002977-003107:c4014c52e828"
+                      ],
+                      [
+                        "STD-010:p0009:c007978-008035:d2ed979be8f5"
+                      ]
+                    ]
+                  }
+                ],
+                "rate": [
+                  {
+                    "component_id": "rate.1",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c002134-002528:2b4bf7e43176"
+                      ],
+                      [
+                        "STD-010:p0009:c007584-007790:1588c56d78ba"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S08",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "dnv",
+          "points": [
+            "guidance",
+            "supporting_information"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv_local_laboratory",
+              "components": {
+                "guidance": [
+                  {
+                    "component_id": "guidance.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001095-001435:6a4e4c611487"
+                      ]
+                    ]
+                  }
+                ],
+                "supporting_information": [
+                  {
+                    "component_id": "supporting_information.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001436-001636:643c802c4007"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "caltrans",
+          "points": [
+            "guidance",
+            "supporting_information"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans_project_calibration",
+              "components": {
+                "guidance": [
+                  {
+                    "component_id": "guidance.1",
+                    "supports": [
+                      [
+                        "STD-022:p0002:c000853-000905:3c6cf41dfc64",
+                        "STD-022:p0002:c000913-001032:02cac068dde2",
+                        "STD-022:p0007:c002255-002406:aa7e896485f5"
+                      ],
+                      [
+                        "STD-022:p0002:c000853-000905:3c6cf41dfc64",
+                        "STD-022:p0002:c000913-001032:02cac068dde2",
+                        "STD-022:p0007:c000142-000346:d127c14312f5"
+                      ]
+                    ]
+                  }
+                ],
+                "supporting_information": [
+                  {
+                    "component_id": "supporting_information.1",
+                    "supports": [
+                      [
+                        "STD-022:p0007:c002626-002781:586d11a5c68c"
+                      ],
+                      [
+                        "STD-022:p0007:c000486-000860:b2decf3aae46"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "supporting_information.2",
+                    "supports": [
+                      [
+                        "STD-022:p0002:c001033-001116:bb7adb865c30"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S09",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "reducer",
+          "points": [
+            "permission",
+            "geometry"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_reducer",
+              "components": {
+                "geometry": [
+                  {
+                    "component_id": "geometry.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c000467-000678:41939d2e1dfd"
+                      ]
+                    ]
+                  }
+                ],
+                "permission": [
+                  {
+                    "component_id": "permission.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c000408-000466:b77995c9f2f6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S10",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "depth",
+          "points": [
+            "reference",
+            "resolution"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_depth",
+              "components": {
+                "reference": [
+                  {
+                    "component_id": "reference.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c001483-001692:85a453a86cfa"
+                      ]
+                    ]
+                  }
+                ],
+                "resolution": [
+                  {
+                    "component_id": "resolution.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c001693-001776:804a4ec69edd"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S11",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "reliability",
+          "points": [
+            "restriction"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "restriction": [
+                  {
+                    "component_id": "restriction.1",
+                    "supports": [
+                      [
+                        "STD-022:p0003:c001497-001586:f12707729dcc"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S12",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "dissipation",
+          "points": [
+            "recording",
+            "exception",
+            "sampling",
+            "duration"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_dissipation",
+              "components": {
+                "duration": [
+                  {
+                    "component_id": "duration.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c001689-001914:f9c846b64dc9"
+                      ]
+                    ]
+                  }
+                ],
+                "exception": [
+                  {
+                    "component_id": "exception.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c000927-001220:8a0f2809fc33"
+                      ]
+                    ]
+                  }
+                ],
+                "recording": [
+                  {
+                    "component_id": "recording.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c000673-000735:c78ddea7e86d"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "recording.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c000845-000904:4b2a4a5bc0fc"
+                      ]
+                    ]
+                  }
+                ],
+                "sampling": [
+                  {
+                    "component_id": "sampling.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c001518-001677:f0be06138456"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S13",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "lab_reference",
+          "points": [
+            "tests",
+            "representative_conditions",
+            "design_context"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "design_context": [
+                  {
+                    "component_id": "design_context.1",
+                    "supports": [
+                      [
+                        "STD-013:p0018:c001705-002012:85b09cbb6d3f"
+                      ],
+                      [
+                        "STD-013:p0019:c002557-002820:e25fd6ec53f2",
+                        "STD-013:p0019:c003838-004105:50b7539abb63"
+                      ]
+                    ]
+                  }
+                ],
+                "representative_conditions": [
+                  {
+                    "component_id": "representative_conditions.1",
+                    "supports": [
+                      [
+                        "STD-013:p0018:c003117-003269:726c85239ca3"
+                      ]
+                    ]
+                  }
+                ],
+                "tests": [
+                  {
+                    "component_id": "tests.1",
+                    "supports": [
+                      [
+                        "STD-013:p0018:c002966-003116:f89d31a62ab3"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S14",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "traceability",
+          "points": [
+            "records_and_identification",
+            "calibration_values"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "calibration_values": [
+                  {
+                    "component_id": "calibration_values.1",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c003089-003585:6a6b05281d31"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "calibration_values.2",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c003726-004045:36f0b8f0f268"
+                      ]
+                    ]
+                  }
+                ],
+                "records_and_identification": [
+                  {
+                    "component_id": "records_and_identification.1",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c002292-002493:78ec963c55af"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "records_and_identification.2",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c002494-002694:13f478930010"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "records_and_identification.3",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c002879-003004:9c9beae1231b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S15",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "one_class",
+          "points": [
+            "class_and_type",
+            "limitation"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso_class1",
+              "components": {
+                "class_and_type": [
+                  {
+                    "component_id": "class_and_type.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0023:c001543-001611:98110b4e3d47"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "class_and_type.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0023:c001818-001867:8d5e16957c3a"
+                      ]
+                    ]
+                  }
+                ],
+                "limitation": [
+                  {
+                    "component_id": "limitation.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0023:c001612-001817:c89c5ba7e7d7"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S16",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "one_guidance",
+          "points": [
+            "obstruction",
+            "prebore"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm_records",
+              "components": {
+                "obstruction": [
+                  {
+                    "component_id": "obstruction.1",
+                    "supports": [
+                      [
+                        "STD-010:p0007:c008234-008535:c4dcffdd1bb3"
+                      ]
+                    ]
+                  }
+                ],
+                "prebore": [
+                  {
+                    "component_id": "prebore.1",
+                    "supports": [
+                      [
+                        "STD-010:p0007:c007205-007573:1eaed55c285a"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S17",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "one_guidance",
+          "points": [
+            "groundwater",
+            "duration_and_exception"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm_equilibrium",
+              "components": {
+                "duration_and_exception": [
+                  {
+                    "component_id": "duration_and_exception.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c003325-003684:16fec7e6e399"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "duration_and_exception.2",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c003684-004110:6acede9c4556"
+                      ]
+                    ]
+                  }
+                ],
+                "groundwater": [
+                  {
+                    "component_id": "groundwater.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c004248-004882:46ee07e8ce3b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S18",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "placement"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "placement": [
+                  {
+                    "component_id": "placement.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c000408-000678:c7b123952965"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "astm",
+          "points": [
+            "placement"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "placement": [
+                  {
+                    "component_id": "placement.1",
+                    "supports": [
+                      [
+                        "STD-010:p0007:c006262-006976:0d2d6b8fc0a8"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S19",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "reference",
+            "limit",
+            "action"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c002931-003014:7f2b22b4e336"
+                      ]
+                    ]
+                  }
+                ],
+                "limit": [
+                  {
+                    "component_id": "limit.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c002760-002930:9392757f52f2"
+                      ]
+                    ]
+                  }
+                ],
+                "reference": [
+                  {
+                    "component_id": "reference.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c002559-002759:e5b4a4a5be42"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "astm",
+          "points": [
+            "reference",
+            "limit",
+            "action"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "STD-010:p0008:c006335-007008:bade1d81eac2"
+                      ]
+                    ]
+                  }
+                ],
+                "limit": [
+                  {
+                    "component_id": "limit.1",
+                    "supports": [
+                      [
+                        "STD-010:p0008:c004321-004676:707a1f13c9db"
+                      ]
+                    ]
+                  }
+                ],
+                "reference": [
+                  {
+                    "component_id": "reference.1",
+                    "supports": [
+                      [
+                        "STD-010:p0008:c004119-004321:a0e2193ce04b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S20",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "astm",
+          "points": [
+            "frequency",
+            "repair"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "frequency": [
+                  {
+                    "component_id": "frequency.1",
+                    "supports": [
+                      [
+                        "STD-010:p0008:c007214-007898:bbf48bc3bb6e"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "frequency.2",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c000003-000311:dd654438f050"
+                      ]
+                    ]
+                  }
+                ],
+                "repair": [
+                  {
+                    "component_id": "repair.1",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c000567-000964:91ee6294335e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "nz",
+          "points": [
+            "frequency",
+            "repair"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "frequency": [
+                  {
+                    "component_id": "frequency.1",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c000461-000764:09df26ac2be3"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "frequency.2",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c000955-001347:bb9e64e3848d"
+                      ]
+                    ]
+                  }
+                ],
+                "repair": [
+                  {
+                    "component_id": "repair.1",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c001459-001620:9435de0801d5"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S21",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "geometry",
+          "points": [
+            "nominal_geometry"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "nominal_geometry": [
+                  {
+                    "component_id": "nominal_geometry.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0017:c001168-001394:a5253acba31b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S22",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "replacement",
+          "points": [
+            "replacement"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "replacement": [
+                  {
+                    "component_id": "replacement.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0020:c001789-001833:c93291e01e49"
+                      ],
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c002792-002907:977cf8e8ceae"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S23",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "raw_data",
+          "points": [
+            "permission_and_reason"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "permission_and_reason": [
+                  {
+                    "component_id": "permission_and_reason.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0022:c001355-001576:8096ca6e5193"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S24",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "logging",
+          "points": [
+            "clock_time"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "clock_time": [
+                  {
+                    "component_id": "clock_time.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c000727-000891:7f499ba67e07"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S25",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "use_limit",
+          "points": [
+            "permitted_use_and_limit"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "permitted_use_and_limit": [
+                  {
+                    "component_id": "permitted_use_and_limit.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0023:c002822-003092:e2ad6208d52e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S26",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "restriction",
+          "points": [
+            "restriction"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d3441",
+              "components": {
+                "restriction": [
+                  {
+                    "component_id": "restriction.1",
+                    "supports": [
+                      [
+                        "STD-011:p0002:c002853-003360:b62ce9733c05"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S27",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "correction",
+          "points": [
+            "inner_rod_weight"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d3441",
+              "components": {
+                "inner_rod_weight": [
+                  {
+                    "component_id": "inner_rod_weight.1",
+                    "supports": [
+                      [
+                        "STD-011:p0005:c004719-005112:8b9d975e73a7"
+                      ],
+                      [
+                        "STD-011:p0002:c006313-006575:03701d3bef99"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S28",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "action",
+          "points": [
+            "stop"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d3441",
+              "components": {
+                "stop": [
+                  {
+                    "component_id": "stop.1",
+                    "supports": [
+                      [
+                        "STD-011:p0005:c003806-003993:f465311455da"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S29",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "scope",
+          "points": [
+            "preference_and_conditions"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "preference_and_conditions": [
+                  {
+                    "component_id": "preference_and_conditions.1",
+                    "supports": [
+                      [
+                        "STD-022:p0007:c001080-001324:176fa8701e97"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S30",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "scope",
+          "points": [
+            "preliminary_and_verification"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "preliminary_and_verification": [
+                  {
+                    "component_id": "preliminary_and_verification.1",
+                    "supports": [
+                      [
+                        "STD-022:p0008:c001101-001362:5ec68f4818e3"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S31",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "verification",
+          "points": [
+            "laboratory_verification"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "laboratory_verification": [
+                  {
+                    "component_id": "laboratory_verification.1",
+                    "supports": [
+                      [
+                        "STD-022:p0009:c000317-000630:43ff7977638a"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S32",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "reason",
+          "points": [
+            "context_and_influence_zone"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "context_and_influence_zone": [
+                  {
+                    "component_id": "context_and_influence_zone.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001967-002312:8fcffbf8f981"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S33",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "depth",
+          "points": [
+            "depth_relative_to_skirt"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "depth_relative_to_skirt": [
+                  {
+                    "component_id": "depth_relative_to_skirt.1",
+                    "supports": [
+                      [
+                        "STD-013:p0020:c002309-002584:ac63524693c6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S34",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "interval",
+          "points": [
+            "maximum_and_finer_intervals"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "maximum_and_finer_intervals": [
+                  {
+                    "component_id": "maximum_and_finer_intervals.1",
+                    "supports": [
+                      [
+                        "STD-010:p0003:c006352-006735:fe8543bb4555"
+                      ],
+                      [
+                        "STD-010:p0009:c007055-007480:4d710918ce5b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S35",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "software",
+          "points": [
+            "equation_consistency"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "equation_consistency": [
+                  {
+                    "component_id": "equation_consistency.1",
+                    "supports": [
+                      [
+                        "STD-022:p0003:c002102-002264:8c2adc12d114"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S36",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "preparation",
+          "points": [
+            "saturation",
+            "fluid_conditions"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "saturation": [
+                  {
+                    "component_id": "saturation.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c000997-001269:eee8ac4b7a7f"
+                      ]
+                    ]
+                  }
+                ],
+                "fluid_conditions": [
+                  {
+                    "component_id": "fluid_conditions.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c001284-001624:3928db80966e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S37",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "baseline",
+          "points": [
+            "channels",
+            "measurement_conditions"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "channels": [
+                  {
+                    "component_id": "channels.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c002689-002913:0949c934c30c"
+                      ]
+                    ]
+                  }
+                ],
+                "measurement_conditions": [
+                  {
+                    "component_id": "measurement_conditions.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c002929-003292:2f040dd0db1e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S38",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "termination",
+          "points": [
+            "stop_conditions"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "stop_conditions": [
+                  {
+                    "component_id": "stop_conditions.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c002107-002231:1bd0a374363b",
+                        "ISO-22476-1-2012-EN:p0026:c002238-002354:ff3c931a944e"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "stop_conditions.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c002107-002231:1bd0a374363b",
+                        "ISO-22476-1-2012-EN:p0026:c002361-002468:d3d7d5aaa5b5"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "stop_conditions.3",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c002107-002231:1bd0a374363b",
+                        "ISO-22476-1-2012-EN:p0026:c002475-002587:59f81efd77c1"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "stop_conditions.4",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c002594-002670:235dd2d37fb6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S39",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "checking",
+          "points": [
+            "interval_and_independence"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "interval_and_independence": [
+                  {
+                    "component_id": "interval_and_independence.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c001782-001920:eb6c4cda8e1b"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "interval_and_independence.2",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c001921-002033:cc4e3ee9c175"
+                      ]
+                    ]
+                  },
+                  {
+                    "component_id": "interval_and_independence.3",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c002034-002101:c67bd0b89a4b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S40",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "calibration",
+          "points": [
+            "interval_and_exceptions",
+            "system_scope"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "interval_and_exceptions": [
+                  {
+                    "component_id": "interval_and_exceptions.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0035:c001746-002512:fea7a1850acc"
+                      ]
+                    ]
+                  }
+                ],
+                "system_scope": [
+                  {
+                    "component_id": "system_scope.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0035:c002524-002909:5b060605c9dd"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S41",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "preparation",
+          "points": [
+            "desaturation",
+            "baseline_membrane"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "desaturation": [
+                  {
+                    "component_id": "desaturation.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c004184-005102:2f71a7863d71"
+                      ]
+                    ]
+                  }
+                ],
+                "baseline_membrane": [
+                  {
+                    "component_id": "baseline_membrane.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c001076-001355:8b40fff24fd4"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S42",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "dissipation",
+          "points": [
+            "filter_dependent_procedure"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "filter_dependent_procedure": [
+                  {
+                    "component_id": "filter_dependent_procedure.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c001512-002948:2c7bc09fa90c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S43",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "pumice",
+          "points": [
+            "limitation",
+            "reason",
+            "verification"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "limitation": [
+                  {
+                    "component_id": "limitation.1",
+                    "supports": [
+                      [
+                        "STD-032:p0030:c000317-001068:86e198d4948c"
+                      ]
+                    ]
+                  }
+                ],
+                "reason": [
+                  {
+                    "component_id": "reason.1",
+                    "supports": [
+                      [
+                        "STD-032:p0030:c001182-002898:8352b5df4950"
+                      ]
+                    ]
+                  }
+                ],
+                "verification": [
+                  {
+                    "component_id": "verification.1",
+                    "supports": [
+                      [
+                        "STD-032:p0030:c003043-003494:017b55ebae29"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S44",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "correction",
+          "points": [
+            "prerequisites",
+            "soil_dependence"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "prerequisites": [
+                  {
+                    "component_id": "prerequisites.1",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c004754-005408:6c8e59fe1f7d"
+                      ]
+                    ]
+                  }
+                ],
+                "soil_dependence": [
+                  {
+                    "component_id": "soil_dependence.1",
+                    "supports": [
+                      [
+                        "STD-032:p0031:c000852-001892:1f49b65cf691"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S45",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "pile",
+          "points": [
+            "investigation_depth",
+            "end_bearing_layer"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "investigation_depth": [
+                  {
+                    "component_id": "investigation_depth.1",
+                    "supports": [
+                      [
+                        "STD-013:p0020:c002825-002994:3ccf69c7d467"
+                      ]
+                    ]
+                  }
+                ],
+                "end_bearing_layer": [
+                  {
+                    "component_id": "end_bearing_layer.1",
+                    "supports": [
+                      [
+                        "STD-013:p0020:c003375-003723:2c34b15cdcb0"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S46",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "correlations",
+          "points": [
+            "domain_limit",
+            "local_validation"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "wsdot",
+              "components": {
+                "domain_limit": [
+                  {
+                    "component_id": "domain_limit.1",
+                    "supports": [
+                      [
+                        "STD-028:p0134:c001678-002143:92403aa79a42"
+                      ]
+                    ]
+                  }
+                ],
+                "local_validation": [
+                  {
+                    "component_id": "local_validation.1",
+                    "supports": [
+                      [
+                        "STD-028:p0134:c002144-002518:e72e2bce6379"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S47",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "baseline",
+          "points": [
+            "record_and_limits",
+            "thermal_preparation"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "record_and_limits": [
+                  {
+                    "component_id": "record_and_limits.1",
+                    "supports": [
+                      [
+                        "STD-032:p0032:c002893-003533:b5a9007d696e"
+                      ]
+                    ]
+                  }
+                ],
+                "thermal_preparation": [
+                  {
+                    "component_id": "thermal_preparation.1",
+                    "supports": [
+                      [
+                        "STD-032:p0032:c004402-005580:b00ddfddb47b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S48",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "delay",
+          "points": [
+            "threshold_and_effect",
+            "record_and_treatment"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "mechanical",
+              "components": {
+                "threshold_and_effect": [
+                  {
+                    "component_id": "threshold_and_effect.1",
+                    "supports": [
+                      [
+                        "STD-011:p0005:c002389-002766:4469661535cc"
+                      ]
+                    ]
+                  }
+                ],
+                "record_and_treatment": [
+                  {
+                    "component_id": "record_and_treatment.1",
+                    "supports": [
+                      [
+                        "STD-011:p0005:c002766-003150:cc0ecbb3df5f"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S49",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "fill",
+          "points": [
+            "conditional_target",
+            "profile_caution"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "hk",
+              "components": {
+                "conditional_target": [
+                  {
+                    "component_id": "conditional_target.1",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c001573-001756:12eb233c91a3"
+                      ]
+                    ]
+                  }
+                ],
+                "profile_caution": [
+                  {
+                    "component_id": "profile_caution.1",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c001758-001852:cc4c37c565e4"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S50",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "clay",
+          "points": [
+            "test_types_and_states",
+            "nearby_calibration"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "test_types_and_states": [
+                  {
+                    "component_id": "test_types_and_states.1",
+                    "supports": [
+                      [
+                        "STD-013:p0018:c003277-003641:ebf0b10e21bd"
+                      ]
+                    ]
+                  }
+                ],
+                "nearby_calibration": [
+                  {
+                    "component_id": "nearby_calibration.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001436-001636:643c802c4007"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S51",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "separation"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "separation": [
+                  {
+                    "component_id": "separation.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c000158-000626:424707bac1ac"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S52",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "support"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "support": [
+                  {
+                    "component_id": "support.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0021:c008911-009139:bb5387c1770b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S53",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "cone",
+            "sleeve"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "cone": [
+                  {
+                    "component_id": "cone.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0017:c002573-002759:4e9f79125703"
+                      ]
+                    ]
+                  }
+                ],
+                "sleeve": [
+                  {
+                    "component_id": "sleeve.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0019:c008006-008205:c9c331ead4a7"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S54",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "scale_exception"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "scale_exception": [
+                  {
+                    "component_id": "scale_exception.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0032:c001767-002283:e8da0d9ab03c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S55",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "method",
+            "action"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "rotate",
+              "components": {
+                "method": [
+                  {
+                    "component_id": "method.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c000243-000361:e760dbbe5d94",
+                        "ISO-22476-1-2012-EN:p0034:c000368-000477:530d9e364ef2"
+                      ]
+                    ]
+                  }
+                ],
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c000783-000861:e0317772ec39"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "roll",
+              "components": {
+                "method": [
+                  {
+                    "component_id": "method.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c000243-000361:e760dbbe5d94",
+                        "ISO-22476-1-2012-EN:p0034:c000485-000587:9696a8b5d78a"
+                      ]
+                    ]
+                  }
+                ],
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c000783-000861:e0317772ec39"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "tube",
+              "components": {
+                "method": [
+                  {
+                    "component_id": "method.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c000243-000361:e760dbbe5d94",
+                        "ISO-22476-1-2012-EN:p0034:c000594-000772:e6adfcacf64f"
+                      ]
+                    ]
+                  }
+                ],
+                "action": [
+                  {
+                    "component_id": "action.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0034:c000783-000861:e0317772ec39"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S56",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "transfer_restriction"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "mechanical",
+              "components": {
+                "transfer_restriction": [
+                  {
+                    "component_id": "transfer_restriction.1",
+                    "supports": [
+                      [
+                        "STD-011:p0002:c004333-004610:f76dc418178b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S57",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "capacity_choice"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "capacity_choice": [
+                  {
+                    "component_id": "capacity_choice.1",
+                    "supports": [
+                      [
+                        "STD-032:p0030:c001292-001532:8481ee85639d"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "astm",
+              "components": {
+                "capacity_choice": [
+                  {
+                    "component_id": "capacity_choice.1",
+                    "supports": [
+                      [
+                        "STD-010:p0004:c001791-002882:8ba07732e69c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S58",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "transition_and_thin_layer"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "transition_and_thin_layer": [
+                  {
+                    "component_id": "transition_and_thin_layer.1",
+                    "supports": [
+                      [
+                        "STD-032:p0033:c000823-002253:f760f7b8bc10"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S59",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "fines_verification"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "fines_verification": [
+                  {
+                    "component_id": "fines_verification.1",
+                    "supports": [
+                      [
+                        "STD-032:p0029:c006576-006944:c011cfeed26f"
+                      ],
+                      [
+                        "STD-032:p0029:c001993-003147:7998ac7738f1"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S60",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "shallow_and_deep_data"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "shallow_and_deep_data": [
+                  {
+                    "component_id": "shallow_and_deep_data.1",
+                    "supports": [
+                      [
+                        "STD-013:p0020:c000630-001002:d91ca325dcc9"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S61",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "variability_based_intensification"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "variability_based_intensification": [
+                  {
+                    "component_id": "variability_based_intensification.1",
+                    "supports": [
+                      [
+                        "STD-013:p0018:c000231-000664:d6f7f41837f6"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S62",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "repeat_measurements"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "wsdot",
+              "components": {
+                "repeat_measurements": [
+                  {
+                    "component_id": "repeat_measurements.1",
+                    "supports": [
+                      [
+                        "STD-028:p0133:c002027-002621:910fa234c56c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S63",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "mechanism",
+            "remedy_or_check"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm_preparation",
+              "components": {
+                "mechanism": [
+                  {
+                    "component_id": "mechanism.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c004774-005102:be92907aaf0a"
+                      ]
+                    ]
+                  }
+                ],
+                "remedy_or_check": [
+                  {
+                    "component_id": "remedy_or_check.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c004184-004774:c09ef02f7fb7"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "option_id": "astm_check",
+              "components": {
+                "mechanism": [
+                  {
+                    "component_id": "mechanism.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c004774-005102:be92907aaf0a"
+                      ]
+                    ]
+                  }
+                ],
+                "remedy_or_check": [
+                  {
+                    "component_id": "remedy_or_check.1",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c004172-004647:41ce805dd513"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S64",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "permitted_context"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "permitted_context": [
+                  {
+                    "component_id": "permitted_context.1",
+                    "supports": [
+                      [
+                        "STD-022:p0007:c001080-001324:176fa8701e97"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S65",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "guidance",
+          "points": [
+            "restart_effects_and_records"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "restart_effects_and_records": [
+                  {
+                    "component_id": "restart_effects_and_records.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c006178-007081:1b5283a7190e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S66",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "wear"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "wear": [
+                  {
+                    "component_id": "wear.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0019:c008006-008205:c9c331ead4a7"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "astm",
+          "points": [
+            "wear"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "wear": [
+                  {
+                    "component_id": "wear.1",
+                    "supports": [
+                      [
+                        "STD-010:p0004:c004102-004619:c45def44043b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S67",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "temperature"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "temperature": [
+                  {
+                    "component_id": "temperature.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0025:c002929-003292:2f040dd0db1e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "nz",
+          "points": [
+            "temperature"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "temperature": [
+                  {
+                    "component_id": "temperature.1",
+                    "supports": [
+                      [
+                        "STD-032:p0032:c004402-005580:b00ddfddb47b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S68",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "procedure"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "procedure": [
+                  {
+                    "component_id": "procedure.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0027:c000673-001220:bb657e0beeb8"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "astm",
+          "points": [
+            "procedure"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "procedure": [
+                  {
+                    "component_id": "procedure.1",
+                    "supports": [
+                      [
+                        "STD-010:p0010:c001512-002948:2c7bc09fa90c"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S69",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "mechanical",
+          "points": [
+            "rate",
+            "exception"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d3441",
+              "components": {
+                "rate": [
+                  {
+                    "component_id": "rate.1",
+                    "supports": [
+                      [
+                        "STD-011:p0004:c005425-005810:e971d2bb4813"
+                      ]
+                    ]
+                  }
+                ],
+                "exception": [
+                  {
+                    "component_id": "exception.1",
+                    "supports": [
+                      [
+                        "STD-011:p0004:c005936-006437:0d704911eaa1"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "electronic",
+          "points": [
+            "rate",
+            "exception"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d5778",
+              "components": {
+                "rate": [
+                  {
+                    "component_id": "rate.1",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c002134-002528:2b4bf7e43176"
+                      ],
+                      [
+                        "STD-010:p0009:c007584-007790:1588c56d78ba"
+                      ]
+                    ]
+                  }
+                ],
+                "exception": [
+                  {
+                    "component_id": "exception.1",
+                    "supports": [
+                      [
+                        "STD-010:p0009:c002649-003107:d58895ca9158"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S70",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "caltrans",
+          "points": [
+            "location_and_purpose"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "location_and_purpose": [
+                  {
+                    "component_id": "location_and_purpose.1",
+                    "supports": [
+                      [
+                        "STD-022:p0002:c000913-001116:116c6c99df63"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "nz",
+          "points": [
+            "frequency_and_context"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "frequency_and_context": [
+                  {
+                    "component_id": "frequency_and_context.1",
+                    "supports": [
+                      [
+                        "STD-032:p0029:c007092-007634:dfdfadff9806"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S71",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "mechanical",
+          "points": [
+            "input_compatibility"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d3441",
+              "components": {
+                "input_compatibility": [
+                  {
+                    "component_id": "input_compatibility.1",
+                    "supports": [
+                      [
+                        "STD-011:p0002:c004333-004610:f76dc418178b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "caltrans",
+          "points": [
+            "software_consistency"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "software_consistency": [
+                  {
+                    "component_id": "software_consistency.1",
+                    "supports": [
+                      [
+                        "STD-022:p0003:c002102-002264:8c2adc12d114"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S72",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "processing_disclosure"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "processing_disclosure": [
+                  {
+                    "component_id": "processing_disclosure.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0026:c001184-001431:168107539437"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "astm",
+          "points": [
+            "reading_intervals"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "reading_intervals": [
+                  {
+                    "component_id": "reading_intervals.1",
+                    "supports": [
+                      [
+                        "STD-010:p0003:c006352-006735:fe8543bb4555"
+                      ],
+                      [
+                        "STD-010:p0009:c007055-007480:4d710918ce5b"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S73",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "caltrans",
+          "points": [
+            "reliability"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "reliability": [
+                  {
+                    "component_id": "reliability.1",
+                    "supports": [
+                      [
+                        "STD-022:p0003:c001308-001586:bb37fe15d502"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "wsdot",
+          "points": [
+            "empirical_domain"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "wsdot",
+              "components": {
+                "empirical_domain": [
+                  {
+                    "component_id": "empirical_domain.1",
+                    "supports": [
+                      [
+                        "STD-028:p0134:c001678-002143:92403aa79a42"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S74",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "dnv",
+          "points": [
+            "continuous_profile"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "continuous_profile": [
+                  {
+                    "component_id": "continuous_profile.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c000675-001324:53d01bba448a"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "nz",
+          "points": [
+            "resolution_limits"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "resolution_limits": [
+                  {
+                    "component_id": "resolution_limits.1",
+                    "supports": [
+                      [
+                        "STD-032:p0033:c000823-002253:f760f7b8bc10"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S75",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "caltrans",
+          "points": [
+            "low_nkt"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "low_nkt": [
+                  {
+                    "component_id": "low_nkt.1",
+                    "supports": [
+                      [
+                        "STD-022:p0007:c002563-002781:61b87604c664"
+                      ],
+                      [
+                        "STD-022:p0007:c000510-000860:3e0c33e1b056"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "dnv",
+          "points": [
+            "references",
+            "sample_location"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "dnv",
+              "components": {
+                "references": [
+                  {
+                    "component_id": "references.1",
+                    "supports": [
+                      [
+                        "STD-013:p0018:c003277-003641:ebf0b10e21bd"
+                      ]
+                    ]
+                  }
+                ],
+                "sample_location": [
+                  {
+                    "component_id": "sample_location.1",
+                    "supports": [
+                      [
+                        "STD-013:p0019:c001436-001636:643c802c4007"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S76",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "astm",
+          "points": [
+            "initial_to_final"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "initial_to_final": [
+                  {
+                    "component_id": "initial_to_final.1",
+                    "supports": [
+                      [
+                        "STD-010:p0008:c004128-004676:80e831612df8"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "nz",
+          "points": [
+            "general_and_soft_soil"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "general_and_soft_soil": [
+                  {
+                    "component_id": "general_and_soft_soil.1",
+                    "supports": [
+                      [
+                        "STD-032:p0032:c002893-003533:b5a9007d696e"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S77",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "iso",
+          "points": [
+            "interval"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "iso",
+              "components": {
+                "interval": [
+                  {
+                    "component_id": "interval.1",
+                    "supports": [
+                      [
+                        "ISO-22476-1-2012-EN:p0035:c001746-002512:fea7a1850acc"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "mechanical",
+          "points": [
+            "interval"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "d3441",
+              "components": {
+                "interval": [
+                  {
+                    "component_id": "interval.1",
+                    "supports": [
+                      [
+                        "STD-011:p0004:c004371-004941:b165043a5992"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S78",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "astm",
+          "points": [
+            "size_effect"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "astm",
+              "components": {
+                "size_effect": [
+                  {
+                    "component_id": "size_effect.1",
+                    "supports": [
+                      [
+                        "STD-010:p0004:c004022-004316:8c66083059b2"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "nz",
+          "points": [
+            "size_effect"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "nz",
+              "components": {
+                "size_effect": [
+                  {
+                    "component_id": "size_effect.1",
+                    "supports": [
+                      [
+                        "STD-032:p0028:c002109-003151:64cdb50e7ad0"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S79",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "hk",
+          "points": [
+            "fill_acceptance_context"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "hk",
+              "components": {
+                "fill_acceptance_context": [
+                  {
+                    "component_id": "fill_acceptance_context.1",
+                    "supports": [
+                      [
+                        "STD-017:p0028:c001393-001852:045aa5cf7342"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "caltrans",
+          "points": [
+            "design_correlation_context"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "caltrans",
+              "components": {
+                "design_correlation_context": [
+                  {
+                    "component_id": "design_correlation_context.1",
+                    "supports": [
+                      [
+                        "STD-022:p0002:c000913-001116:116c6c99df63"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "S80",
+      "answer_pool": "provisional",
+      "groups": [
+        {
+          "group_id": "hk",
+          "points": [
+            "reference_difference"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "hk",
+              "components": {
+                "reference_difference": [
+                  {
+                    "component_id": "reference_difference.1",
+                    "supports": [
+                      [
+                        "STD-017:p0034:c000518-001130:539b762810f0"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "group_id": "wsdot",
+          "points": [
+            "reference_difference"
+          ],
+          "evidence_options": [
+            {
+              "option_id": "wsdot",
+              "components": {
+                "reference_difference": [
+                  {
+                    "component_id": "reference_difference.1",
+                    "supports": [
+                      [
+                        "STD-028:p0138:c000987-001736:51dc352d973a"
+                      ]
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

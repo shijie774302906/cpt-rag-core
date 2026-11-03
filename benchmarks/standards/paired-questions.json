@@ -1,0 +1,564 @@
+{
+  "questions": [
+    {
+      "query_id": "ZH-01",
+      "pair_id": "ZH-01",
+      "source_language": "zh",
+      "language": "zh",
+      "query": "根据DB34/T 3944-2021，单桥、双桥和孔压探头分别测量哪些量？请找中文原文。"
+    },
+    {
+      "query_id": "ZH-02",
+      "pair_id": "ZH-02",
+      "source_language": "zh",
+      "language": "zh",
+      "query": "在缺乏静力触探经验的地区划分土层时，DB34/T 3944-2021要求配合哪些其他勘察资料？请找中文依据。"
+    },
+    {
+      "query_id": "ZH-03",
+      "pair_id": "ZH-03",
+      "source_language": "zh",
+      "language": "zh",
+      "query": "按DB34/T 3944-2021，静力触探遇到哪些情况应终止，终止后怎样保存数据和拔出探头？请找中文条文。"
+    },
+    {
+      "query_id": "ZH-04",
+      "pair_id": "ZH-04",
+      "source_language": "zh",
+      "language": "zh",
+      "query": "按JTS/T 242-2020，孔压探头标定有效期和异常后重标定怎样规定？独立型、减法型和模拟探头的标定有哪些区别？请找中文原文。"
+    },
+    {
+      "query_id": "ZH-05",
+      "pair_id": "ZH-05",
+      "source_language": "zh",
+      "language": "zh",
+      "query": "按JTG 3223-2021，单桥或双桥与孔压静力触探的归零检查操作有何不同？请找中文条文，不用其他规范替代。"
+    },
+    {
+      "query_id": "ZH-01",
+      "pair_id": "ZH-01",
+      "source_language": "zh",
+      "language": "en",
+      "query": "Under DB34/T 3944-2021, what quantities do one-bridge, two-bridge and piezocone probes each measure? Retrieve the Chinese original."
+    },
+    {
+      "query_id": "ZH-02",
+      "pair_id": "ZH-02",
+      "source_language": "zh",
+      "language": "en",
+      "query": "When classifying soil layers in a region with little CPT experience, what additional investigation evidence does DB34/T 3944-2021 require? Retrieve the Chinese guidance."
+    },
+    {
+      "query_id": "ZH-03",
+      "pair_id": "ZH-03",
+      "source_language": "zh",
+      "language": "en",
+      "query": "Under DB34/T 3944-2021, when must CPT stop, and how should data and probe withdrawal be handled afterwards? Retrieve the Chinese provisions."
+    },
+    {
+      "query_id": "ZH-04",
+      "pair_id": "ZH-04",
+      "source_language": "zh",
+      "language": "en",
+      "query": "Under JTS/T 242-2020, what are the piezocone calibration validity and recalibration requirements, and how do calibration arrangements differ for independent, subtraction-type and analogue probes? Retrieve the Chinese original."
+    },
+    {
+      "query_id": "ZH-05",
+      "pair_id": "ZH-05",
+      "source_language": "zh",
+      "language": "en",
+      "query": "Under JTG 3223-2021, how do zero-check procedures differ between one-/two-bridge CPT and piezocone testing? Retrieve the Chinese provisions rather than substituting another standard."
+    },
+    {
+      "query_id": "DE-01",
+      "pair_id": "DE-01",
+      "source_language": "de",
+      "language": "de",
+      "query": "Welche Messgrößen unterscheiden elektrische CPT von CPTU, und sind Prüfungen ohne Mantelreibungsmessung erfasst? Bitte die deutsche Fassung DIN EN ISO 22476-1:2013 heranziehen."
+    },
+    {
+      "query_id": "DE-02",
+      "pair_id": "DE-02",
+      "source_language": "de",
+      "language": "de",
+      "query": "Welche Eindringgeschwindigkeit wird vorgeschrieben und wie wird sie überprüft? Bitte die deutsche Fassung DIN EN ISO 22476-1:2013 heranziehen."
+    },
+    {
+      "query_id": "DE-03",
+      "pair_id": "DE-03",
+      "source_language": "de",
+      "language": "de",
+      "query": "Welche Anforderungen gelten für Dissipationsversuche hinsichtlich Messgrößen, Gestängeklemmung und Ausnahme, anfänglicher Aufzeichnungsfrequenz und üblicher Mindestdauer? Bitte die deutsche Fassung DIN EN ISO 22476-1:2013 heranziehen."
+    },
+    {
+      "query_id": "DE-04",
+      "pair_id": "DE-04",
+      "source_language": "de",
+      "language": "de",
+      "query": "Welche Anforderungen gelten für Vorbereitung und Erhaltung der CPTU-Sättigung, und welche Flüssigkeit wird für gesättigte beziehungsweise trockene oder dilatante Böden empfohlen? Bitte die deutsche Fassung DIN EN ISO 22476-1:2013 heranziehen."
+    },
+    {
+      "query_id": "DE-05",
+      "pair_id": "DE-05",
+      "source_language": "de",
+      "language": "de",
+      "query": "Wir benötigen eine praktische Prüfung auf verbogene Drucksondiergestänge vor dem Versuch. Finden Sie mindestens ein zulässiges Prüfverfahren und die Maßnahme bei erkannter Verbiegung in der deutschen Fassung DIN EN ISO 22476-1:2013."
+    },
+    {
+      "query_id": "DE-01",
+      "pair_id": "DE-01",
+      "source_language": "de",
+      "language": "en",
+      "query": "What measurements distinguish electrical CPT from CPTU, and are tests without sleeve-friction measurement covered? Retrieve the German edition DIN EN ISO 22476-1:2013."
+    },
+    {
+      "query_id": "DE-02",
+      "pair_id": "DE-02",
+      "source_language": "de",
+      "language": "en",
+      "query": "What penetration rate is prescribed and how is it checked? Retrieve the German edition DIN EN ISO 22476-1:2013."
+    },
+    {
+      "query_id": "DE-03",
+      "pair_id": "DE-03",
+      "source_language": "de",
+      "language": "en",
+      "query": "What are the dissipation-test requirements for recorded quantities, rod clamping and its exception, initial logging frequency and normal minimum duration? Retrieve the German edition DIN EN ISO 22476-1:2013."
+    },
+    {
+      "query_id": "DE-04",
+      "pair_id": "DE-04",
+      "source_language": "de",
+      "language": "en",
+      "query": "What are the requirements for preparing and maintaining CPTU saturation, and which fluid is recommended for saturated versus dry or dilative soils? Retrieve the German edition DIN EN ISO 22476-1:2013."
+    },
+    {
+      "query_id": "DE-05",
+      "pair_id": "DE-05",
+      "source_language": "de",
+      "language": "en",
+      "query": "We need a practical pre-test check for bent CPT push rods. Find at least one acceptable checking method and the action when bending is detected in the German edition DIN EN ISO 22476-1:2013."
+    },
+    {
+      "query_id": "KO-01",
+      "pair_id": "KO-01",
+      "source_language": "ko",
+      "language": "ko",
+      "query": "KS F 2592:2024에서 콘 관입 저항력, 주면 마찰력 및 마찰 저항비는 어떻게 정의됩니까? 한국어 원문을 찾아 주세요."
+    },
+    {
+      "query_id": "KO-02",
+      "pair_id": "KO-02",
+      "source_language": "ko",
+      "language": "ko",
+      "query": "KS F 2592:2024에 따라 관입 장치의 고정, 수직도, 관입 속도와 데이터 기록에 어떤 요건이 적용됩니까? 한국어 조항을 찾아 주세요."
+    },
+    {
+      "query_id": "KO-03",
+      "pair_id": "KO-03",
+      "source_language": "ko",
+      "language": "ko",
+      "query": "KS F 2592:2024에서 장기간 콘 관입 시험을 할 때 보정 검사는 언제 해야 하며, 인접 시험 구멍과의 거리와 교란 시료 채취 순서는 어떻게 정합니까? 한국어 근거를 찾아 주세요."
+    },
+    {
+      "query_id": "KO-04",
+      "pair_id": "KO-04",
+      "source_language": "ko",
+      "language": "ko",
+      "query": "KS F 2592:2024에서 콘을 토양 온도에 맞추고 영점을 조정하는 방법, 시험 후 영점 비교와 구멍 처리는 어떻게 규정합니까? 한국어 원문을 찾아 주세요."
+    },
+    {
+      "query_id": "KO-05",
+      "pair_id": "KO-05",
+      "source_language": "ko",
+      "language": "ko",
+      "query": "KS F 2592:2024의 보고서에서 장비 특성과 시험 결과에 포함해야 할 정보는 무엇입니까? 그래프 외에 영점과 시험 중 관찰 사항도 확인할 수 있는 한국어 근거를 찾아 주세요."
+    },
+    {
+      "query_id": "KO-01",
+      "pair_id": "KO-01",
+      "source_language": "ko",
+      "language": "en",
+      "query": "How does KS F 2592:2024 define cone penetration resistance, sleeve friction and friction ratio? Retrieve the Korean original."
+    },
+    {
+      "query_id": "KO-02",
+      "pair_id": "KO-02",
+      "source_language": "ko",
+      "language": "en",
+      "query": "Under KS F 2592:2024, what requirements apply to securing the pushing equipment, verticality, penetration rate and data recording? Retrieve the Korean provisions."
+    },
+    {
+      "query_id": "KO-03",
+      "pair_id": "KO-03",
+      "source_language": "ko",
+      "language": "en",
+      "query": "For a long-running CPT programme under KS F 2592:2024, when should calibration checks occur, and what are the rules for nearby test-hole spacing and disturbed-sample sequencing? Retrieve the Korean evidence."
+    },
+    {
+      "query_id": "KO-04",
+      "pair_id": "KO-04",
+      "source_language": "ko",
+      "language": "en",
+      "query": "Under KS F 2592:2024, how should the cone be temperature-equilibrated and zeroed, how are post-test zero readings compared, and how is the hole treated afterwards? Retrieve the Korean original."
+    },
+    {
+      "query_id": "KO-05",
+      "pair_id": "KO-05",
+      "source_language": "ko",
+      "language": "en",
+      "query": "What equipment and test-result information must a KS F 2592:2024 report contain? Retrieve the Korean evidence covering not just graphs but zero readings and observations during testing."
+    },
+    {
+      "query_id": "VI-01",
+      "pair_id": "VI-01",
+      "source_language": "vi",
+      "language": "vi",
+      "query": "Theo TCVN 9352:2012, thí nghiệm xuyên tĩnh được dùng cho những loại đất nào và có giới hạn gì đối với hạt lớn? Hãy tìm bản gốc tiếng Việt."
+    },
+    {
+      "query_id": "VI-02",
+      "pair_id": "VI-02",
+      "source_language": "vi",
+      "language": "vi",
+      "query": "Theo TCVN 9352:2012, yêu cầu về độ nghiêng thiết bị, vận tốc xuyên chuẩn, xuyên liên tục và ghi số liệu là gì? Hãy tìm các quy định tiếng Việt."
+    },
+    {
+      "query_id": "VI-03",
+      "pair_id": "VI-03",
+      "source_language": "vi",
+      "language": "vi",
+      "query": "Theo TCVN 9846:2013, cần bão hòa những bộ phận nào của đầu xuyên CPTu, dùng chất lỏng nào và chuẩn bị đá thấm trong phòng thí nghiệm như thế nào? Hãy tìm bản gốc tiếng Việt."
+    },
+    {
+      "query_id": "VI-04",
+      "pair_id": "VI-04",
+      "source_language": "vi",
+      "language": "vi",
+      "query": "Theo TCVN 9846:2013, cần kiểm tra trạng thái không tải của mũi xuyên khi nào và trong điều kiện tải, nhiệt độ và ngập nước nào? Hãy tìm căn cứ tiếng Việt."
+    },
+    {
+      "query_id": "VI-05",
+      "pair_id": "VI-05",
+      "source_language": "vi",
+      "language": "vi",
+      "query": "Khi áp dụng TCVN 9846:2013, yêu cầu tốc độ xuyên dẫn chiếu đến đâu và quy định thực tế trong tài liệu được viện dẫn là gì? Yêu cầu khoảng độ sâu giữa các lần thu thập số liệu CPTu là gì? Hãy tìm đủ chuỗi căn cứ tiếng Việt."
+    },
+    {
+      "query_id": "VI-01",
+      "pair_id": "VI-01",
+      "source_language": "vi",
+      "language": "en",
+      "query": "Under TCVN 9352:2012, what soils are within the scope of static cone testing and what coarse-particle restriction applies? Retrieve the Vietnamese original."
+    },
+    {
+      "query_id": "VI-02",
+      "pair_id": "VI-02",
+      "source_language": "vi",
+      "language": "en",
+      "query": "Under TCVN 9352:2012, what are the requirements for equipment tilt, standard penetration rate, continuous testing and data logging? Retrieve the Vietnamese provisions."
+    },
+    {
+      "query_id": "VI-03",
+      "pair_id": "VI-03",
+      "source_language": "vi",
+      "language": "en",
+      "query": "Under TCVN 9846:2013, which CPTu components must be saturated, what fluids are used, and how is the porous stone prepared in the laboratory? Retrieve the Vietnamese original."
+    },
+    {
+      "query_id": "VI-04",
+      "pair_id": "VI-04",
+      "source_language": "vi",
+      "language": "en",
+      "query": "Under TCVN 9846:2013, when should unloaded cone readings be checked, and what loading, temperature and immersion conditions apply? Retrieve the Vietnamese evidence."
+    },
+    {
+      "query_id": "VI-05",
+      "pair_id": "VI-05",
+      "source_language": "vi",
+      "language": "en",
+      "query": "When applying TCVN 9846:2013, which document is referenced for penetration rate, and what rate does that referenced document actually require? What depth interval is specified for CPTu data acquisition? Retrieve the complete Vietnamese evidence chain."
+    },
+    {
+      "query_id": "PT-01",
+      "pair_id": "PT-01",
+      "source_language": "pt",
+      "language": "pt",
+      "query": "Segundo a ABGE 110/2024, para que se utiliza o CPTu e quais grandezas o ensaio fornece? Recupere o texto original em português."
+    },
+    {
+      "query_id": "PT-02",
+      "pair_id": "PT-02",
+      "source_language": "pt",
+      "language": "pt",
+      "query": "Na ABGE 110/2024, quais requisitos tratam da velocidade, intervalo de leitura, posição e saturação do elemento poroso e prevenção da dessaturação durante o CPTu? Recupere os trechos em português."
+    },
+    {
+      "query_id": "PT-03",
+      "pair_id": "PT-03",
+      "source_language": "pt",
+      "language": "pt",
+      "query": "Segundo a ABGE 110/2024, qual critério de dissipação pode ser adotado e quais situações encerram o CPTu? Recupere a orientação original em português."
+    },
+    {
+      "query_id": "PT-04",
+      "pair_id": "PT-04",
+      "source_language": "pt",
+      "language": "pt",
+      "query": "Segundo a ABGE 110/2024, o que o relatório final do CPTu deve apresentar quanto à identificação, equipamentos, gráficos, limitações e responsabilidade profissional? Recupere o texto em português."
+    },
+    {
+      "query_id": "PT-05",
+      "pair_id": "PT-05",
+      "source_language": "pt",
+      "language": "pt",
+      "query": "Para estimar Su de argilas moles por CPTu, que orientação a DNIT 381/2022–PRO dá sobre correção da resistência, equipamentos não aceitos e calibração de Nkt? Recupere o original em português."
+    },
+    {
+      "query_id": "PT-01",
+      "pair_id": "PT-01",
+      "source_language": "pt",
+      "language": "en",
+      "query": "According to ABGE 110/2024, what is CPTu used for and what quantities does it provide? Retrieve the Portuguese original."
+    },
+    {
+      "query_id": "PT-02",
+      "pair_id": "PT-02",
+      "source_language": "pt",
+      "language": "en",
+      "query": "Under ABGE 110/2024, what requirements address penetration rate, reading interval, porous-element position and saturation, and prevention of desaturation during CPTu? Retrieve the Portuguese passages."
+    },
+    {
+      "query_id": "PT-03",
+      "pair_id": "PT-03",
+      "source_language": "pt",
+      "language": "en",
+      "query": "Under ABGE 110/2024, what dissipation criterion may be used and what situations terminate CPTu? Retrieve the Portuguese original guidance."
+    },
+    {
+      "query_id": "PT-04",
+      "pair_id": "PT-04",
+      "source_language": "pt",
+      "language": "en",
+      "query": "Under ABGE 110/2024, what must the final CPTu report contain regarding identification, equipment, plots, limitations and professional responsibility? Retrieve the Portuguese text."
+    },
+    {
+      "query_id": "PT-05",
+      "pair_id": "PT-05",
+      "source_language": "pt",
+      "language": "en",
+      "query": "For estimating Su of soft clays using CPTu, what does DNIT 381/2022–PRO say about resistance correction, unacceptable equipment and calibration of Nkt? Retrieve the Portuguese original."
+    },
+    {
+      "query_id": "ES-01",
+      "pair_id": "ES-01",
+      "source_language": "es",
+      "language": "es",
+      "query": "Según el Manual de Diseño de Cimentaciones del INVIAS, ¿cómo se ejecuta el CPT y qué diferencia hay entre el avance discontinuo y los equipos automáticos continuos? Recupere el original en español."
+    },
+    {
+      "query_id": "ES-02",
+      "pair_id": "ES-02",
+      "source_language": "es",
+      "language": "es",
+      "query": "En el Manual de Cimentaciones del INVIAS, ¿qué registra el CPTU durante la hinca y al detenerse, y para qué problemas de suelos blandos o drenaje resulta útil? Recupere los pasajes en español."
+    },
+    {
+      "query_id": "ES-03",
+      "pair_id": "ES-03",
+      "source_language": "es",
+      "language": "es",
+      "query": "Según el Manual de Cimentaciones del INVIAS, ¿dónde está el geófono del SCPTU, qué ondas detecta y a qué intervalos se hacen las mediciones? Recupere el original en español."
+    },
+    {
+      "query_id": "ES-04",
+      "pair_id": "ES-04",
+      "source_language": "es",
+      "language": "es",
+      "query": "¿Qué información sobre resistencia, tipo de suelo y compresibilidad permite obtener la interpretación del CPT en el Manual de Cimentaciones del INVIAS, y qué cautela expresa sobre la normativa de interpretación del CPTU? Recupere las fuentes en español."
+    },
+    {
+      "query_id": "ES-05",
+      "pair_id": "ES-05",
+      "source_language": "es",
+      "language": "es",
+      "query": "Según el Manual de Cimentaciones del INVIAS, ¿por qué se prefieren ensayos in situ para ciertos parámetros y qué función complementaria conservan los ensayos de laboratorio? Recupere los pasajes originales en español."
+    },
+    {
+      "query_id": "ES-01",
+      "pair_id": "ES-01",
+      "source_language": "es",
+      "language": "en",
+      "query": "According to the INVIAS foundation-design manual, how is CPT performed and how does discontinuous penetration differ from automatic continuous equipment? Retrieve the Spanish original."
+    },
+    {
+      "query_id": "ES-02",
+      "pair_id": "ES-02",
+      "source_language": "es",
+      "language": "en",
+      "query": "In the INVIAS foundation manual, what does CPTU record during penetration and after stopping, and for what soft-soil or drainage problems is it useful? Retrieve the Spanish passages."
+    },
+    {
+      "query_id": "ES-03",
+      "pair_id": "ES-03",
+      "source_language": "es",
+      "language": "en",
+      "query": "According to the INVIAS foundation manual, where is the SCPTU geophone, what waves does it detect and at what intervals are measurements made? Retrieve the Spanish original."
+    },
+    {
+      "query_id": "ES-04",
+      "pair_id": "ES-04",
+      "source_language": "es",
+      "language": "en",
+      "query": "What information about strength, soil type and compressibility can CPT interpretation provide in the INVIAS foundation manual, and what caution is stated about CPTU interpretation standards? Retrieve the Spanish evidence."
+    },
+    {
+      "query_id": "ES-05",
+      "pair_id": "ES-05",
+      "source_language": "es",
+      "language": "en",
+      "query": "According to the INVIAS foundation manual, why are in-situ tests preferred for certain parameters and what complementary role remains for laboratory testing? Retrieve the Spanish original passages."
+    },
+    {
+      "query_id": "NO-01",
+      "pair_id": "NO-01",
+      "source_language": "no",
+      "language": "no",
+      "query": "Hva sier N-V220:2025 om begrensninger ved CPTU i faste og steinrike lag, behovet for forboring og påvisning av bergoverflate? Finn den norske originalteksten."
+    },
+    {
+      "query_id": "NO-02",
+      "pair_id": "NO-02",
+      "source_language": "no",
+      "language": "no",
+      "query": "Ifølge N-V220:2025, hvordan kombineres uforstyrret prøvetaking og trykksondering for å bestemme styrke, deformasjonsegenskaper og lagdeling? Finn norsk dokumentasjon."
+    },
+    {
+      "query_id": "NO-03",
+      "pair_id": "NO-03",
+      "source_language": "no",
+      "language": "no",
+      "query": "Ved mistanke om kvikkleire, hvilken rolle har CPTU i N-V220:2025, og hva kreves for sikker påvisning? Finn også anbefalingen om prøveserier i den norske teksten."
+    },
+    {
+      "query_id": "NO-04",
+      "pair_id": "NO-04",
+      "source_language": "no",
+      "language": "no",
+      "query": "Hvilken veiledning gir N-V220:2025 om geotekniske undersøkelser i sjø, valg av flåte eller fartøy og behov ved værutsatt sjø? Finn norsk originaltekst."
+    },
+    {
+      "query_id": "NO-05",
+      "pair_id": "NO-05",
+      "source_language": "no",
+      "language": "no",
+      "query": "I N-V220:2025, hvordan defineres CPTU-faktorene Nkt og NΔu, hvilke målinger er u2, u0 og qt, og under hvilke leirforhold omtales samsvar mellom laboratorie- og feltstyrke? Finn norsk originaltekst."
+    },
+    {
+      "query_id": "NO-01",
+      "pair_id": "NO-01",
+      "source_language": "no",
+      "language": "en",
+      "query": "What does N-V220:2025 say about CPTU limitations in hard and stony layers, predrilling and identifying bedrock? Retrieve the Norwegian original."
+    },
+    {
+      "query_id": "NO-02",
+      "pair_id": "NO-02",
+      "source_language": "no",
+      "language": "en",
+      "query": "According to N-V220:2025, how are undisturbed sampling and CPT combined to determine strength, deformation properties and stratification? Retrieve the Norwegian evidence."
+    },
+    {
+      "query_id": "NO-03",
+      "pair_id": "NO-03",
+      "source_language": "no",
+      "language": "en",
+      "query": "When quick clay is suspected, what role does CPTU have in N-V220:2025 and what is required for certain identification? Also retrieve its recommendation on sample series in the Norwegian text."
+    },
+    {
+      "query_id": "NO-04",
+      "pair_id": "NO-04",
+      "source_language": "no",
+      "language": "en",
+      "query": "What guidance does N-V220:2025 provide for geotechnical investigation at sea, selecting a raft or vessel, and requirements in exposed offshore conditions? Retrieve the Norwegian original."
+    },
+    {
+      "query_id": "NO-05",
+      "pair_id": "NO-05",
+      "source_language": "no",
+      "language": "en",
+      "query": "In N-V220:2025, how are the CPTU factors Nkt and NΔu defined, what measurements are u2, u0 and qt, and under what clay conditions is agreement between laboratory and field strength discussed? Retrieve the Norwegian original."
+    },
+    {
+      "query_id": "SV-01",
+      "pair_id": "SV-01",
+      "source_language": "sv",
+      "language": "sv",
+      "query": "Enligt SGF Rapport 1:2013, vad skiljer CPT från CPTU och var mäts portrycket vanligen i Sverige? Hämta den svenska originaltexten."
+    },
+    {
+      "query_id": "SV-02",
+      "pair_id": "SV-02",
+      "source_language": "sv",
+      "language": "sv",
+      "query": "Vilka krav ställer SGF Rapport 1:2013 på sondstängernas rakhet, nedpressningshastighet och utrustningens vertikalitet? Hämta den svenska texten."
+    },
+    {
+      "query_id": "SV-03",
+      "pair_id": "SV-03",
+      "source_language": "sv",
+      "language": "sv",
+      "query": "Enligt SGF Rapport 1:2013, vad är målet med vätskemättning av CPTU-spetsen, när väljs glycerin och hur förbereds filter med vatten? Hämta de svenska instruktionerna."
+    },
+    {
+      "query_id": "SV-04",
+      "pair_id": "SV-04",
+      "source_language": "sv",
+      "language": "sv",
+      "query": "Enligt SGF Rapport 1:2013, vad bör kalibreras vid leverans av en ny CPT-sond, hur ofta upprepas kalibrering och vad gäller efter reparation eller under långa projekt? Hämta svenska originalpassager."
+    },
+    {
+      "query_id": "SV-05",
+      "pair_id": "SV-05",
+      "source_language": "sv",
+      "language": "sv",
+      "query": "I SGF Rapport 1:2013, hur får resultat från användningsklass 4 användas och går det att utvärdera jordparametrar eller krävs lutningsmätning? Hämta den svenska beskrivningen."
+    },
+    {
+      "query_id": "SV-01",
+      "pair_id": "SV-01",
+      "source_language": "sv",
+      "language": "en",
+      "query": "According to SGF Rapport 1:2013, what distinguishes CPT from CPTU and where is pore pressure normally measured in Sweden? Retrieve the Swedish original."
+    },
+    {
+      "query_id": "SV-02",
+      "pair_id": "SV-02",
+      "source_language": "sv",
+      "language": "en",
+      "query": "What requirements does SGF Rapport 1:2013 set for rod straightness, pushing rate and equipment verticality? Retrieve the Swedish text."
+    },
+    {
+      "query_id": "SV-03",
+      "pair_id": "SV-03",
+      "source_language": "sv",
+      "language": "en",
+      "query": "According to SGF Rapport 1:2013, what is the objective of CPTU saturation, when is glycerin selected, and how are filters prepared with water? Retrieve the Swedish instructions."
+    },
+    {
+      "query_id": "SV-04",
+      "pair_id": "SV-04",
+      "source_language": "sv",
+      "language": "en",
+      "query": "According to SGF Rapport 1:2013, what should be calibrated when a new CPT probe is delivered, how often is calibration repeated, and what applies after repairs or during long projects? Retrieve the Swedish original passages."
+    },
+    {
+      "query_id": "SV-05",
+      "pair_id": "SV-05",
+      "source_language": "sv",
+      "language": "en",
+      "query": "In SGF Rapport 1:2013, what may application-class-4 results be used for, can soil parameters be evaluated, and is inclination measurement required? Retrieve the Swedish description."
+    }
+  ]
+}

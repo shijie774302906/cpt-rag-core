@@ -1,0 +1,704 @@
+{
+  "sources": [
+    {
+      "source_id": "DOC-001",
+      "title": "Engineering characterisation of Norwegian glaciomarine silt",
+      "year": 2010,
+      "source_sha256": "0e6f3bca71718f0b8e26eeaee6e7beca46fce87647f73bab33bb364cb7d0c029",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-002",
+      "title": "Localization patterns emerging in CPTu tests in a saturated natural clay soil",
+      "year": 2024,
+      "source_sha256": "52a0ff0ce976066bb47260031c14f9816e3edd718eb53c6dc9a17f46f88bf395",
+      "physical_page_count": 21
+    },
+    {
+      "source_id": "DOC-004",
+      "title": "Halden research site: geotechnical characterization of a post glacial silt",
+      "year": 2019,
+      "source_sha256": "dfb99e595d66fd48f5da836b6af93fc9534cd06d417fd8d61fd7db558837ddaf",
+      "physical_page_count": 51
+    },
+    {
+      "source_id": "DOC-007",
+      "title": "Estimation of Undrained Shear Strength of Soil from CPTu Data",
+      "year": 2024,
+      "source_sha256": "75d32a9ac58a68b8e66df507564eda281751bcbd9cdeb83f6dfbc4b50b3464cb",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-008",
+      "title": "Interpretation of Piezocone Penetration and Dissipation Tests in Sensitive Leda Clay at Gloucester Test Site",
+      "year": 2018,
+      "source_sha256": "9445d9754ee9da07d9ad43b8988a796b87a9bad8ee45e91a4c929bcfb58a1fa3",
+      "physical_page_count": 45
+    },
+    {
+      "source_id": "DOC-010",
+      "title": "Basic soil properties from CPT in Bangkok clay for highway design",
+      "year": 2010,
+      "source_sha256": "090ed039d21a5586355ce27b26cd45d39fe398b5332517420a69cf4370e686cd",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-013",
+      "title": "Evaluation of Soil Strength from Variable Rate CPTU Tests in Silt",
+      "year": 2022,
+      "source_sha256": "8828a6525ace2a36f760ff691e8f4e7afd440692869a8ef970306e608c40b4e4",
+      "physical_page_count": 19
+    },
+    {
+      "source_id": "DOC-014",
+      "title": "Estimation of the undrained shear strength of Adapazari fine grained soils by cone penetration test",
+      "year": 2019,
+      "source_sha256": "7bb1acdcb233a305d741fcf950bb3c03400cd0976a42a5269f6bbd736e2072e5",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-015",
+      "title": "Using Piezocone Dissipation Test to Estimate the Undrained Shear Strength (su), Nkt and NΔu Factors in Cohesive Soils",
+      "year": 2019,
+      "source_sha256": "31bd78ee09ebe85be2422e00261acc14a68b11c07d4b14e11bcc1caefa68d628",
+      "physical_page_count": 9
+    },
+    {
+      "source_id": "DOC-016",
+      "title": "Quantifying CPT cone factors in clays derived from weathered mudstone",
+      "year": 2023,
+      "source_sha256": "936c1cc145c8b1b5730121d087a57859309f9663013c01008dc1e1c9c739b68d",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-017",
+      "title": "Interpretation and Correlation of CPTu and Vane Shear Tests for Very Soft Varved Silty Clays – A Case Study",
+      "year": 2015,
+      "source_sha256": "b9d5c5f1e9efa94d5c02924b0ae98d0e303b3dfb79c8454cccf08beeb3549719",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-020",
+      "title": "Correlations between CPT and FVT Results for Busan Clay",
+      "year": 2010,
+      "source_sha256": "0bea669198131475d436ac3b3fb64cc0380d345fc16fa2d0ffd8f6ec50736a19",
+      "physical_page_count": 16
+    },
+    {
+      "source_id": "DOC-021",
+      "title": "CPTU correlations for clays",
+      "year": 2005,
+      "source_sha256": "0cf019c94a0cd5abf44cbb289183e823b52965853efbd9b9563e5c55594f15d6",
+      "physical_page_count": 10
+    },
+    {
+      "source_id": "DOC-022",
+      "title": "CPTU技术在黏性土不排水抗剪强度计算中的应用研究",
+      "year": 2019,
+      "source_sha256": "7beb770ae04d718e71569b5a815468d731cbe6346e349ec97bae030517fb6940",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-023",
+      "title": "Evaluation of the undrained shear strength of Champlain Sea clays (Leda clay) in Ottawa using CPT",
+      "year": 2015,
+      "source_sha256": "326c372688093e227230431eced13f718185f5e86bcdaa504849d253f55b53f2",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-024",
+      "title": "Determination of soft clay parameters from CPTU tests, the FINCONE test sites revisited",
+      "year": 2026,
+      "source_sha256": "abeac3f0d76875d34f317a5658277c829ab78ed67cce803f650a1b1b2fa260ec",
+      "physical_page_count": 18
+    },
+    {
+      "source_id": "DOC-028",
+      "title": "Evaluation of undrained shear strength of marine clay using cone penetration resistance at South Pars field in Iran",
+      "year": 2012,
+      "source_sha256": "066b12b42b16ea4f842861f6d75f93159ae3144e9d1e6b4333e0533dea9077dd",
+      "physical_page_count": 14
+    },
+    {
+      "source_id": "DOC-030",
+      "title": "Factors influencing CPTU Nkt for marine clay in Singapore reclaimed land",
+      "year": 2022,
+      "source_sha256": "b4defab9b94152ed290effe16f72153a8ecbb0d0ada0a6c854e13e461da4fa4f",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-032",
+      "title": "基于CPTU的广东海域黏土工程特性评价",
+      "year": 2021,
+      "source_sha256": "cb16791d0add8e999bfadaf71b072fa254d1eec83c31b77c2712b0a8542ef7f4",
+      "physical_page_count": 12
+    },
+    {
+      "source_id": "DOC-034",
+      "title": "Probabilistic analysis of gyttja undrained strength from CPTU data for slope stability analysis",
+      "year": 2022,
+      "source_sha256": "a39f2b29d8cfbb22b6121d6ea20a454a554219b1ec3689a5559157c58c568a21",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-035",
+      "title": "Evaluation of undrained shear strength of Busan clay using CPT",
+      "year": 2010,
+      "source_sha256": "461e7c6bcce69cd72368406fc2ca51acb843523db605a00a25268cf410e5b8c5",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-037",
+      "title": "Site Characterization of Laut Island Marine Clay in South Kalimantan using CPTu",
+      "year": 2024,
+      "source_sha256": "64bac1f5cb2bb8510ca110b3bb4d3896e6e18cc6f72e88ff5a5d387e2269831a",
+      "physical_page_count": 9
+    },
+    {
+      "source_id": "DOC-039",
+      "title": "Estimating clay undrained shear strength using CPTu results",
+      "year": 2009,
+      "source_sha256": "10c81ce81960d37d0faddcc541f4cfba5b528d43f7496ed3776029c3ff192e0f",
+      "physical_page_count": 9
+    },
+    {
+      "source_id": "DOC-043",
+      "title": "The Tiller-Flotten research site: Geotechnical characterization of a very sensitive clay deposit",
+      "year": 2019,
+      "source_sha256": "3f8a50d8595dc7a4f967457514061aebfa4a29e9729a5060502418def2d74ecc",
+      "physical_page_count": 37
+    },
+    {
+      "source_id": "DOC-050",
+      "title": "Analytical CPTU Models Applied to Sensitive Clay at Dover, New Hampshire",
+      "year": 2020,
+      "source_sha256": "d6e4d2ebdbf9c0fb5a90e4441945e6026e5d97df6bc2feed908cb707ea25de09",
+      "physical_page_count": 13
+    },
+    {
+      "source_id": "DOC-051",
+      "title": "Application of two analytical CPTU solutions to sensitive clay in Québec",
+      "year": 2024,
+      "source_sha256": "5b11634326b5f7d7529ef766720303fe159acc734d5f5771bd87f2bc6c77f958",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-053",
+      "title": "Undrained shear strength of clays from piezocone tests: A database approach",
+      "year": 2022,
+      "source_sha256": "924cea27ff405a15d32b7df1cf0aa39ca1e38a492414b1afe0477b1699349f6f",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-056",
+      "title": "Undrained strength from CPTu in brittle soils: A numerical perspective",
+      "year": 2022,
+      "source_sha256": "54aab787ada6ac6eb4a0bf900f241d8ebc524d6a825f4c32a03cab8a9c2dc041",
+      "physical_page_count": 7
+    },
+    {
+      "source_id": "DOC-057",
+      "title": "Interrelationship between Undrained Shear Strength from DMT and CPTU Tests for Soils of Different Origin",
+      "year": 2018,
+      "source_sha256": "cfc7def7ec32a94a9bb65ff44f72a08277388416427142574699b1583bbadabd",
+      "physical_page_count": 12
+    },
+    {
+      "source_id": "DOC-058",
+      "title": "Evaluation on Partially Drained Strength of Silty Soil With Low Plasticity Using CPTU Data",
+      "year": 2017,
+      "source_sha256": "9f8af5d7abd38af433030440cf87aa92c47b7f32123a567f9ef7cbb1e50d771e",
+      "physical_page_count": 12
+    },
+    {
+      "source_id": "DOC-061",
+      "title": "Correlation of undrained shear strength and CPT resistance",
+      "year": 2013,
+      "source_sha256": "5a805cf628307c60d284658d9d86608a5c5ba2a54ed1c90ca82967b184e3557c",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-062",
+      "title": "Influence of hydrogeological conditions on estimation of undrained shear strength by CPTu tests: case study in a tropical soil",
+      "year": 2024,
+      "source_sha256": "54a5c43002bbcde0f2187766595c999ca59be9c165dbec3b4420d6b450a90a19",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-064",
+      "title": "CPTU correlations for Norwegian clays: an update",
+      "year": 2019,
+      "source_sha256": "183df18d6b55ac4e8e9822555bc70bb9f21e1ed110805043375ab884fb0bffc1",
+      "physical_page_count": 22
+    },
+    {
+      "source_id": "DOC-068",
+      "title": "Estimation of Undrained Strength and Soil Rigidity Index of Clays Using Penetration and Cavity Expansion",
+      "year": 2024,
+      "source_sha256": "bfcbe19e4cf27086bcb167b7460c68d8fcf70a047f02bc2af73e36070974b2eb",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-070",
+      "title": "台州滨海软黏土强度特性室内外联合标定",
+      "year": 2023,
+      "source_sha256": "2e19212919d36022998cc150144ff72c4aaa9b4245e2e4c51e6e64c8ce19b965",
+      "physical_page_count": 9
+    },
+    {
+      "source_id": "DOC-071",
+      "title": "基于CPTU与剪切波速测试的宁波海相黏土强度特性评价",
+      "year": 2018,
+      "source_sha256": "fe96c218da2480cd479db74a93d48c1b30addf5983c0fcbe2726f65a70ed3651",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-072",
+      "title": "基于CPTU的宁波黏性土不排水抗剪强度确定研究",
+      "year": 2016,
+      "source_sha256": "c0d7558dc653f701d899cdf0d9c0799d85d69860f2a6c784485ed4afc17dd106",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-073",
+      "title": "基于孔压静力触探的杭州湾海域软黏土强度解译参数研究",
+      "year": 2023,
+      "source_sha256": "3d7afea6ad876fee5ae79fb1feb9d0c833efe243163b8b86a8bff07074cc0260",
+      "physical_page_count": 12
+    },
+    {
+      "source_id": "DOC-092",
+      "title": "Calibration of Cone Factor in Cone Penetration Test for Evaluating the Undrained Shear Strength of Silty Clay",
+      "year": 2025,
+      "source_sha256": "8654e6ee9f93ef057a1222aea2917f595aadbae59ebabc947c275778802935ea",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-107",
+      "title": "Interpreting the Undrained Shear Strength of Soft Clays Using CPTu: Evaluation of Cone Bearing Factor (Nkt) and Related Practical Soil Parameters at Selected Sites in Western Java",
+      "year": 2026,
+      "source_sha256": "4c1fedf56190a02f70ef6beeb975607c4d5ece5d1b12131f9fbda6790cc67345",
+      "physical_page_count": 22
+    },
+    {
+      "source_id": "DOC-112",
+      "title": "A Novel Method for Estimating the Undrained Shear Strength of Marine Soil Based on CPTU Tests",
+      "year": 2024,
+      "source_sha256": "05995d1dfecb8d8b7a13aa6fe69a5ea8b1b3d9bb01d9b38c39c6018de18e29a5",
+      "physical_page_count": 14
+    },
+    {
+      "source_id": "DOC-114",
+      "title": "The Identification of the Uncertainty in Soil Strength Parameters Based on CPTu Measurements and Random Fields",
+      "year": 2021,
+      "source_sha256": "bd105b8d0a8385ca7909a6dd1d0637e6d435462cf522685376898dea239086bb",
+      "physical_page_count": 22
+    },
+    {
+      "source_id": "DOC-133",
+      "title": "Assessment of shear strength in silty soils",
+      "year": 2015,
+      "source_sha256": "4fd39fd3ebc42ad7344659937c1b58422ee143d1e6bde2af58f98c2b99bd2341",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-138",
+      "title": "Characterization and Shear Strength Evaluation of Sensitive Volcanic Residual Soils in West Java",
+      "year": 2026,
+      "source_sha256": "f65366c1482772c2314ed82bf8170cdd2fa1d3aa6431662a422012bb6eb22dd9",
+      "physical_page_count": 12
+    },
+    {
+      "source_id": "DOC-194",
+      "title": "CSi – a joint industry project into CPTUs in silty soils",
+      "year": 2022,
+      "source_sha256": "0a7b8732eed697888d6b73d9e38f3de53b1f28c83ec0dafacab2d6cb14ed4b91",
+      "physical_page_count": 7
+    },
+    {
+      "source_id": "DOC-256",
+      "title": "Combining NSP- and CPTu-based Nkt to evaluate undrained shear strength",
+      "year": 2023,
+      "source_sha256": "5767e19436129e6cf6b0f4f4891371e79f0c3013d0a22e647f83472f0c247959",
+      "physical_page_count": 28
+    },
+    {
+      "source_id": "DOC-260",
+      "title": "Cone factor from CPTU tests in very soft clays at the east of Mexico’s valley",
+      "year": 2022,
+      "source_sha256": "79b38ee33e1dfd4bd49b53b471b9006b1942138146690b97b391942163a50493",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-276",
+      "title": "Evaluating undrained shear strength and sensitivity in soft sensitive clay using piezocone and field vane tests",
+      "year": 2024,
+      "source_sha256": "51ddb08b29423d478cfe0ee06ab85e6bf438b54be5fce375e308d9e5f5bf887d",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-277",
+      "title": "Evaluation of stress history and undrained shear strength of three marine clays using semi-empirical methods based on Piezocone Test",
+      "year": 2022,
+      "source_sha256": "63bb35eaffb337459e7c6f8fdb51ad6724ca237bc746a547c8be6493b4cf0f0e",
+      "physical_page_count": 14
+    },
+    {
+      "source_id": "DOC-281",
+      "title": "Evaluation of CPTU Nkt cone factor for undrained strength of clays",
+      "year": 2018,
+      "source_sha256": "d82ff695a79408c4e4a2f8aaa4bee1a3c16a5981b9df8aff10cafde62baccc7d",
+      "physical_page_count": 7
+    },
+    {
+      "source_id": "DOC-003",
+      "title": "Analysis of Piezocone Penetration under Different Drainage Conditions with the Two-Phase Material Point Method",
+      "year": null,
+      "source_sha256": "0cfb27d65cbed02b49b1470fdf9440084ea084f006aa6690d1ff6b171681a417",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-005",
+      "title": "Characterization and engineering properties of the NGTS Onsøy soft clay site",
+      "year": null,
+      "source_sha256": "f726571c704c67064f9e016752f60a894c19c2d509bb16b646044818125b9706",
+      "physical_page_count": 39
+    },
+    {
+      "source_id": "DOC-009",
+      "title": "In-situ testing of Singapore marine clay at Changi",
+      "year": null,
+      "source_sha256": "c5ad0bf5214c0849897d9c2fadbcaa3facd71d3cce42b9d45068e3e2fdc015b0",
+      "physical_page_count": 20
+    },
+    {
+      "source_id": "DOC-012",
+      "title": "Consolidation parameters in silts from varied rate CPTU tests",
+      "year": null,
+      "source_sha256": "c8c4bda1aa16d08fc6f63821d6dc34208b5699eae131b606556d38501441852b",
+      "physical_page_count": 32
+    },
+    {
+      "source_id": "DOC-019",
+      "title": "Undrained Shear Strength from Field Vane Test on Busan Clay",
+      "year": null,
+      "source_sha256": "8bc72eebe302ab92cc04e96cfe93f1c239f63428962c1d8d293ac5919cf08294",
+      "physical_page_count": 14
+    },
+    {
+      "source_id": "DOC-033",
+      "title": "Characterisation and engineering properties of Tiller clay",
+      "year": null,
+      "source_sha256": "2f5ae24370553f08826248b970114570f9242fa2f0ac502d14437d0344cd84ac",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-038",
+      "title": "Site characterisation for the Ballina field testing facility",
+      "year": null,
+      "source_sha256": "0557264a721cbee198ff66fa187332cf582eb28e18ed081db8c1a8bbab97de25",
+      "physical_page_count": 22
+    },
+    {
+      "source_id": "DOC-044",
+      "title": "Evaluation of Undrained Shear Strength of Clay Using the CPTU Pore Pressure Method",
+      "year": null,
+      "source_sha256": "a70b1162e073bb1c189c1c4e99aa0d69f0455a652fa23790d6878314a49668ad",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-045",
+      "title": "Sample disturbance effects on medium plasticity clay/silt",
+      "year": null,
+      "source_sha256": "f9ee84734a9c23eefdcb2fab642f9d178cf5618572814d43004bec1e72010f90",
+      "physical_page_count": 13
+    },
+    {
+      "source_id": "DOC-046",
+      "title": "Characterization of Norwegian marine clays with combined shear wave velocity and piezocone cone penetration test (CPTU) data",
+      "year": null,
+      "source_sha256": "4e7ea624a4e61c0754421e2938101e3d82122ef3c332f3c685b39b9e98ec7828",
+      "physical_page_count": 10
+    },
+    {
+      "source_id": "DOC-047",
+      "title": "Engineering properties of low to medium overconsolidation ratio offshore clays",
+      "year": null,
+      "source_sha256": "e6945c5aaace4f33b1042d286c131f2bfe05bc06e250b3e8fa916a91fd7192ea",
+      "physical_page_count": 33
+    },
+    {
+      "source_id": "DOC-048",
+      "title": "Effects of sample disturbance and consolidation procedures on measured shear strength of soft marine Norwegian clays",
+      "year": null,
+      "source_sha256": "76c6d9f712e040f248c1211fc406d9ec484099ae0417532b88f4d1563491bebe",
+      "physical_page_count": 25
+    },
+    {
+      "source_id": "DOC-049",
+      "title": "Use of Norwegian National Test Sites to evaluate CPTU correlations embedded in software",
+      "year": null,
+      "source_sha256": "ba8a6ed75f29df3676cd36dd993835cb08cafffb729e810d31bd835a0a2e5d6b",
+      "physical_page_count": 37
+    },
+    {
+      "source_id": "DOC-054",
+      "title": "A cavity expansion–based solution for interpretation of CPTu data in soils under partially drained conditions",
+      "year": null,
+      "source_sha256": "9e98c38cd2b709ef971cf2dbedb81e57f55b909374d99188faf870075e049a30",
+      "physical_page_count": 24
+    },
+    {
+      "source_id": "DOC-055",
+      "title": "Cavity expansion-based interpretation of piezocone penetration test (CPTu) data in clays",
+      "year": null,
+      "source_sha256": "458588a3b7314c4ad6593647b9ec138c33aadeb475a8a950ae14bbe17f0a07aa",
+      "physical_page_count": 20
+    },
+    {
+      "source_id": "DOC-063",
+      "title": "Determining silt state from CPTu",
+      "year": null,
+      "source_sha256": "5754ee8bff272c1ad3bdfcf75aa7f325646b6a333170b47ae054c29cd91602a5",
+      "physical_page_count": 29
+    },
+    {
+      "source_id": "DOC-065",
+      "title": "The Ballina soft soil Field Testing Facility",
+      "year": null,
+      "source_sha256": "ec35e7d34090f133c47a162b8ef3343bd4563656eee393d25997d9a241c68baa",
+      "physical_page_count": 26
+    },
+    {
+      "source_id": "DOC-066",
+      "title": "An analytical study of the cone penetration test in clay",
+      "year": null,
+      "source_sha256": "1454e0d0a6c253144cd0160a6b566bf1cb921750a7a9c754733039b2b6602179",
+      "physical_page_count": 18
+    },
+    {
+      "source_id": "DOC-067",
+      "title": "Analysis of Cone Resistance: Review of Methods",
+      "year": null,
+      "source_sha256": "10886a36458fcf971f071ebea77c977e4a65862f3b78c0da24ec12c1d00e8377",
+      "physical_page_count": 10
+    },
+    {
+      "source_id": "DOC-069",
+      "title": "Ground characterisation for PISA pile testing and analysis",
+      "year": null,
+      "source_sha256": "f78d537ddfabe132c572309f2a04c7f4ce51473d78ad3a86ebebe4ebd47c0d91",
+      "physical_page_count": 16
+    },
+    {
+      "source_id": "DOC-076",
+      "title": "Pore Pressure Response and Dissipation of Piezocone Test in Shallow Silty Soil of Yellow River Delta",
+      "year": null,
+      "source_sha256": "dc8e974524904bfc0f51ee0460222f89bb466022035a6305d9438f61412c3478",
+      "physical_page_count": 14
+    },
+    {
+      "source_id": "DOC-083",
+      "title": "Bridging In Situ Testing and Constitutive Modelling: An Automated Approach to Soil Parameter Identification",
+      "year": null,
+      "source_sha256": "f21c274e0e468b1d96829481ae2590dd03f6687d1982373251937a6fa3317b4e",
+      "physical_page_count": 23
+    },
+    {
+      "source_id": "DOC-084",
+      "title": "Geotechnical Characterization of the Magdalena River Subsoil in Magangué, Colombia: A Study Using CPTu and SPT Tests",
+      "year": null,
+      "source_sha256": "580568aa7a668dac722f2fd7fead98a81c609a88b249334a6cc86c3a0e5b355e",
+      "physical_page_count": 22
+    },
+    {
+      "source_id": "DOC-101",
+      "title": "A Laboratory-Scale Miniature Piezocone Framework for Investigating Rate-Dependent Partial Drainage in Intermediate-Permeability Soils",
+      "year": null,
+      "source_sha256": "aa0dc36d04a9f6a7e556256acecc950b2eaf9b49ccd6ed10132776973ceb6989",
+      "physical_page_count": 31
+    },
+    {
+      "source_id": "DOC-129",
+      "title": "Variability of in situ test results from a coastal silt deposit in Finland",
+      "year": null,
+      "source_sha256": "fefecf8e2435f68e43798619febcc21412fa5f9b9f99b70bf455f3898a7b6fe1",
+      "physical_page_count": 23
+    },
+    {
+      "source_id": "DOC-131",
+      "title": "Characterisation of Spatial Variability of Lacustrine Clay via Penetrometer Tests: A Case Study from Southern Brazil",
+      "year": null,
+      "source_sha256": "87ddeb9d321474b5646439a95f17cfce7df9da752cf7d0d8f4386f5355fcec5c",
+      "physical_page_count": 35
+    },
+    {
+      "source_id": "DOC-134",
+      "title": "Determination of Geotechnical Parameters of a Heterogeneous Tropical Soil Deposit Through Different Penetration Rate CPTu Data",
+      "year": null,
+      "source_sha256": "7271ae2765f0900cc97a0225bbb3fd5e564a2bf1d97a314dfbd2d5eb00ac60d1",
+      "physical_page_count": 7
+    },
+    {
+      "source_id": "DOC-136",
+      "title": "The variation of large strain viscous rate effects from undrained triaxial element testing of Kaolin clay",
+      "year": null,
+      "source_sha256": "79ea8a7f4757b3ee1252d85a2d011dd63c92045b72cbb0cb14b229571d903031",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-143",
+      "title": "In Situ and Laboratory Testing of Boom Clay at Shallow Depths in Belgium",
+      "year": null,
+      "source_sha256": "fc44cb53451d3c0ec6f89a96211dc2376a2be89549584eda2da5cc050416171d",
+      "physical_page_count": 21
+    },
+    {
+      "source_id": "DOC-144",
+      "title": "Ongoing development of applications of the Cone Penetration Test in interpretation and design",
+      "year": null,
+      "source_sha256": "db78be424524909c0e2fe309d32ea65e242ef409a407caaeb3d8f3a44e40ec57",
+      "physical_page_count": 17
+    },
+    {
+      "source_id": "DOC-145",
+      "title": "Yield stress evaluation of Finnish clays based on analytical CPTu models",
+      "year": null,
+      "source_sha256": "21a75dcfef8887cc951dd366a4a59fdea37e8f3e9513b2176e797efef75f0680",
+      "physical_page_count": 38
+    },
+    {
+      "source_id": "DOC-146",
+      "title": "A probabilistic Bayesian methodology for the strain-rate correction of dynamic CPTu data",
+      "year": null,
+      "source_sha256": "8787ab8176c8dcc0e012e3c07666439e5b23bc0e95d44c206808ca1030b2a164",
+      "physical_page_count": 39
+    },
+    {
+      "source_id": "DOC-147",
+      "title": "Pore pressures induced by piezocone penetration",
+      "year": null,
+      "source_sha256": "03de4a5db8a237d5c94af6134ee4cbf6ea02bb09238473ddfb04550bac9a9b3f",
+      "physical_page_count": 40
+    },
+    {
+      "source_id": "DOC-148",
+      "title": "Hydraulic conductivity from CPTu on-the-fly: a numerical evaluation",
+      "year": null,
+      "source_sha256": "75bc277291c78951d5609cefb9d10e484f554c7d7ca1c82a2b1f5ca0c8346202",
+      "physical_page_count": 27
+    },
+    {
+      "source_id": "DOC-164",
+      "title": "Investigation and geotechnical characterization of Perniö clay, Finland",
+      "year": null,
+      "source_sha256": "0ff2577ac52200a4afa7487e4ae94d66041f819f4a0b1354aec6004d65a0a02e",
+      "physical_page_count": 26
+    },
+    {
+      "source_id": "DOC-167",
+      "title": "Interpretation of Piezocones in Silt, Using Cavity Expansion and Critical State Methods",
+      "year": null,
+      "source_sha256": "aa03aeb160993525f777c70ea605297de569d72e8ea47b9463cf40d07538e99b",
+      "physical_page_count": 9
+    },
+    {
+      "source_id": "DOC-168",
+      "title": "Quantitative assessment of tip saturation for high quality piezocone testing",
+      "year": null,
+      "source_sha256": "db2f4f2f6ba581dce37b9ad58c9756e3197e8a365b07c1ebb83b4d5104035b32",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-188",
+      "title": "Numerical study of viscous effects during CPTu",
+      "year": null,
+      "source_sha256": "45d56fac7a1a22521283be252893f29446585ae960d1e81a25f0f7ffc6b05825",
+      "physical_page_count": 5
+    },
+    {
+      "source_id": "DOC-191",
+      "title": "Analysis of CPTU data for the geotechnical characterization of intermediate sediments",
+      "year": null,
+      "source_sha256": "55edba17651d281a3a9c85846145d6bbed44c910010ba681623c2b76b188d33b",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-197",
+      "title": "The influence of soil structure on CPTu and SDMT results",
+      "year": null,
+      "source_sha256": "e6477d1f41a9ee52556c78b715f445bd960b472db7f831e0ff9c10ee817104ce",
+      "physical_page_count": 7
+    },
+    {
+      "source_id": "DOC-218",
+      "title": "Assessment and Verification of Correlations in CPTu Testing on the Example of Soil from the Wroclaw Surroundings (Poland)",
+      "year": null,
+      "source_sha256": "d93d43e3899f083aba9c9922bdbfb9de30294ebff380055a6d12999f3084e428",
+      "physical_page_count": 15
+    },
+    {
+      "source_id": "DOC-247",
+      "title": "Evaluation of Sleeve Friction Measurement in Soft Soils Using Rate Interface Tests Under Different Boundary Conditions",
+      "year": null,
+      "source_sha256": "98d9ced5d65ebddcbadbe36377761d421228c5c3b6a2fffe6128a72c67e8c862",
+      "physical_page_count": 51
+    },
+    {
+      "source_id": "DOC-255",
+      "title": "Partial drainage characteristics of intermediate soils with low plasticity from Incheon, Korea",
+      "year": null,
+      "source_sha256": "3824ab45ab76407a0b2583c32c949f49e8fa1e1baca4aa327e89fdeb697caef6",
+      "physical_page_count": 6
+    },
+    {
+      "source_id": "DOC-266",
+      "title": "In situ detection of sensitive clays – Part II: Results",
+      "year": null,
+      "source_sha256": "b9b7278f7a4b3de9b363963d87e524e7db0f02cad677c4eb8b653c21e9da00e5",
+      "physical_page_count": 10
+    },
+    {
+      "source_id": "DOC-269",
+      "title": "Penetration rate effects on cone resistance measured in a calibration chamber",
+      "year": null,
+      "source_sha256": "133a30cf11babab9078b07825b7a8e3ee8f0c7d6c14780bfe27e2bea33730e76",
+      "physical_page_count": 8
+    },
+    {
+      "source_id": "DOC-270",
+      "title": "A relation between undrained CPTu results and the state parameter for liquefiable soils",
+      "year": null,
+      "source_sha256": "30a2ef98ad15479c2c401e94cd4ec16ad90e3d00086b483a3018888b62fd6dad",
+      "physical_page_count": 39
+    },
+    {
+      "source_id": "DOC-278",
+      "title": "Insights from CPTu and Seismic Cone Penetration Testing in the Kathmandu Valley, Nepal",
+      "year": null,
+      "source_sha256": "6629e8d0a8e12e8a954863533306cb6cf3d3e3959eefe912337b1a3740bd2830",
+      "physical_page_count": 18
+    },
+    {
+      "source_id": "DOC-285",
+      "title": "Interpretation of cone penetration tests — a unified approach",
+      "year": null,
+      "source_sha256": "5779c45021a4cc9f1f431a4d8c5e3b30b13898035f691a940c6c735a2d986619",
+      "physical_page_count": 19
+    },
+    {
+      "source_id": "DOC-291",
+      "title": "Cylindrical cavity expansion analysis under partially drained conditions for normalisation of excess water pressure in CPTU",
+      "year": null,
+      "source_sha256": "203c4f877efbdce254b7b2b882a60f78b45a923ce148c62607ac90034e51f5c7",
+      "physical_page_count": 36
+    },
+    {
+      "source_id": "DOC-113",
+      "title": "Comparison of the Piezocone Penetrometer (CPTU) and Flat Dilatometer (DMT) Methods for Landslide Characterisation",
+      "year": null,
+      "source_sha256": "5577bcdd8928d25911fc8b126bf424ee1d22ad4879adc125814e20449bebb13e",
+      "physical_page_count": 23
+    }
+  ]
+}

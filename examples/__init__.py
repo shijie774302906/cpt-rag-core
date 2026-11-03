@@ -1,0 +1,1 @@
+"""Synthetic usage examples."""
